@@ -1,7 +1,26 @@
 {
  "source": {
   "page": "top-bags-lunkers-aoys-etc.html",
-  "copied": "2026-11-20"
+  "copied": "2026-11-20",
+  "changes": [
+   {
+    "date": "2026-11-20",
+    "list": "Top Bags on Nanticoke",
+    "added": [
+     "Steve Manista",
+     "11.94",
+     "11/7/2026"
+    ],
+    "place": 8,
+    "dropped_off_the_end": [
+     "Stephan Sirochman",
+     "11.6",
+     "4/22/2023"
+    ],
+    "why": "Found missing by the records check (records_check.md). Confirmed by Steve Weimar on 11/20/26: \"Manista's 11.94 is confirmed, add it to the list\". Matches the club's live records page as Loren updated it the same day (as reported by the session that compared the live page with the morning's copy; the live page was not read again here)."
+   }
+  ],
+  "note": "The lists as they stood on the old site when it was copied, plus the changes listed under \"changes\", each made by hand at the Tournament Director's word. tools/import_weebly.py will not overwrite this file while it holds changes."
  },
  "lists": [
   {
@@ -609,6 +628,11 @@
      "4/22/2023"
     ],
     [
+     "Steve Manista",
+     "11.94",
+     "11/7/2026"
+    ],
+    [
      "Paul Sirochman",
      "11.86",
      "4/25/2026"
@@ -617,11 +641,6 @@
      "Travis Nale",
      "11.64",
      "4/25/2026"
-    ],
-    [
-     "Stephan Sirochman",
-     "11.6",
-     "4/22/2023"
     ]
    ]
   },

@@ -228,6 +228,7 @@ def run(seasons, site):
             out['champions'].append({'year': year, 'what': 'Angler of the Year', 'site': listed_aoy, 'tables': None,
                                      'agree': None})
     out['site'] = lists
+    out['changes'] = site.get('source', {}).get('changes', [])
     return out
 
 
@@ -256,6 +257,16 @@ def write_report(path, res, today):
     add('- "Top Bass" is checked against the big-fish column of the tables. The 2020 tables have no such column, and an')
     add('  angler\'s big fish is in the table only if it was weighed, so that check is weaker than the bag check.')
     add('')
+    if res.get('changes'):
+        add('## Changes made to the club\'s lists since the copy')
+        add('')
+        add('Made by hand in `data/records_site.json`, each at the Tournament Director\'s word. The lists below are')
+        add('compared as they now stand.')
+        add('')
+        for c in res['changes']:
+            add('- %s, %s: added %s in place %d; %s dropped off the end. %s' % (
+                c['date'], c['list'], ', '.join(c['added']), c['place'], ', '.join(c['dropped_off_the_end']), c['why']))
+        add('')
     add('## Summary')
     add('')
     add('| List | On the site | Confirmed in tables | Missing from the list | Differences | Not checkable |')

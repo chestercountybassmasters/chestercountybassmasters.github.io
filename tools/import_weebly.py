@@ -715,10 +715,20 @@ def main():
             report.append((series, year, season['results_form'], len(season['tournaments']), nres,
                            len(season['standings']), sum(len(s['rows']) for s in season['standings']),
                            len(season['pictures'])))
-    rec = import_records(source)
-    with open(os.path.join(ROOT, 'data', 'records_site.json'), 'w', encoding='utf-8') as f:
-        json.dump(rec, f, indent=1, ensure_ascii=False)
-        f.write('\n')
+    # The record lists are changed by hand when the Tournament Director confirms a record
+    # (each change is listed in the file under source.changes). Never write over those.
+    rec_path = os.path.join(ROOT, 'data', 'records_site.json')
+    kept = None
+    if os.path.isfile(rec_path):
+        with open(rec_path, encoding='utf-8') as f:
+            kept = json.load(f).get('source', {}).get('changes')
+    if kept:
+        print('data/records_site.json holds %d change(s) made by hand; left as it is.' % len(kept))
+    else:
+        rec = import_records(source)
+        with open(rec_path, 'w', encoding='utf-8') as f:
+            json.dump(rec, f, indent=1, ensure_ascii=False)
+            f.write('\n')
     pages = {'copied': SOURCE_DATE}
     for key, page in (('gallery', 'member-gallery.html'), ('links', 'sponsors--links.html'),
                       ('upper_bay', 'upper-bay-tournament-directors.html')):

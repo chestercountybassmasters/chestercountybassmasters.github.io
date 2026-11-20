@@ -15,13 +15,20 @@ anything below under "Missing" as an addition found by this check, for Steve to 
 - "Top Bass" is checked against the big-fish column of the tables. The 2020 tables have no such column, and an
   angler's big fish is in the table only if it was weighed, so that check is weaker than the bag check.
 
+## Changes made to the club's lists since the copy
+
+Made by hand in `data/records_site.json`, each at the Tournament Director's word. The lists below are
+compared as they now stand.
+
+- 2026-11-20, Top Bags on Nanticoke: added Steve Manista, 11.94, 11/7/2026 in place 8; Stephan Sirochman, 11.6, 4/22/2023 dropped off the end. Found missing by the records check (records_check.md). Confirmed by Steve Weimar on 11/20/26: "Manista's 11.94 is confirmed, add it to the list". Matches the club's live records page as Loren updated it the same day (as reported by the session that compared the live page with the morning's copy; the live page was not read again here).
+
 ## Summary
 
 | List | On the site | Confirmed in tables | Missing from the list | Differences | Not checkable |
 |---|---|---|---|---|---|
 | Top Bags | 10 | 2 | 0 | 0 | 8 |
 | Top Bags on North East | 10 | 3 | 0 | 0 | 7 |
-| Top Bags on Nanticoke | 10 | 7 | 1 | 0 | 3 |
+| Top Bags on Nanticoke | 10 | 7 | 0 | 0 | 3 |
 | Top Bags on Conowingo | 10 | 8 | 0 | 0 | 2 |
 | Top Bags on Marshyhope | 10 | 10 | 0 | 0 | 0 |
 | Top Bags on Sassafras | 10 | 2 | 0 | 0 | 8 |
@@ -30,7 +37,7 @@ anything below under "Missing" as an addition found by this check, for Steve to 
 | Top Bass | 10 | 0 | 0 | 0 | 10 |
 | Top Rider Bags | 10 | 4 | not checked | 0 | 6 |
 
-**1 missing entry found in all.**
+**0 missing entries found in all.**
 
 ## Top Bags
 
@@ -48,11 +55,7 @@ Not checkable (7): Stan Horne 21.49 on 5/26/2018; Lou Croce 20.08 on 5/26/2018; 
 
 ## Top Bags on Nanticoke
 
-**Missing from the list (in the tables, heavy enough for the first ten):**
-
-- Steve Manista, 11.94 lb, Nanticoke, 11/7/2026 — would be number 8. Source: `data/club/2026.json`, tournament `2026-11-07`.
-
-  With these added, the list would run past ten. Now on the list, would fall out of the first ten: Stephan Sirochman 11.6 (4/22/2023).
+No missing entry found in the table seasons.
 
 Confirmed in the tables: 7 of 10.
 Not checkable (3): Lou Croce 12.61 on 4/13/2019; Sam Montalto 12.59 on 4/21/2018; Stan Horne 12.49 on 5/20/2017.

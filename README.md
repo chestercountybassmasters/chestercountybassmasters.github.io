@@ -157,7 +157,11 @@ also works the top bags out from the table seasons and writes every difference t
 `records_check.md`. A bag the check finds that is not on a list is shown under
 that list in a cream box marked "Addition found by the records check", and is not
 a record until Steve confirms it. To accept one, add it to
-`data/records_site.json` by hand; the box then goes away by itself.
+`data/records_site.json` by hand and note it under `source.changes` there; the
+box then goes away by itself, and the importer will not write over the file.
+
+Done once so far: Steve Manista's 11.94 lb on the Nanticoke (11/7/2026), found by
+the check, confirmed by Steve on 20 November 2026 and added in eighth place.
 
 ## Not verified, and known gaps
 
