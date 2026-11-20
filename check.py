@@ -16,6 +16,11 @@
 4. House rules: no scripts, nothing loaded from another site except Google Fonts,
    a viewport line on every page, and the colour pairs in use have a contrast of
    at least 4.5 to 1.
+5. Every address inside the site is relative ("photos/logo.jpg"), never one that
+   starts with "/". GitHub Pages may serve the site under a sub-path
+   (https://<organization>.github.io/<repository>/), and there an address that
+   starts at the root of the host leads nowhere. The repository's name is not
+   written into any page either, for the same reason.
 
 Standard library only.
 """
@@ -213,8 +218,22 @@ def check_links():
             fail('%s: has no viewport line, so it will not fit a phone' % name)
         if re.search(r'\{\{[^}]*\}\}|<!--/?rows:', text):
             fail('%s: a template marker was left unfilled' % name)
+        # 5. no address that starts at the root of the host, on any tag
+        for attr, url in re.findall(r'\b(href|src|srcset|poster|action|data)\s*=\s*["\']([^"\']*)["\']', text, re.I):
+            for part in (url.split(',') if attr.lower() == 'srcset' else [url]):
+                part = html.unescape(part).strip()
+                if part.startswith('/') and not part.startswith('//'):
+                    fail('%s: the address %s starts with "/"; it must be relative, or it breaks when the site '
+                         'is served under a sub-path' % (name, part))
+        for url in re.findall(r'url\(\s*["\']?([^"\')]+)', text, re.I):
+            if url.startswith('/') and not url.startswith('//'):
+                fail('%s: the address %s in a style starts with "/"; it must be relative' % (name, url))
         for tag, attr, url in re.findall(r'<(a|img|link|source|iframe)\b[^>]*?\b(href|src)="([^"]*)"', text, re.I):
             url = html.unescape(url)
+            if url.startswith('/') and not url.startswith('//'):
+                continue          # already reported above
+            if url.startswith('//'):
+                url = 'https:' + url
             if re.match(r'^(mailto:|tel:)', url):
                 continue
             if re.match(r'^https?://', url):
@@ -252,8 +271,19 @@ def check_links():
         page = '%s-%s.html' % (series, year)
         if page not in from_results:
             fail('results.html has no link to %s' % page)
+    # the stylesheets too
+    for css in sorted(glob.glob(os.path.join(DOCS, '**', '*.css'), recursive=True)):
+        with open(css, encoding='utf-8') as f:
+            for url in re.findall(r'url\(\s*["\']?([^"\')]+)', f.read(), re.I):
+                rel = os.path.relpath(css, DOCS)
+                if url.startswith('/') and not url.startswith('//'):
+                    fail('%s: the address %s starts with "/"; it must be relative' % (rel, url))
+                elif not re.match(r'^(https?:)?//|^data:', url) and not os.path.isfile(
+                        os.path.join(os.path.dirname(css), url.split('?')[0].split('#')[0])):
+                    fail('%s: names %s, which does not exist' % (rel, url))
     notes.append('%d pages in docs/: every link and picture address leads somewhere (%d links go to other sites and were not followed).'
                  % (len(pages), external))
+    notes.append('Every address inside the site is relative: none starts with "/".')
 
 
 # ------------------------------------------------------------------ 4. colours

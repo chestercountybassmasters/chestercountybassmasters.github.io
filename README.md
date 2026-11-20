@@ -30,6 +30,14 @@ picture address leads nowhere, or if a house rule is broken (see the top of
 Python 3, standard library only. No scripts on the pages; the only thing loaded
 from another site is the two fonts from Google Fonts.
 
+Every address inside the site is relative (`photos/logo.jpg`), never one that
+starts with `/`, and no page names the repository. So the site works the same
+opened from the folder, served under a sub-path
+(`https://<organization>.github.io/<repository>/`) or served from the club's own
+domain. `check.py` fails if an address starting with `/` appears. All pages sit
+in one folder, which keeps this simple: do not move pages into sub-folders
+without changing how `build.py` writes addresses.
+
 ## What is where
 
 | Folder or file | What it holds | Who changes it |
