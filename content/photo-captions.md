@@ -4,7 +4,8 @@ Each block below is one place on the site where a photo shows.
 
   photo:    the file name of the picture in the photos folder
   shows:    a few words saying what is in the picture, for people who cannot see it
-  caption:  the words under the picture (only some places have a caption line)
+  caption:  the words under the picture (only some places have a caption line).
+            Leave it empty, with nothing after the colon, for no caption.
 
 To change a picture: put the new picture in the photos folder, then put its file
 name after "photo:" here. To change a caption, change the words after "caption:".
@@ -14,7 +15,7 @@ Words in [square brackets] are notes for us about what is still missing.
 Home page, the big photo at the top.
 photo: weighin-three.jpg
 shows: Three anglers holding up bass at a weigh-in
-caption: [Caption: which tournament, and who]
+caption:
 
 ## home-opens-1
 Home page, the Opens part, the large photo.

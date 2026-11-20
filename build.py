@@ -369,6 +369,7 @@ class Site:
             return 'src="photos/%s" alt="%s"' % (esc(s.get('photo', '')), esc(s.get('shows', '')))
         body = re.sub(r'\{\{photo:([^}]+)\}\}', photo, body)
         body = re.sub(r'\{\{caption:([^}]+)\}\}', lambda m: esc(self.slots.get(m.group(1), {}).get('caption', '')), body)
+        body = re.sub(r'<(figcaption|p)\b[^>]*></\1>\n?', '', body)     # an empty caption shows nothing
         mt = self.meeting
         when = mt.get('when', '')
         body = body.replace('{{meeting.sentence}}', esc('%s at %s.' % (when[:1].upper() + when[1:], mt.get('place', ''))))

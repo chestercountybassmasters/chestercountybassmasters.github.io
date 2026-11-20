@@ -49,13 +49,23 @@ main a[style*="padding: 8px 0"], main a[style*="padding: 10px 0"] { display: inl
 main td a, main li > a:first-child, main dd a { display: inline-flex; align-items: center; min-height: 44px; min-width: 44px; white-space: nowrap; }
 main p a { padding: 2px 0; }
 
-/* home page: the club logo as a round badge on the corner of the top photo. Its size and
-   place are written on the element in templates/home.html, like the rest of that page.
-   Here: when the photo drops below the words, the badge sits mostly above it, so it does
-   not cover a face. */
-@media (max-width: 960px) {
-  .hero-photo { margin-top: 30px !important; }
-  .hero-badge { top: -60px !important; width: 92px !important; }
+/* home page, top: words on the left, photo on the right, the two buttons under the words.
+   The bottom of the photo is level with the last line of the words above the buttons. */
+.hero { max-width: 1180px; margin: 0 auto; padding: 40px 24px 64px; display: grid;
+  grid-template-columns: calc(50% - 60px) minmax(0, 1fr); column-gap: 40px;
+  grid-template-areas: "text photo" "buttons ."; }
+.hero-text { grid-area: text; min-width: 0; }
+.hero-buttons { grid-area: buttons; margin-top: 30px; }
+.hero-photo { grid-area: photo; align-self: end; margin-bottom: 8px !important; min-width: 0; }
+.hero-photo figcaption { position: absolute; left: 0; top: 100%; }
+/* the club logo is a round badge on the photo, between the first two anglers. Its size and
+   place are written on the element in templates/home.html. On a narrow screen the photo
+   drops below the buttons, and the badge is smaller and sits mostly above the photo. */
+@media (max-width: 927px) {
+  .hero { grid-template-columns: minmax(0, 1fr); grid-template-areas: "text" "buttons" "photo"; }
+  .hero-photo { margin: 82px 0 0 !important; }
+  .hero-photo figcaption { position: static; }
+  .hero-badge { top: -14px !important; width: 100px !important; }
 }
 
 /* pages written by the build */
