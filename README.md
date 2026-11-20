@@ -1,16 +1,15 @@
 # Chester County Bass Masters — club website
 
-The new club website, as a set of plain pages that GitHub Pages can serve from
-the `docs/` folder. Started on 20 November 2026 from the first design and from
-the copy of the old Weebly site taken that day.
+The new club website, as a set of plain pages. Started on 20 November 2026 from
+the first design and from the copy of the old Weebly site taken that day.
 
 **Published from** the public repository
 `chestercountybassmasters/chestercountybassmasters.github.io` (first pushed on
 20 November 2026, at Steve's word). Its address is
 `https://chestercountybassmasters.github.io/` until the club's domain is pointed
-at it. GitHub Pages is to serve the `/docs` folder of `main` (repository
-Settings, Pages). **Nothing is pushed unless Steve says so**: a commit here is
-local until then.
+at it. GitHub rebuilds and publishes the site by itself each time something
+changes on `main` (see "Publishing"). **Nothing is pushed from this folder unless
+Steve says so**: a commit here is local until then.
 
 People who only change sponsors, captions, the meeting line, officers or the
 schedule: read [HOW_TO_UPDATE.md](HOW_TO_UPDATE.md). The rest of this page is for
@@ -30,7 +29,10 @@ python3 check.py
 
 fails, loudly, if the data differs from the old site's pages, if any link or
 picture address leads nowhere, or if a house rule is broken (see the top of
-`check.py`).
+`check.py`). Open `docs/index.html` in a browser to look at the site.
+
+`docs/` is not kept in the repository (it is in `.gitignore`). A fresh clone has
+none until `build.py` is run, and `check.py` says so if it is run first.
 
 ## Publishing
 
@@ -42,48 +44,42 @@ at a time. If the build or a check fails, nothing is published and the site stay
 as it was; GitHub e-mails whoever made the change.
 
 So a change made on the GitHub website to a file in `content/` (or a photo added
-to `photos/`) goes live by itself, with no one running the build.
+to `photos/`) goes live by itself, with no one running the build. The first run
+was on 20 November 2026 and took about a minute (as reported by the session that
+pushed it and watched it).
 
-**It needs one setting.** Repository Settings, Pages, "Build and deployment",
-Source: **GitHub Actions**. Until then the source is "Deploy from a branch"
-(`main`, `/docs`): the workflow's last step fails, and the site goes on being
-served from the `docs/` folder as committed.
+The repository's Pages setting is Source: **GitHub Actions** (Settings, Pages,
+"Build and deployment"; set by Steve on 20 November 2026).
 
-What the switch changes:
+**Decided by Steve, 20 November 2026: the built pages are not kept in the
+repository.** ("Stop keeping the built pages (docs) in the website repository?"
+"Yes, remove docs".) The site that is served is what the workflow builds from
+`content/`, `templates/`, `data/` and the rest; a committed `docs/` was no longer
+served and went out of date the first time someone edited a file on the GitHub
+website.
 
-- Before: the site is whatever `docs/` holds in the last push. Someone has to run
-  `build.py` and commit `docs/`, or the site does not change.
-- After: the site is what the workflow builds from `content/`, `templates/`,
-  `data/` and the rest. The `docs/` folder in the repository is no longer what is
-  served, and goes out of date the first time someone edits `content/` on the
-  GitHub website.
-
-**For Steve to decide after the switch:** should `docs/` stop being tracked in
-git? For: it would no longer be served, it would go stale and mislead, and it
-doubles every commit that touches a page. Against: with `docs/` tracked, switching
-the source back to "Deploy from a branch" is a one-click fallback if Actions ever
-gives trouble. It is tracked for now.
+What that costs: **there is no fallback to "Deploy from a branch" any more.** If
+GitHub Actions ever gives trouble, switching the Pages source back to a branch
+serves nothing useful, because the branch holds no built pages. To get that
+fallback back, take `docs/` out of `.gitignore`, run `build.py`, commit `docs/`
+and set the source to `main`, `/docs`. `build.py` still writes an empty
+`docs/.nojekyll` for that case: served from a branch, GitHub Pages runs Jekyll
+unless that file is there, and Jekyll leaves out every file whose name starts with
+`_` (337 of the old pictures do).
 
 GitHub's own machine has no access to the club's Drive, so there `check.py` cannot
 compare `data/` with the old site's pages. It prints a line starting `SKIPPED` for
 that one part and runs everything else: each season file against its own counts,
 every link and picture address (spelled letter for letter as the file is, since
 GitHub's servers tell capitals from small letters and a Mac does not), no address
-starting with `/`, `.nojekyll`, and contrast. The comparison with the old pages
-still runs on Steve's Mac, where it matters: when `data/` is changed by the
-importer. `python3 check.py --require-source` fails if the old pages are absent.
+starting with `/`, and contrast. The comparison with the old pages still runs on
+Steve's Mac, where it matters: when `data/` is changed by the importer.
+`python3 check.py --require-source` fails if the old pages are absent.
 
 The Pages upload leaves out files whose names start with a dot, so `.nojekyll` is
-not in what the workflow publishes; that is harmless, because a workflow publish
-does not run Jekyll (inferred from GitHub's documentation, not yet seen in a run).
-
-GitHub Pages runs Jekyll over what it serves unless the folder holds a file named
-`.nojekyll`, and Jekyll leaves out every file whose name starts with `_` (337 of
-the old pictures do). So `build.py` writes an empty `docs/.nojekyll` each time,
-and `check.py` fails if it is missing. The `.nojekyll` and `index.html` at the top
-of the repository are a safety net for the case where Pages is set to serve the
-top of the repository instead of `/docs`: the page there only sends the visitor
-on to `docs/index.html`. Open `docs/index.html` in a browser to look at the site.
+not in what the workflow publishes. That is harmless: a workflow publish does not
+run Jekyll (inferred from GitHub's documentation; the first run published, but
+whether the pictures named `_…` are served has not been looked at here).
 
 Python 3, standard library only. No scripts on the pages; the only thing loaded
 from another site is the two fonts from Google Fonts.
@@ -109,7 +105,7 @@ without changing how `build.py` writes addresses.
 | `files/` | The three PDFs the front pages link to | Replace a file to update it |
 | `assets/site.css` | The one stylesheet | |
 | `tools/` | The importer and helpers (below) | |
-| `docs/` | **The built site. Never edit it by hand: `build.py` writes it afresh each time.** | `build.py` |
+| `docs/` | The built site, on your own machine only: not in the repository. `build.py` writes it afresh each time. | `build.py` |
 | `records_check.md` | The records worked out from the data, against the club's lists | `build.py` |
 
 Pages built: the six front pages (`index`, `results`, `opens`, `club`, `records`,
@@ -244,9 +240,8 @@ Confirmed (a record or Steve said it), unless marked otherwise:
 - **Missing from both copies of the old site:** the full-size versions of the 14
   pictures on the 2011 club page (the page-size versions are there and are shown),
   and one picture on the 2013 club page.
-- **Size:** `archive/` is about 140 MB (848 pictures and PDFs), and `docs/` holds
-  a second copy, because the built site has to stand on its own. Git stores the
-  two copies once.
+- **Size:** `archive/` is about 140 MB (848 pictures and PDFs). The build copies
+  them into `docs/`, which is not kept in the repository.
 - The season picker on a season page lists every year, which is long on a phone.
 
 ## Tools

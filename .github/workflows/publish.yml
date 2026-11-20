@@ -6,8 +6,10 @@
 #                whoever made the change.
 #
 # It needs:      repository Settings -> Pages -> "Build and deployment" -> Source set to
-#                "GitHub Actions". With the source set to "Deploy from a branch", the last
-#                step fails and the site goes on being served from the docs/ folder on main.
+#                "GitHub Actions" (set by Steve on 20 November 2026).
+#
+# The built docs/ folder is not kept in the repository: it exists only on the machine that
+# runs build.py, here and on anyone's own computer.
 #
 # Versions of the actions and the permissions were taken from each action's own README
 # on 20 November 2026: actions/checkout v7, actions/upload-pages-artifact v5,

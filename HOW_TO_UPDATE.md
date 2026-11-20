@@ -53,7 +53,8 @@ failed. Every change is kept and can be undone.
 
 ## Please leave alone
 
-The `docs` folder is the finished site and is written by the build: a change made
-there is lost the next time it runs. The `data` folder holds the tournament
-results. Words in [square brackets] on the site mark things we have not filled in
+The `data` folder holds the tournament results, and the `templates`, `tools` and
+`.github` folders are how the site is built: please ask Steve before changing
+anything there. (The finished pages are not in the repository at all. GitHub
+builds them each time from the files that are.) Words in [square brackets] on the site mark things we have not filled in
 yet; replace the whole bracket, brackets included, when you have the real words.

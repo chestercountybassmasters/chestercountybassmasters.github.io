@@ -1,3 +1,6 @@
 .DS_Store
 __pycache__/
 *.pyc
+
+# The built site. build.py writes it; GitHub builds its own copy when it publishes.
+docs/

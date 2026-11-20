@@ -217,20 +217,10 @@ def check_links():
     if not pages:
         fail('docs/ holds no pages: run python3 build.py first')
         return
-    # GitHub Pages runs Jekyll unless this file is there, and Jekyll drops files named _something
+    # Only matters if docs/ is ever committed again and served straight from the branch: GitHub Pages
+    # then runs Jekyll unless this file is there, and Jekyll drops files named _something.
     if not os.path.isfile(os.path.join(DOCS, '.nojekyll')):
-        fail('docs/.nojekyll is missing: GitHub Pages would leave out every file whose name starts with "_"')
-    top = os.path.join(ROOT, 'index.html')
-    if os.path.isfile(top):
-        with open(top, encoding='utf-8') as f:
-            t = f.read()
-        if 'url=docs/index.html' not in t or not os.path.isfile(os.path.join(ROOT, '.nojekyll')):
-            fail('the index.html at the top of the repository must send the visitor to docs/index.html, '
-                 'and a .nojekyll must sit beside it')
-        for url in re.findall(r'\b(?:href|src)="([^"]*)"', t):
-            if url.startswith('/') or not os.path.isfile(os.path.join(ROOT, url)):
-                fail('index.html at the top of the repository: the address %s is not a relative address '
-                     'of a file that exists' % url)
+        fail('docs/.nojekyll is missing: build.py should have written it')
     ids, links = {}, {}
     external = 0
     # every file in docs/, spelled exactly as it is on disk. A Mac finds "Photo.JPG" when asked for
