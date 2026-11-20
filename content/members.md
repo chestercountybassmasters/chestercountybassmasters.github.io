@@ -11,10 +11,11 @@ To add a member, add a line. To take one off, delete the line. The order here
 is the order on the page.
 
 These lines were taken from the old site on 20 November 2026 as they were
-written there. Some are out of date (officer titles, boats).
+written there. The officer titles were brought up to date the same day; the
+boats may be out of date.
 
 - 3787669.jpg | Billy Allison | Boater Bass Cat Pantera 3 - 200 Merc Opti Handle: "PSUFAN"
-- 123365.jpg | Eli Amilani | CCBM President, Boater , BassCat Pantera IV, Optimax 200 Handle: "Eli"
+- 123365.jpg | Eli Amilani | CCBM President Consultant and Banking Director, Boater , BassCat Pantera IV, Optimax 200 Handle: "Eli"
 - jasonbailey.jpeg | Jason Bailey | Rider. Handle: Jhndrtxn
 - betchley.jpeg | Rob Betchley | Rider. 2019 Nitro Z21 / 250 Merc. Handle: rbetch
 - 4659791.jpg | Nick Biondi | Boater, 2003 Pantera IV , 200 Merc Optimax. Handle: nick b
@@ -27,7 +28,7 @@ written there. Some are out of date (officer titles, boats).
 - adam-2024.png | Adam Harkness | boater. Legend - Merc 250. Handle: adamh1007
 - 6014216.jpg | James "Woo" Hauck | Boater - 99 Stratos 201 Pro Elite DC 225 Evinrude, Handle: Woo
 - jchenry.jpg | JC Henry | Boater, Nitro. Handle: JC
-- stan-copy.jpg | Stan Horne | CCBM Secretary, Boater 2004 Bass Cat Pantera III Dual Console 200 Merc Optimax, 24 Tempest Plus Handle: "basscat7" 2012 CCBM AOY
+- stan-copy.jpg | Stan Horne | CCBM President, Boater 2004 Bass Cat Pantera III Dual Console 200 Merc Optimax, 24 Tempest Plus Handle: "basscat7" 2012 CCBM AOY
 - horning.jpg | Bob Horning | Boater. 2019 Ranger Z520C, 20 ft, Mercury Pro XS 250. Handle: Bobh
 - ken-jester-small.jpg | Ken Jester | Phoenix 921 Elite Handle: KJ
 - glenn.png | Glenn M. Kmecz | Boater, Ranger Z119 / 225 Mercury Pro XS Optimax. Handle: Glennk
@@ -35,7 +36,7 @@ written there. Some are out of date (officer titles, boats).
 - manista_1.jpg | Steve Manista | Boater, Bass Cat Puma. Handle: stevem
 - martinelli.jpg | Rich Martinelli | Rider. Handle: RJMfishing
 - meckle.jpeg | Loren Meckle | Boater: Ranger/20ft/200hp. Handle: Lunker79
-- 2169901.jpg | Sam Montalto | CCBM Vice President, Boater, BassCat Puma FTD, 250 Optimax. Handle: "Sam M"
+- 2169901.jpg | Sam Montalto | CCBM Secretary, Boater, BassCat Puma FTD, 250 Optimax. Handle: "Sam M"
 - chuck-nale-ccbm-haedshot.jpg | Chuck Nale | rider. Handle: Coach Chuck
 - travis.jpg | Travis Nale | Boater. Ranger (21ft) - Mercury 250. Handle: Naleone
 - paul-sirochman.jpg | Paul Sirochman | Boater, 21 ft. Crestliner "the tank" Honda 90. Handle: PaulS

@@ -163,7 +163,10 @@ Confirmed (a record or Steve said it), unless marked otherwise:
 - **As the old site had them, and partly out of date:** the lines in
   `content/members.md` (the member gallery). On the old site they showed when the
   mouse was over a photo; here they are words under each photo, so they can be
-  read on a phone. Three give officer titles that differ from `content/officers.md`.
+  read on a phone. Three officer titles in them were changed on 20 November 2026 to
+  match `content/officers.md` (Eli Amilani, Stan Horne, Sam Montalto), at Steve's
+  word; the boats have not been checked. Greg Arrowood, the Vice President, has
+  no photo in the gallery.
 - **Placeholders left in square brackets**, as in the design: photo captions,
   sponsor logos and "the rest of the list", 2027 club and Opens dates, the next
   meeting date, 2027 dues totals, 2027 Team Championship rules, how boat numbers
