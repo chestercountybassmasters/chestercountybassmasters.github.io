@@ -1,0 +1,5310 @@
+{
+ "series": "opens",
+ "year": 2021,
+ "source": {
+  "page": "2021-open-results.html",
+  "copied": "2026-11-20",
+  "sha256": "f9d55bdf0d6da7cfe0c95f3945db6755e6e58c272dbb9f9697e1a35c1aaeccd9",
+  "rows": {
+   "table_rows": 626,
+   "tournament_rows": 435,
+   "standings_rows": 185,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 6,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [
+  {
+   "title_lines": [
+    "CCBM",
+    "Team Tournament Results",
+    "6/12/2021 North East"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Team"
+    },
+    {
+     "role": "fish",
+     "label": "Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Mike Sentore-Sean McKee",
+     "fish": "5",
+     "weight": "21.69",
+     "big_fish": "4.89"
+    },
+    {
+     "place": "2",
+     "name": "Keith Cowan-Vince Melfi",
+     "fish": "5",
+     "weight": "20.92",
+     "big_fish": "6.09",
+     "extra": [
+      "Susquehanna Tackle 2nd Lunker"
+     ]
+    },
+    {
+     "place": "3",
+     "name": "Vincent Pustizzi-Jordan Sypeck",
+     "fish": "5",
+     "weight": "20.62",
+     "big_fish": "4.86"
+    },
+    {
+     "place": "4",
+     "name": "Chris Price-Jeff Semans",
+     "fish": "5",
+     "weight": "19.92",
+     "big_fish": "4.61"
+    },
+    {
+     "place": "5",
+     "name": "Mike Piccolo-Steve Bohn",
+     "fish": "5",
+     "weight": "19.85",
+     "big_fish": "5.07"
+    },
+    {
+     "place": "6",
+     "name": "Herb Weichmann-",
+     "fish": "5",
+     "weight": "19.46",
+     "big_fish": "5.89",
+     "extra": [
+      "Black Rifle Coffee 3rd Lunker"
+     ]
+    },
+    {
+     "place": "7",
+     "name": "Rick Ungahm-Rob Steiner",
+     "fish": "5",
+     "weight": "19.12",
+     "big_fish": "4.66"
+    },
+    {
+     "place": "8",
+     "name": "Douglas Reed-Hayden Reed",
+     "fish": "5",
+     "weight": "18.89",
+     "big_fish": "4.09"
+    },
+    {
+     "place": "9",
+     "name": "Victor Auriemma-Troy Bowings",
+     "fish": "5",
+     "weight": "18.58",
+     "big_fish": ""
+    },
+    {
+     "place": "10",
+     "name": "Terry Roberson-Andrew Chianese",
+     "fish": "5",
+     "weight": "18.49",
+     "big_fish": "5.32"
+    },
+    {
+     "place": "11",
+     "name": "John Vanore-Doug Becker",
+     "fish": "5",
+     "weight": "18.40",
+     "big_fish": "4.42"
+    },
+    {
+     "place": "12",
+     "name": "Matt Weber-Logan Beebe",
+     "fish": "5",
+     "weight": "17.93",
+     "big_fish": "5.52"
+    },
+    {
+     "place": "13",
+     "name": "Nate Golla-Wayne Golla",
+     "fish": "5",
+     "weight": "17.77",
+     "big_fish": "4.27"
+    },
+    {
+     "place": "14",
+     "name": "Michael Duarte-Matt Iman",
+     "fish": "5",
+     "weight": "17.77",
+     "big_fish": ""
+    },
+    {
+     "place": "15",
+     "name": "Chris Swearer-Corbin Gotwalt",
+     "fish": "5",
+     "weight": "17.44",
+     "big_fish": "3.85"
+    },
+    {
+     "place": "16",
+     "name": "Reno Regalbuto-Troy Polhamus",
+     "fish": "5",
+     "weight": "17.43",
+     "big_fish": "5.26"
+    },
+    {
+     "place": "17",
+     "name": "Devynn Brown-Jake Stuckey",
+     "fish": "5",
+     "weight": "17.35",
+     "big_fish": "6.31",
+     "extra": [
+      "Tx Lunker"
+     ]
+    },
+    {
+     "place": "18",
+     "name": "Jon Cuccinello-Logan Fitzpatrick",
+     "fish": "5",
+     "weight": "17.13",
+     "big_fish": "4.09"
+    },
+    {
+     "place": "19",
+     "name": "Chet Berkey-Chris Patton",
+     "fish": "5",
+     "weight": "17.01",
+     "big_fish": ""
+    },
+    {
+     "place": "20",
+     "name": "Jackson Staib-David Andrews",
+     "fish": "5",
+     "weight": "16.90",
+     "big_fish": "4.08"
+    },
+    {
+     "place": "21",
+     "name": "Jim Miller-Greg Staino",
+     "fish": "5",
+     "weight": "16.78",
+     "big_fish": "4.25"
+    },
+    {
+     "place": "22",
+     "name": "Tom Turner-Frank Arthur",
+     "fish": "5",
+     "weight": "16.65",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Todd Corry-Jon Pinkava",
+     "fish": "5",
+     "weight": "16.56",
+     "big_fish": ""
+    },
+    {
+     "place": "24",
+     "name": "Kevin Pownall-James Martin",
+     "fish": "5",
+     "weight": "16.51",
+     "big_fish": "5.03"
+    },
+    {
+     "place": "25",
+     "name": "Conor Cahill-Adam Satanoff",
+     "fish": "5",
+     "weight": "16.48",
+     "big_fish": "3.88"
+    },
+    {
+     "place": "26",
+     "name": "Steve Staley-Chuck Rohrbaugh",
+     "fish": "5",
+     "weight": "16.41",
+     "big_fish": "4.34"
+    },
+    {
+     "place": "27",
+     "name": "Mark Ely-Jerry Gerlach",
+     "fish": "5",
+     "weight": "16.39",
+     "big_fish": "3.96"
+    },
+    {
+     "place": "28",
+     "name": "Greg Zinni-Andrea Zinni",
+     "fish": "5",
+     "weight": "16.38",
+     "big_fish": "5.37"
+    },
+    {
+     "place": "29",
+     "name": "Steve Manista-Steve Weimar",
+     "fish": "5",
+     "weight": "16.36",
+     "big_fish": "4.40"
+    },
+    {
+     "place": "30",
+     "name": "Rob Willwerth-Jim Valentine",
+     "fish": "5",
+     "weight": "16.25",
+     "big_fish": "3.93"
+    },
+    {
+     "place": "31",
+     "name": "Andrew Heivly-Marc Heivly",
+     "fish": "5",
+     "weight": "16.24",
+     "big_fish": "4.18"
+    },
+    {
+     "place": "32",
+     "name": "Carl Walker-John Sellers",
+     "fish": "5",
+     "weight": "16.19",
+     "big_fish": ""
+    },
+    {
+     "place": "33",
+     "name": "David Keppler-Bryson Smith",
+     "fish": "5",
+     "weight": "16.13",
+     "big_fish": "5.44"
+    },
+    {
+     "place": "34",
+     "name": "Duke Nave-Steve Allender",
+     "fish": "5",
+     "weight": "15.96",
+     "big_fish": ""
+    },
+    {
+     "place": "35",
+     "name": "Jimmy Townsend-Marcus Griffin",
+     "fish": "5",
+     "weight": "15.75",
+     "big_fish": "3.41"
+    },
+    {
+     "place": "36",
+     "name": "Pablo Velazquez-Mike Phillips",
+     "fish": "5",
+     "weight": "15.66",
+     "big_fish": ""
+    },
+    {
+     "place": "37",
+     "name": "Harry Nurk-Nickcanestra",
+     "fish": "5",
+     "weight": "15.52",
+     "big_fish": "5.06"
+    },
+    {
+     "place": "38",
+     "name": "Jon Werner-Jody Werner",
+     "fish": "5",
+     "weight": "15.48",
+     "big_fish": ""
+    },
+    {
+     "place": "39",
+     "name": "Barry Potteiger-Adam Ivory",
+     "fish": "5",
+     "weight": "15.33",
+     "big_fish": ""
+    },
+    {
+     "place": "40",
+     "name": "Ed Donnelly-Chris Angelucci",
+     "fish": "5",
+     "weight": "15.25",
+     "big_fish": "4.26"
+    },
+    {
+     "place": "41",
+     "name": "Herb Geissler-Mike Adams",
+     "fish": "5",
+     "weight": "15.10",
+     "big_fish": ""
+    },
+    {
+     "place": "42",
+     "name": "Chad Everwine-Joe Ayala",
+     "fish": "5",
+     "weight": "14.96",
+     "big_fish": ""
+    },
+    {
+     "place": "43",
+     "name": "Dakota Snyder-Anthony Cicero",
+     "fish": "5",
+     "weight": "14.69",
+     "big_fish": ""
+    },
+    {
+     "place": "44",
+     "name": "Donnie Tomlin-Mark Weatherby",
+     "fish": "5",
+     "weight": "14.62",
+     "big_fish": ""
+    },
+    {
+     "place": "45",
+     "name": "Cody Edmunds-Brian Edmunds",
+     "fish": "5",
+     "weight": "14.52",
+     "big_fish": "3.70"
+    },
+    {
+     "place": "46",
+     "name": "Chase Weik-Jason Cavanaugh",
+     "fish": "5",
+     "weight": "14.45",
+     "big_fish": "4.34"
+    },
+    {
+     "place": "47",
+     "name": "Troy Rosenzweig-Brian Krout",
+     "fish": "5",
+     "weight": "14.43",
+     "big_fish": ""
+    },
+    {
+     "place": "47",
+     "name": "Steve Barber-Marco Dell",
+     "fish": "5",
+     "weight": "14.43",
+     "big_fish": ""
+    },
+    {
+     "place": "47",
+     "name": "Anthony Cicero-Josh Rand",
+     "fish": "5",
+     "weight": "14.33",
+     "big_fish": ""
+    },
+    {
+     "place": "50",
+     "name": "Bob Potts-Mike Potts",
+     "fish": "5",
+     "weight": "14.30",
+     "big_fish": "3.55"
+    },
+    {
+     "place": "51",
+     "name": "Dan Cornelius-Craig Cornelius",
+     "fish": "5",
+     "weight": "14.16",
+     "big_fish": ""
+    },
+    {
+     "place": "52",
+     "name": "Nick Lepone-Dj Fiori",
+     "fish": "5",
+     "weight": "14.12",
+     "big_fish": ""
+    },
+    {
+     "place": "53",
+     "name": "Barry Moore-Lamont Vernon",
+     "fish": "5",
+     "weight": "14.11",
+     "big_fish": ""
+    },
+    {
+     "place": "54",
+     "name": "Steve Bowman, Jr-Steve Bowman, Sr",
+     "fish": "5",
+     "weight": "13.96",
+     "big_fish": "3.54"
+    },
+    {
+     "place": "55",
+     "name": "Joe Morgan-Jason Reid",
+     "fish": "5",
+     "weight": "13.90",
+     "big_fish": ""
+    },
+    {
+     "place": "56",
+     "name": "Eddie Mort-Ty Scruggs",
+     "fish": "5",
+     "weight": "13.84",
+     "big_fish": ""
+    },
+    {
+     "place": "57",
+     "name": "Trent Cole-Kevin Olbrich",
+     "fish": "5",
+     "weight": "13.61",
+     "big_fish": ""
+    },
+    {
+     "place": "58",
+     "name": "Rich Stevens-Andy Jones",
+     "fish": "5",
+     "weight": "13.23",
+     "big_fish": ""
+    },
+    {
+     "place": "59",
+     "name": "Jim Tyson-Scott Thompson",
+     "fish": "5",
+     "weight": "13.13",
+     "big_fish": "3.11"
+    },
+    {
+     "place": "60",
+     "name": "Ricky Ewing-Brandon Riccio",
+     "fish": "5",
+     "weight": "13.05",
+     "big_fish": ""
+    },
+    {
+     "place": "61",
+     "name": "Sean Geerlof-Stan Horne",
+     "fish": "5",
+     "weight": "12.90",
+     "big_fish": ""
+    },
+    {
+     "place": "62",
+     "name": "Paul Sirochman-Dave Moluski",
+     "fish": "5",
+     "weight": "12.65",
+     "big_fish": ""
+    },
+    {
+     "place": "63",
+     "name": "Thomas Riccio",
+     "fish": "5",
+     "weight": "12.59",
+     "big_fish": ""
+    },
+    {
+     "place": "64",
+     "name": "Charles Leiphart-Ernest Leiphart",
+     "fish": "5",
+     "weight": "12.55",
+     "big_fish": ""
+    },
+    {
+     "place": "65",
+     "name": "Fran Pratt-Matt Pratt",
+     "fish": "5",
+     "weight": "12.51",
+     "big_fish": ""
+    },
+    {
+     "place": "66",
+     "name": "Joe Hunt-Braden Hunt",
+     "fish": "5",
+     "weight": "12.34",
+     "big_fish": ""
+    },
+    {
+     "place": "67",
+     "name": "John Baranik-Kenny Dixon",
+     "fish": "5",
+     "weight": "12.28",
+     "big_fish": "",
+     "extra": [
+      "Rhino Liners Smallest Limit"
+     ]
+    },
+    {
+     "place": "68",
+     "name": "Eric Osborne-Paul Sanders",
+     "fish": "4",
+     "weight": "10.81",
+     "big_fish": "3.47"
+    },
+    {
+     "place": "69",
+     "name": "Steven Hannah-Russ Wright",
+     "fish": "4",
+     "weight": "10.79",
+     "big_fish": ""
+    },
+    {
+     "place": "70",
+     "name": "Doug Miller-Evan Loe",
+     "fish": "4",
+     "weight": "10.65",
+     "big_fish": "3.46"
+    },
+    {
+     "place": "71",
+     "name": "Lou Croce-Jimm Pitcherello",
+     "fish": "3",
+     "weight": "10.31",
+     "big_fish": "4.35"
+    },
+    {
+     "place": "72",
+     "name": "Mike Cannon-Van Ludwick",
+     "fish": "4",
+     "weight": "9.94",
+     "big_fish": ""
+    },
+    {
+     "place": "73",
+     "name": "Travis Nale-Chuck Nale",
+     "fish": "4",
+     "weight": "9.10",
+     "big_fish": ""
+    },
+    {
+     "place": "74",
+     "name": "Pablo Velazquez, Sr-Mr Phillips",
+     "fish": "3",
+     "weight": "9.06",
+     "big_fish": "3.97"
+    },
+    {
+     "place": "75",
+     "name": "Sam Montalto-Jim (Woo) Hauck",
+     "fish": "3",
+     "weight": "9.05",
+     "big_fish": "3.63"
+    },
+    {
+     "place": "76",
+     "name": "Kyle Gilson-Kyle Gilson, Jr",
+     "fish": "3",
+     "weight": "8.48",
+     "big_fish": "3.12"
+    },
+    {
+     "place": "77",
+     "name": "Steve Zisk-Al Pavone",
+     "fish": "3",
+     "weight": "7.60",
+     "big_fish": ""
+    },
+    {
+     "place": "78",
+     "name": "Duane Essick-Jay Pirollo",
+     "fish": "3",
+     "weight": "7.30",
+     "big_fish": ""
+    },
+    {
+     "place": "79",
+     "name": "Jerry Hodge-Jerry Brooks",
+     "fish": "2",
+     "weight": "6.91",
+     "big_fish": "4.00"
+    },
+    {
+     "place": "80",
+     "name": "Greg Arrowood-Ryan Sweeney",
+     "fish": "2",
+     "weight": "4.89",
+     "big_fish": ""
+    },
+    {
+     "place": "81",
+     "name": "Bruce Reichart",
+     "fish": "2",
+     "weight": "4.83",
+     "big_fish": ""
+    },
+    {
+     "place": "82",
+     "name": "Tom Ledden-James Skidmore",
+     "fish": "2",
+     "weight": "4.49",
+     "big_fish": ""
+    },
+    {
+     "place": "83",
+     "name": "Mike Machmer-Ernie Demonia",
+     "fish": "2",
+     "weight": "4.00",
+     "big_fish": ""
+    },
+    {
+     "place": "84",
+     "name": "Stephan Sirochman-Jw Wade",
+     "fish": "1",
+     "weight": "3.46",
+     "big_fish": "3.46"
+    },
+    {
+     "place": "85",
+     "name": "George Waeckel-Tom Yaw",
+     "fish": "1",
+     "weight": "2.65",
+     "big_fish": ""
+    },
+    {
+     "place": "86",
+     "name": "Daniel Henson-Justin Henson",
+     "fish": "1",
+     "weight": "2.09",
+     "big_fish": ""
+    },
+    {
+     "place": "87",
+     "name": "Jonathan Bredbenner-Taylor Demyan",
+     "fish": "1",
+     "weight": "1.90",
+     "big_fish": ""
+    },
+    {
+     "place": "88",
+     "name": "Randy Bassler-Andrew Perry",
+     "fish": "",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "88",
+     "name": "Jason Basta-Dustin Basta",
+     "fish": "",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "88",
+     "name": "Joe Dellavalle-Jim Steiner",
+     "fish": "",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "88",
+     "name": "Scott Ivins-Jim Miller",
+     "fish": "",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "88",
+     "name": "Ed Kay-Karl Cambell",
+     "fish": "",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "88",
+     "name": "Austen Radecki-Robbie Wieder",
+     "fish": "",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "88",
+     "name": "Ray Saganich-Mike Saganich",
+     "fish": "",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "88",
+     "name": "Dominic Simone-Tom Pierce",
+     "fish": "",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "88",
+     "name": "Shawn Weil-Theron Andrews",
+     "fish": "",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "88",
+     "name": "Tom Wolverton-Mike Kearney",
+     "fish": "",
+     "weight": "",
+     "big_fish": ""
+    }
+   ],
+   "summary": [],
+   "notes": [],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 97,
+    "other": 0,
+    "blank": 2,
+    "table_rows": 103
+   },
+   "title": "6/12/2021 North East",
+   "dates": [
+    "2021-06-12"
+   ],
+   "waters": [
+    "North East"
+   ],
+   "id": "2021-06-12"
+  },
+  {
+   "title_lines": [
+    "CCBM Open Results",
+    "5/15/2021 North East"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Team"
+    },
+    {
+     "role": "fish",
+     "label": "Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Duane Essick-Jay Pirollo",
+     "fish": "5",
+     "weight": "21.74",
+     "big_fish": "7.09",
+     "name_as_written": "DUANE ESSICK-JAY PIROLLO",
+     "extra": [
+      "Tournament Lunker"
+     ]
+    },
+    {
+     "place": "2",
+     "name": "Donnie Tomlin-Mark Weatherby",
+     "fish": "5",
+     "weight": "20.90",
+     "big_fish": "6.25",
+     "name_as_written": "DONNIE TOMLIN-MARK WEATHERBY",
+     "extra": [
+      "Susquehanna Fishing Tackle - 2nd Lunker"
+     ]
+    },
+    {
+     "place": "3",
+     "name": "Joe Hunt-Braden Hunt",
+     "fish": "5",
+     "weight": "19.65",
+     "big_fish": "5.84",
+     "name_as_written": "JOE HUNT-BRADEN HUNT",
+     "extra": [
+      "Black Rifle Coffee - 3rd Lunker"
+     ]
+    },
+    {
+     "place": "4",
+     "name": "Bob Austin",
+     "fish": "5",
+     "weight": "19.14",
+     "big_fish": "4.32",
+     "name_as_written": "BOB AUSTIN"
+    },
+    {
+     "place": "5",
+     "name": "Andrew Heivly-Marc Heivly",
+     "fish": "5",
+     "weight": "18.60",
+     "big_fish": "",
+     "name_as_written": "ANDREW HEIVLY-MARC HEIVLY"
+    },
+    {
+     "place": "6",
+     "name": "Dave Wilder-Todd Helm",
+     "fish": "5",
+     "weight": "18.26",
+     "big_fish": "4.76",
+     "name_as_written": "DAVE WILDER-TODD HELM"
+    },
+    {
+     "place": "7",
+     "name": "Mike Cannon-John Mcgrath",
+     "fish": "5",
+     "weight": "17.37",
+     "big_fish": "5.29",
+     "name_as_written": "MIKE CANNON-JOHN MCGRATH"
+    },
+    {
+     "place": "8",
+     "name": "Steven Hannah-Erin Hannah",
+     "fish": "5",
+     "weight": "16.71",
+     "big_fish": "",
+     "name_as_written": "STEVEN HANNAH-ERIN HANNAH"
+    },
+    {
+     "place": "9",
+     "name": "Herb Geissler-Mike Adams",
+     "fish": "5",
+     "weight": "16.35",
+     "big_fish": "5.01",
+     "name_as_written": "HERB GEISSLER-MIKE ADAMS"
+    },
+    {
+     "place": "10",
+     "name": "Jimmy Townsend-Marcus Griffin",
+     "fish": "5",
+     "weight": "16.35",
+     "big_fish": "4.78",
+     "name_as_written": "JIMMY TOWNSEND-MARCUS GRIFFIN"
+    },
+    {
+     "place": "11",
+     "name": "Charles Leiphart-Earnest Leiphart",
+     "fish": "5",
+     "weight": "16.30",
+     "big_fish": "",
+     "name_as_written": "CHARLES LEIPHART-EARNEST LEIPHART"
+    },
+    {
+     "place": "12",
+     "name": "Herb Weichmann-Jason Basta",
+     "fish": "5",
+     "weight": "16.29",
+     "big_fish": "",
+     "name_as_written": "HERB WEICHMANN-JASON BASTA"
+    },
+    {
+     "place": "13",
+     "name": "Sam Rineer-Joseph Strauss",
+     "fish": "5",
+     "weight": "15.88",
+     "big_fish": "4.85",
+     "name_as_written": "SAM RINEER-JOSEPH STRAUSS"
+    },
+    {
+     "place": "14",
+     "name": "Tom Turner-Roger Shirkey",
+     "fish": "5",
+     "weight": "15.52",
+     "big_fish": "",
+     "name_as_written": "TOM TURNER-ROGER SHIRKEY"
+    },
+    {
+     "place": "15",
+     "name": "Zach Page-James Easley",
+     "fish": "5",
+     "weight": "15.33",
+     "big_fish": "",
+     "name_as_written": "ZACH PAGE-JAMES EASLEY"
+    },
+    {
+     "place": "16",
+     "name": "Chris Price-Jeff Semans",
+     "fish": "5",
+     "weight": "15.11",
+     "big_fish": "",
+     "name_as_written": "CHRIS PRICE-JEFF SEMANS"
+    },
+    {
+     "place": "17",
+     "name": "Ed Kay-Darren Cambell",
+     "fish": "5",
+     "weight": "14.73",
+     "big_fish": "4.53",
+     "name_as_written": "ED KAY-DARREN CAMBELL"
+    },
+    {
+     "place": "18",
+     "name": "Nate Golla-Wayne Golla",
+     "fish": "5",
+     "weight": "14.62",
+     "big_fish": "",
+     "name_as_written": "NATE GOLLA-WAYNE GOLLA"
+    },
+    {
+     "place": "19",
+     "name": "John Vanore-Doug Becker",
+     "fish": "5",
+     "weight": "14.49",
+     "big_fish": "",
+     "name_as_written": "JOHN VANORE-DOUG BECKER"
+    },
+    {
+     "place": "20",
+     "name": "Stephan Sirochman-JW Wade",
+     "fish": "5",
+     "weight": "14.39",
+     "big_fish": "4.52",
+     "name_as_written": "STEPHAN SIROCHMAN-JW WADE"
+    },
+    {
+     "place": "21",
+     "name": "Eric Sollenberger-Mark Shoenfelt",
+     "fish": "5",
+     "weight": "14.36",
+     "big_fish": "4.91",
+     "name_as_written": "ERIC SOLLENBERGER-MARK SHOENFELT"
+    },
+    {
+     "place": "22",
+     "name": "Jim Shinn-Nick Ferry",
+     "fish": "5",
+     "weight": "14.22",
+     "big_fish": "",
+     "name_as_written": "JIM SHINN-NICK FERRY"
+    },
+    {
+     "place": "23",
+     "name": "Mike Sentore-Jack Rinkers",
+     "fish": "5",
+     "weight": "14.21",
+     "big_fish": "",
+     "name_as_written": "MIKE SENTORE-JACK RINKERS"
+    },
+    {
+     "place": "24",
+     "name": "Derrick Lozer-Kris Bucher",
+     "fish": "5",
+     "weight": "14.19",
+     "big_fish": "",
+     "name_as_written": "DERRICK LOZER-KRIS BUCHER"
+    },
+    {
+     "place": "25",
+     "name": "Dave Burket-Darren Sobel",
+     "fish": "4",
+     "weight": "14.15",
+     "big_fish": "",
+     "name_as_written": "DAVE BURKET-DARREN SOBEL"
+    },
+    {
+     "place": "26",
+     "name": "Devynn Brown-Bradley Branson",
+     "fish": "5",
+     "weight": "13.59",
+     "big_fish": "",
+     "name_as_written": "DEVYNN BROWN-BRADLEY BRANSON"
+    },
+    {
+     "place": "27",
+     "name": "Nick Lepone-Tom Balachvili",
+     "fish": "5",
+     "weight": "13.51",
+     "big_fish": "",
+     "name_as_written": "NICK LEPONE-TOM BALACHVILI"
+    },
+    {
+     "place": "28",
+     "name": "Harry Nurk-Nick Canestra",
+     "fish": "4",
+     "weight": "13.50",
+     "big_fish": "5.03",
+     "name_as_written": "HARRY NURK-NICK CANESTRA"
+    },
+    {
+     "place": "29",
+     "name": "Paul Sirochman-Dave Moluski",
+     "fish": "5",
+     "weight": "13.48",
+     "big_fish": "",
+     "name_as_written": "PAUL SIROCHMAN-DAVE MOLUSKI"
+    },
+    {
+     "place": "30",
+     "name": "Fran Pratt-Matt Pratt",
+     "fish": "5",
+     "weight": "13.11",
+     "big_fish": "3.40",
+     "name_as_written": "FRAN PRATT-MATT PRATT"
+    },
+    {
+     "place": "31",
+     "name": "Rick Ungham-Rob Steiner",
+     "fish": "4",
+     "weight": "13.11",
+     "big_fish": "",
+     "name_as_written": "RICK UNGHAM-ROB STEINER"
+    },
+    {
+     "place": "32",
+     "name": "Vincent Pustizzi-Jordan Sypeck",
+     "fish": "4",
+     "weight": "13.09",
+     "big_fish": "4.51",
+     "name_as_written": "VINCENT PUSTIZZI-JORDAN SYPECK"
+    },
+    {
+     "place": "33",
+     "name": "Carl Walker-John Sellers",
+     "fish": "4",
+     "weight": "12.27",
+     "big_fish": "4.15",
+     "name_as_written": "CARL WALKER-JOHN SELLERS"
+    },
+    {
+     "place": "34",
+     "name": "Justin Johnston-Will Brown",
+     "fish": "5",
+     "weight": "11.98",
+     "big_fish": "2.93",
+     "name_as_written": "JUSTIN JOHNSTON-WILL BROWN"
+    },
+    {
+     "place": "35",
+     "name": "Daniel Henson-Justin Henson",
+     "fish": "4",
+     "weight": "10.93",
+     "big_fish": "",
+     "name_as_written": "DANIEL HENSON-JUSTIN HENSON"
+    },
+    {
+     "place": "36",
+     "name": "Greg Zinni-Andrea Zinni",
+     "fish": "3",
+     "weight": "10.66",
+     "big_fish": "4.32",
+     "name_as_written": "GREG ZINNI-ANDREA ZINNI"
+    },
+    {
+     "place": "37",
+     "name": "Matt Weber-Logan Kuhmann",
+     "fish": "3",
+     "weight": "10.57",
+     "big_fish": "",
+     "name_as_written": "MATT WEBER-LOGAN KUHMANN"
+    },
+    {
+     "place": "38",
+     "name": "Steve Manista-Steve Weimar",
+     "fish": "3",
+     "weight": "9.39",
+     "big_fish": "",
+     "name_as_written": "STEVE MANISTA-STEVE WEIMAR"
+    },
+    {
+     "place": "39",
+     "name": "Tom Palm-Bradley Palm",
+     "fish": "3",
+     "weight": "9.16",
+     "big_fish": "4.23",
+     "name_as_written": "TOM PALM-BRADLEY PALM"
+    },
+    {
+     "place": "40",
+     "name": "Mark Ely-Jerry Gerlach",
+     "fish": "3",
+     "weight": "9.09",
+     "big_fish": "",
+     "name_as_written": "MARK ELY-JERRY GERLACH"
+    },
+    {
+     "place": "41",
+     "name": "Victor Auriemma-Troy Bowings",
+     "fish": "3",
+     "weight": "8.87",
+     "big_fish": "",
+     "name_as_written": "VICTOR AURIEMMA-TROY BOWINGS"
+    },
+    {
+     "place": "42",
+     "name": "Bryson Smith-David Keppler",
+     "fish": "3",
+     "weight": "8.30",
+     "big_fish": "",
+     "name_as_written": "BRYSON SMITH-DAVID KEPPLER"
+    },
+    {
+     "place": "43",
+     "name": "Rich Stevens-Jim Cavanaugh",
+     "fish": "3",
+     "weight": "7.73",
+     "big_fish": "",
+     "name_as_written": "RICH STEVENS-JIM CAVANAUGH"
+    },
+    {
+     "place": "44",
+     "name": "Esdras Placencia-Curtis Miller",
+     "fish": "3",
+     "weight": "7.71",
+     "big_fish": "",
+     "name_as_written": "ESDRAS PLACENCIA-CURTIS MILLER"
+    },
+    {
+     "place": "45",
+     "name": "Chad Everwine-Joe Ayalo",
+     "fish": "2",
+     "weight": "7.45",
+     "big_fish": "4.47",
+     "name_as_written": "CHAD EVERWINE-JOE AYALO"
+    },
+    {
+     "place": "46",
+     "name": "Pablo Velazquez-Mike Phillips",
+     "fish": "3",
+     "weight": "7.27",
+     "big_fish": "",
+     "name_as_written": "PABLO VELAZQUEZ-MIKE PHILLIPS"
+    },
+    {
+     "place": "47",
+     "name": "Peter Warner-Dylan Aulbach",
+     "fish": "2",
+     "weight": "6.20",
+     "big_fish": "",
+     "name_as_written": "PETER WARNER-DYLAN AULBACH"
+    },
+    {
+     "place": "48",
+     "name": "Ken Cassella-Bruce Richert",
+     "fish": "2",
+     "weight": "5.70",
+     "big_fish": "",
+     "name_as_written": "KEN CASSELLA-BRUCE RICHERT"
+    },
+    {
+     "place": "49",
+     "name": "Ken Jester-Jason Bailey",
+     "fish": "2",
+     "weight": "5.57",
+     "big_fish": "",
+     "name_as_written": "KEN JESTER-JASON BAILEY"
+    },
+    {
+     "place": "50",
+     "name": "Scott Mcnulty-Mike Piccolo",
+     "fish": "2",
+     "weight": "5.40",
+     "big_fish": "",
+     "name_as_written": "SCOTT MCNULTY-MIKE PICCOLO"
+    },
+    {
+     "place": "51",
+     "name": "Jonathan Werner-Jody Werner",
+     "fish": "2",
+     "weight": "5.00",
+     "big_fish": "",
+     "name_as_written": "JONATHAN WERNER-JODY WERNER"
+    },
+    {
+     "place": "52",
+     "name": "Chase Weik-Jason Cavanaugh",
+     "fish": "2",
+     "weight": "4.06",
+     "big_fish": "1.99",
+     "name_as_written": "CHASE WEIK-JASON CAVANAUGH"
+    },
+    {
+     "place": "53",
+     "name": "Nick Biondi-Dave Curci",
+     "fish": "1",
+     "weight": "3.98",
+     "big_fish": "3.98",
+     "name_as_written": "NICK BIONDI-DAVE CURCI"
+    },
+    {
+     "place": "54",
+     "name": "Lou Croce-Jimmy Pitcherello",
+     "fish": "1",
+     "weight": "3.59",
+     "big_fish": "3.59",
+     "name_as_written": "LOU CROCE-JIMMY PITCHERELLO"
+    },
+    {
+     "place": "55",
+     "name": "Thomas Ledden-Jim Skidmore",
+     "fish": "1",
+     "weight": "3.37",
+     "big_fish": "3.37",
+     "name_as_written": "THOMAS LEDDEN-JIM SKIDMORE"
+    },
+    {
+     "place": "56",
+     "name": "John Baranik-Noah Wamsher",
+     "fish": "1",
+     "weight": "3.23",
+     "big_fish": "3.23",
+     "name_as_written": "JOHN BARANIK-NOAH WAMSHER"
+    },
+    {
+     "place": "57",
+     "name": "Cody Edmunds-Brian Edmunds",
+     "fish": "1",
+     "weight": "3.22",
+     "big_fish": "3.22",
+     "name_as_written": "CODY EDMUNDS-BRIAN EDMUNDS"
+    },
+    {
+     "place": "58",
+     "name": "Greg Arrowood-Joe Wesley",
+     "fish": "1",
+     "weight": "2.74",
+     "big_fish": "2.74",
+     "name_as_written": "GREG ARROWOOD-JOE WESLEY"
+    },
+    {
+     "place": "59",
+     "name": "Bradley Cain-Randy Cain",
+     "fish": "1",
+     "weight": "2.05",
+     "big_fish": "2.05",
+     "name_as_written": "BRADLEY CAIN-RANDY CAIN"
+    },
+    {
+     "place": "60",
+     "name": "Barry Moore",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "BARRY MOORE"
+    },
+    {
+     "place": "60",
+     "name": "Troy Rosenzweig",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "TROY ROSENZWEIG"
+    },
+    {
+     "place": "60",
+     "name": "Rick Anderson-Nick Goodling",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "RICK ANDERSON-NICK GOODLING"
+    },
+    {
+     "place": "60",
+     "name": "Steve Bowman, Jr-Steve Bowman, Sr",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "STEVE BOWMAN, JR-STEVE BOWMAN, SR"
+    },
+    {
+     "place": "60",
+     "name": "Troy Burger-Bob Potts",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "TROY BURGER-BOB POTTS"
+    },
+    {
+     "place": "60",
+     "name": "Ron Caldeira-John Oldaker",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "RON CALDEIRA-JOHN OLDAKER"
+    },
+    {
+     "place": "60",
+     "name": "Keith Cowan-Zach Cowan",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "KEITH COWAN-ZACH COWAN"
+    },
+    {
+     "place": "60",
+     "name": "Larry Craighead-Nate Brown",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "LARRY CRAIGHEAD-NATE BROWN"
+    },
+    {
+     "place": "60",
+     "name": "Ed Donnelly-Joey Murphy",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "ED DONNELLY-JOEY MURPHY"
+    },
+    {
+     "place": "60",
+     "name": "Tony Eskridge-Alberto Gonzalez",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "TONY ESKRIDGE-ALBERTO GONZALEZ"
+    },
+    {
+     "place": "60",
+     "name": "Pete Faverio-Ron Galloway",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "PETE FAVERIO-RON GALLOWAY"
+    },
+    {
+     "place": "60",
+     "name": "Sean Geerlof-Stan Horne",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "SEAN GEERLOF-STAN HORNE"
+    },
+    {
+     "place": "60",
+     "name": "Charles Hannah-Brett Skinner",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "CHARLES HANNAH-BRETT SKINNER"
+    },
+    {
+     "place": "60",
+     "name": "James Hawk-Jr Hawk",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "JAMES HAWK-JR HAWK"
+    },
+    {
+     "place": "60",
+     "name": "Chris Herr-Stephanie Herr",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "CHRIS HERR-STEPHANIE HERR"
+    },
+    {
+     "place": "60",
+     "name": "Scott Ivins-Joe Haefner",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "SCOTT IVINS-JOE HAEFNER"
+    },
+    {
+     "place": "60",
+     "name": "Peter Jerrom",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "PETER JERROM"
+    },
+    {
+     "place": "60",
+     "name": "Douglas Krete-Jason Giran",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "DOUGLAS KRETE-JASON GIRAN"
+    },
+    {
+     "place": "60",
+     "name": "Ted Lempke-Mark Kyllingstad",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "TED LEMPKE-MARK KYLLINGSTAD"
+    },
+    {
+     "place": "60",
+     "name": "Joseph Merker-Patrick Murphy",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "JOSEPH MERKER-PATRICK MURPHY"
+    },
+    {
+     "place": "60",
+     "name": "Doug Miller-Jeff Crouse",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "DOUG MILLER-JEFF CROUSE"
+    },
+    {
+     "place": "60",
+     "name": "Joe Morgan-Jason Reid",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "JOE MORGAN-JASON REID"
+    },
+    {
+     "place": "60",
+     "name": "Rick Mullen-Hunter Sambrick",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "RICK MULLEN-HUNTER SAMBRICK"
+    },
+    {
+     "place": "60",
+     "name": "Duke Nave-Steve Allender",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "DUKE NAVE-STEVE ALLENDER"
+    },
+    {
+     "place": "60",
+     "name": "Kevin Olbrich-Josh Burger",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "KEVIN OLBRICH-JOSH BURGER"
+    },
+    {
+     "place": "60",
+     "name": "Kevin Pownall-James Martin",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "KEVIN POWNALL-JAMES MARTIN"
+    },
+    {
+     "place": "60",
+     "name": "Charlie Pulay-Mark Braune",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "CHARLIE PULAY-MARK BRAUNE"
+    },
+    {
+     "place": "60",
+     "name": "Mike Reilly-Scott Reilly",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "MIKE REILLY-SCOTT REILLY"
+    },
+    {
+     "place": "60",
+     "name": "Terry Roberson-Andrew Chianese",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "TERRY ROBERSON-ANDREW CHIANESE"
+    },
+    {
+     "place": "60",
+     "name": "Paul Sanders-Eric Osborne",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "PAUL SANDERS-ERIC OSBORNE"
+    },
+    {
+     "place": "60",
+     "name": "Adam Satanoff-Jim Valentine",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "ADAM SATANOFF-JIM VALENTINE"
+    },
+    {
+     "place": "60",
+     "name": "Tejmohan Sawhney-Dave Wilt",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "TEJMOHAN SAWHNEY-DAVE WILT"
+    },
+    {
+     "place": "60",
+     "name": "Melvin Smitson",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "MELVIN SMITSON"
+    },
+    {
+     "place": "60",
+     "name": "Steve Staley-Chuck Rohrbaugh",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "STEVE STALEY-CHUCK ROHRBAUGH"
+    },
+    {
+     "place": "60",
+     "name": "Lance Thomson, Sr-Lance Thomson, Jr",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "LANCE THOMSON, SR-LANCE THOMSON, JR"
+    },
+    {
+     "place": "60",
+     "name": "Dana Wagner-George Wagner",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "DANA WAGNER-GEORGE WAGNER"
+    },
+    {
+     "place": "60",
+     "name": "Ryan Walsh-Adam Ivory",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "RYAN WALSH-ADAM IVORY"
+    }
+   ],
+   "summary": [],
+   "notes": [],
+   "source_rows": {
+    "title": 2,
+    "header": 1,
+    "results": 96,
+    "other": 0,
+    "blank": 1,
+    "table_rows": 100
+   },
+   "title": "CCBM Open Results 5/15/2021 North East",
+   "dates": [
+    "2021-05-15"
+   ],
+   "waters": [
+    "North East"
+   ],
+   "id": "2021-05-15"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Team Tournament Results",
+    "4/24/2021 North East"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Team"
+    },
+    {
+     "role": "fish",
+     "label": "Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "John Vanore-Doug Becker",
+     "fish": "5",
+     "weight": "21.49",
+     "big_fish": "5.87",
+     "name_as_written": "JOHN VANORE-DOUG BECKER",
+     "extra": [
+      "Bass Pro 6th"
+     ]
+    },
+    {
+     "place": "2",
+     "name": "Conor Cahill-Adam Satanoff",
+     "fish": "5",
+     "weight": "20.97",
+     "big_fish": "6.69",
+     "name_as_written": "CONOR CAHILL-ADAM SATANOFF",
+     "extra": [
+      "Clip n Cull 3rd"
+     ]
+    },
+    {
+     "place": "3",
+     "name": "Duane Essick-Jay Pirollo",
+     "fish": "5",
+     "weight": "20.82",
+     "big_fish": "7.80",
+     "name_as_written": "DUANE ESSICK-JAY PIROLLO",
+     "extra": [
+      "Tx Lunker"
+     ]
+    },
+    {
+     "place": "4",
+     "name": "Jay Burger-Josh Burger",
+     "fish": "5",
+     "weight": "19.97",
+     "big_fish": "5.96",
+     "name_as_written": "JAY BURGER-JOSH BURGER",
+     "extra": [
+      "Harmony 5th"
+     ]
+    },
+    {
+     "place": "5",
+     "name": "Pablo Velazquez-Mike Phillips",
+     "fish": "5",
+     "weight": "19.45",
+     "big_fish": "5.45",
+     "name_as_written": "PABLO VELAZQUEZ-MIKE PHILLIPS"
+    },
+    {
+     "place": "6",
+     "name": "Paul Badders-Frank Arthur",
+     "fish": "5",
+     "weight": "19.16",
+     "big_fish": "4.27",
+     "name_as_written": "PAUL BADDERS-FRANK ARTHUR"
+    },
+    {
+     "place": "7",
+     "name": "Andrew Sams-Alex Thomas",
+     "fish": "5",
+     "weight": "18.33",
+     "big_fish": "",
+     "name_as_written": "ANDREW SAMS-ALEX THOMAS"
+    },
+    {
+     "place": "8",
+     "name": "Herb Geissler-Mike Adams",
+     "fish": "5",
+     "weight": "18.32",
+     "big_fish": "4.78",
+     "name_as_written": "HERB GEISSLER-MIKE ADAMS"
+    },
+    {
+     "place": "9",
+     "name": "Steve Bowman Jr.-Steve Bowman Sr.",
+     "fish": "5",
+     "weight": "17.61",
+     "big_fish": "3.65",
+     "name_as_written": "STEVE BOWMAN JR.-STEVE BOWMAN SR."
+    },
+    {
+     "place": "10",
+     "name": "Keith Cowan-Nate Cowan",
+     "fish": "5",
+     "weight": "17.16",
+     "big_fish": "4.48",
+     "name_as_written": "KEITH COWAN-NATE COWAN"
+    },
+    {
+     "place": "11",
+     "name": "Joe Morgan-",
+     "fish": "5",
+     "weight": "16.97",
+     "big_fish": "4.36",
+     "name_as_written": "JOE MORGAN-"
+    },
+    {
+     "place": "12",
+     "name": "Ken Jester-Mike Machmer",
+     "fish": "5",
+     "weight": "16.93",
+     "big_fish": "3.47",
+     "name_as_written": "KEN JESTER-MIKE MACHMER"
+    },
+    {
+     "place": "13",
+     "name": "Doug Reed-Hayden Reed",
+     "fish": "5",
+     "weight": "15.72",
+     "big_fish": "3.98",
+     "name_as_written": "DOUG REED-HAYDEN REED"
+    },
+    {
+     "place": "14",
+     "name": "Rob Willwerth-Jim Valentine",
+     "fish": "5",
+     "weight": "15.70",
+     "big_fish": "",
+     "name_as_written": "ROB WILLWERTH-JIM VALENTINE"
+    },
+    {
+     "place": "15",
+     "name": "Tom Todd-Mark Silvia",
+     "fish": "5",
+     "weight": "15.67",
+     "big_fish": "3.77",
+     "name_as_written": "TOM TODD-MARK SILVIA"
+    },
+    {
+     "place": "16",
+     "name": "Trent Cole-Timmy Nichols",
+     "fish": "5",
+     "weight": "15.49",
+     "big_fish": "3.26",
+     "name_as_written": "TRENT COLE-TIMMY NICHOLS"
+    },
+    {
+     "place": "17",
+     "name": "Bryson Smith-David Keppler",
+     "fish": "5",
+     "weight": "14.97",
+     "big_fish": "",
+     "name_as_written": "BRYSON SMITH-DAVID KEPPLER"
+    },
+    {
+     "place": "18",
+     "name": "Rick Ungham-Rob Steiner",
+     "fish": "3",
+     "weight": "14.00",
+     "big_fish": "7.30",
+     "name_as_written": "RICK UNGHAM-ROB STEINER",
+     "extra": [
+      "Susquehanna Fishing Tackle 2nd"
+     ]
+    },
+    {
+     "place": "19",
+     "name": "Jon Cuccinello-Logan Fitzpatrick",
+     "fish": "4",
+     "weight": "13.92",
+     "big_fish": "",
+     "name_as_written": "JON CUCCINELLO-LOGAN FITZPATRICK"
+    },
+    {
+     "place": "20",
+     "name": "Pete Faverio-Ron Galloway",
+     "fish": "4",
+     "weight": "13.59",
+     "big_fish": "6.10",
+     "name_as_written": "PETE FAVERIO-RON GALLOWAY",
+     "extra": [
+      "Boomerang & Smallmouth Crush 4th"
+     ]
+    },
+    {
+     "place": "21",
+     "name": "Mike Sentore-Sean Mckee",
+     "fish": "5",
+     "weight": "13.48",
+     "big_fish": "",
+     "name_as_written": "MIKE SENTORE-SEAN MCKEE"
+    },
+    {
+     "place": "22",
+     "name": "Jonathan Werner-Jody Werner",
+     "fish": "4",
+     "weight": "13.37",
+     "big_fish": "3.74",
+     "name_as_written": "JONATHAN WERNER-JODY WERNER"
+    },
+    {
+     "place": "23",
+     "name": "Stephan Sirochman-JW Wade",
+     "fish": "5",
+     "weight": "13.19",
+     "big_fish": "3.44",
+     "name_as_written": "STEPHAN SIROCHMAN-JW WADE"
+    },
+    {
+     "place": "24",
+     "name": "Rob Tipton-Mark Schafer",
+     "fish": "4",
+     "weight": "12.95",
+     "big_fish": "4.12",
+     "name_as_written": "ROB TIPTON-MARK SCHAFER"
+    },
+    {
+     "place": "25",
+     "name": "Nate Golla-Wayne Golla",
+     "fish": "5",
+     "weight": "12.91",
+     "big_fish": "4.55",
+     "name_as_written": "NATE GOLLA-WAYNE GOLLA",
+     "extra": [
+      "Rhino Liners Custom Truck Shop smallest limit; Cabelas card heaviest smallmouth"
+     ]
+    },
+    {
+     "place": "26",
+     "name": "Steve Manista-Steve Weimar",
+     "fish": "4",
+     "weight": "12.51",
+     "big_fish": "3.88",
+     "name_as_written": "STEVE MANISTA-STEVE WEIMAR"
+    },
+    {
+     "place": "27",
+     "name": "Nick Lepone-Tom Bevelli",
+     "fish": "4",
+     "weight": "11.78",
+     "big_fish": "",
+     "name_as_written": "NICK LEPONE-TOM BEVELLI"
+    },
+    {
+     "place": "28",
+     "name": "Terry Roberson-Andrew Chianese",
+     "fish": "4",
+     "weight": "10.75",
+     "big_fish": "3.50",
+     "name_as_written": "TERRY ROBERSON-ANDREW CHIANESE"
+    },
+    {
+     "place": "29",
+     "name": "Paul Sirochman-Ray Leety",
+     "fish": "4",
+     "weight": "10.08",
+     "big_fish": "",
+     "name_as_written": "PAUL SIROCHMAN-RAY LEETY"
+    },
+    {
+     "place": "30",
+     "name": "Mike Cannon-John Mcgrath",
+     "fish": "3",
+     "weight": "9.84",
+     "big_fish": "",
+     "name_as_written": "MIKE CANNON-JOHN MCGRATH"
+    },
+    {
+     "place": "31",
+     "name": "Scott Mcanulty-Don Mcanulty",
+     "fish": "3",
+     "weight": "9.72",
+     "big_fish": "3.66",
+     "name_as_written": "SCOTT MCANULTY-DON MCANULTY"
+    },
+    {
+     "place": "32",
+     "name": "Troy Burger-Bob Potts",
+     "fish": "3",
+     "weight": "9.57",
+     "big_fish": "3.90",
+     "name_as_written": "TROY BURGER-BOB POTTS"
+    },
+    {
+     "place": "33",
+     "name": "Rick Mullen-Hunter Sambrick",
+     "fish": "3",
+     "weight": "9.26",
+     "big_fish": "3.91",
+     "name_as_written": "RICK MULLEN-HUNTER SAMBRICK"
+    },
+    {
+     "place": "34",
+     "name": "Sean Geerlof-Stan Horne",
+     "fish": "3",
+     "weight": "9.21",
+     "big_fish": "4.56",
+     "name_as_written": "SEAN GEERLOF-STAN HORNE"
+    },
+    {
+     "place": "35",
+     "name": "Marcus Griffin-Jimmy Jeff Townsend",
+     "fish": "3",
+     "weight": "8.88",
+     "big_fish": "",
+     "name_as_written": "MARCUS GRIFFIN-JIMMY JEFF TOWNSEND"
+    },
+    {
+     "place": "36",
+     "name": "Ed Donnelly-Joey Murphy",
+     "fish": "3",
+     "weight": "8.85",
+     "big_fish": "",
+     "name_as_written": "ED DONNELLY-JOEY MURPHY"
+    },
+    {
+     "place": "37",
+     "name": "Harry Nurk-Nick Canestra",
+     "fish": "3",
+     "weight": "8.80",
+     "big_fish": "3.39",
+     "name_as_written": "HARRY NURK-NICK CANESTRA"
+    },
+    {
+     "place": "38",
+     "name": "Duke Nave-Steve Allender",
+     "fish": "3",
+     "weight": "8.76",
+     "big_fish": "",
+     "name_as_written": "DUKE NAVE-STEVE ALLENDER"
+    },
+    {
+     "place": "39",
+     "name": "Jim Miller-Sean Fadigan",
+     "fish": "2",
+     "weight": "8.47",
+     "big_fish": "5.50",
+     "name_as_written": "JIM MILLER-SEAN FADIGAN"
+    },
+    {
+     "place": "40",
+     "name": "Steven Hannah-Russ Wright",
+     "fish": "2",
+     "weight": "8.38",
+     "big_fish": "",
+     "name_as_written": "STEVEN HANNAH-RUSS WRIGHT"
+    },
+    {
+     "place": "41",
+     "name": "Chris Price-Jeff Semans",
+     "fish": "3",
+     "weight": "7.91",
+     "big_fish": "",
+     "name_as_written": "CHRIS PRICE-JEFF SEMANS"
+    },
+    {
+     "place": "42",
+     "name": "John Valdez-Ed Davis",
+     "fish": "5",
+     "weight": "7.42",
+     "big_fish": "",
+     "name_as_written": "JOHN VALDEZ-ED DAVIS"
+    },
+    {
+     "place": "43",
+     "name": "Mark Ely-Jerry Gerlach",
+     "fish": "2",
+     "weight": "7.12",
+     "big_fish": "5.01",
+     "name_as_written": "MARK ELY-JERRY GERLACH"
+    },
+    {
+     "place": "44",
+     "name": "Dave Raively-Corey Hymer",
+     "fish": "2",
+     "weight": "7.07",
+     "big_fish": "",
+     "name_as_written": "DAVE RAIVELY-COREY HYMER"
+    },
+    {
+     "place": "45",
+     "name": "Cody Edmunds-Brian Edmunds",
+     "fish": "3",
+     "weight": "6.95",
+     "big_fish": "2.74",
+     "name_as_written": "CODY EDMUNDS-BRIAN EDMUNDS"
+    },
+    {
+     "place": "46",
+     "name": "Damian Szlachta-Colton Kentopp",
+     "fish": "2",
+     "weight": "6.12",
+     "big_fish": "",
+     "name_as_written": "DAMIAN SZLACHTA-COLTON KENTOPP"
+    },
+    {
+     "place": "47",
+     "name": "Travis Nale-Chuck Nale",
+     "fish": "2",
+     "weight": "6.08",
+     "big_fish": "3.18",
+     "name_as_written": "TRAVIS NALE-CHUCK NALE"
+    },
+    {
+     "place": "48",
+     "name": "Ricky Ewing-Brandon Riccio",
+     "fish": "2",
+     "weight": "5.98",
+     "big_fish": "4.30",
+     "name_as_written": "RICKY EWING-BRANDON RICCIO"
+    },
+    {
+     "place": "49",
+     "name": "Steve Baillargeon-",
+     "fish": "2",
+     "weight": "5.85",
+     "big_fish": "3.82",
+     "name_as_written": "STEVE BAILLARGEON-"
+    },
+    {
+     "place": "50",
+     "name": "Joe Hunt-Braden Hunt",
+     "fish": "2",
+     "weight": "5.54",
+     "big_fish": "",
+     "name_as_written": "JOE HUNT-BRADEN HUNT"
+    },
+    {
+     "place": "51",
+     "name": "Chase Weik-Jason Cavanaugh",
+     "fish": "2",
+     "weight": "5.23",
+     "big_fish": "",
+     "name_as_written": "CHASE WEIK-JASON CAVANAUGH"
+    },
+    {
+     "place": "52",
+     "name": "Matt Goudie-Nic Faust",
+     "fish": "2",
+     "weight": "5.09",
+     "big_fish": "3.35",
+     "name_as_written": "MATT GOUDIE-NIC FAUST"
+    },
+    {
+     "place": "53",
+     "name": "Ken Cassella-Bruce Richert",
+     "fish": "2",
+     "weight": "4.79",
+     "big_fish": "2.74",
+     "name_as_written": "KEN CASSELLA-BRUCE RICHERT"
+    },
+    {
+     "place": "54",
+     "name": "Troy Rozenzweig-Brian Krout",
+     "fish": "1",
+     "weight": "4.37",
+     "big_fish": "4.37",
+     "name_as_written": "TROY ROZENZWEIG-BRIAN KROUT"
+    },
+    {
+     "place": "55",
+     "name": "Charlie Pulay-Matt Keats",
+     "fish": "1",
+     "weight": "4.14",
+     "big_fish": "4.14",
+     "name_as_written": "CHARLIE PULAY-MATT KEATS"
+    },
+    {
+     "place": "56",
+     "name": "Chris Herr-Brendon Herr",
+     "fish": "1",
+     "weight": "3.79",
+     "big_fish": "3.79",
+     "name_as_written": "CHRIS HERR-BRENDON HERR"
+    },
+    {
+     "place": "57",
+     "name": "Jake Schauber-John Provin",
+     "fish": "1",
+     "weight": "3.53",
+     "big_fish": "3.53",
+     "name_as_written": "JAKE SCHAUBER-JOHN PROVIN"
+    },
+    {
+     "place": "58",
+     "name": "Steve Staley-Alvin Kirby",
+     "fish": "1",
+     "weight": "3.48",
+     "big_fish": "3.48",
+     "name_as_written": "STEVE STALEY-ALVIN KIRBY"
+    },
+    {
+     "place": "59",
+     "name": "Bryan Giran-Amanda Giran",
+     "fish": "1",
+     "weight": "3.31",
+     "big_fish": "3.31",
+     "name_as_written": "BRYAN GIRAN-AMANDA GIRAN"
+    },
+    {
+     "place": "60",
+     "name": "Cliff Humphreys-Zach Rollins",
+     "fish": "1",
+     "weight": "3.16",
+     "big_fish": "3.16",
+     "name_as_written": "CLIFF HUMPHREYS-ZACH ROLLINS"
+    },
+    {
+     "place": "61",
+     "name": "Lou Croce-Jimmy Pitcherello",
+     "fish": "1",
+     "weight": "3.09",
+     "big_fish": "3.09",
+     "name_as_written": "LOU CROCE-JIMMY PITCHERELLO"
+    },
+    {
+     "place": "62",
+     "name": "Carl Walker-John Sellers",
+     "fish": "1",
+     "weight": "3.04",
+     "big_fish": "3.04",
+     "name_as_written": "CARL WALKER-JOHN SELLERS"
+    },
+    {
+     "place": "63",
+     "name": "Tom Wood-Bob Moody",
+     "fish": "1",
+     "weight": "3.02",
+     "big_fish": "3.02",
+     "name_as_written": "TOM WOOD-BOB MOODY"
+    },
+    {
+     "place": "64",
+     "name": "Tommy Riccio-Jerry Hodge",
+     "fish": "1",
+     "weight": "3.01",
+     "big_fish": "3.01",
+     "name_as_written": "TOMMY RICCIO-JERRY HODGE"
+    },
+    {
+     "place": "65",
+     "name": "Coty Camp-John Gomez",
+     "fish": "1",
+     "weight": "2.96",
+     "big_fish": "2.96",
+     "name_as_written": "COTY CAMP-JOHN GOMEZ"
+    },
+    {
+     "place": "66",
+     "name": "Daniel Henson-Jordan Henson",
+     "fish": "1",
+     "weight": "2.95",
+     "big_fish": "2.95",
+     "name_as_written": "DANIEL HENSON-JORDAN HENSON"
+    },
+    {
+     "place": "67",
+     "name": "Greg Arrowood-",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "GREG ARROWOOD-"
+    },
+    {
+     "place": "67",
+     "name": "Victor Auriemma-Troy Bowings",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "VICTOR AURIEMMA-TROY BOWINGS"
+    },
+    {
+     "place": "67",
+     "name": "John Baranik-Kenny Dixon",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "JOHN BARANIK-KENNY DIXON"
+    },
+    {
+     "place": "67",
+     "name": "Nick Biondi-",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "NICK BIONDI-"
+    },
+    {
+     "place": "67",
+     "name": "Nate Brown-Miles Pryzynski",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "NATE BROWN-MILES PRYZYNSKI"
+    },
+    {
+     "place": "67",
+     "name": "Ron Caldeira-John Oldaker",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "RON CALDEIRA-JOHN OLDAKER"
+    },
+    {
+     "place": "67",
+     "name": "Dave Capano-Jim Smith",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "DAVE CAPANO-JIM SMITH"
+    },
+    {
+     "place": "67",
+     "name": "Steve Dimaio-Dan Jensen",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "STEVE DIMAIO-DAN JENSEN"
+    },
+    {
+     "place": "67",
+     "name": "James Easley-Zach Page",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "JAMES EASLEY-ZACH PAGE"
+    },
+    {
+     "place": "67",
+     "name": "Tony Eskridge-Danny Lam",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "TONY ESKRIDGE-DANNY LAM"
+    },
+    {
+     "place": "67",
+     "name": "Brian Grant-Bill Burnside",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "BRIAN GRANT-BILL BURNSIDE"
+    },
+    {
+     "place": "67",
+     "name": "Charles Hannah-Brett Skinner",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "CHARLES HANNAH-BRETT SKINNER"
+    },
+    {
+     "place": "67",
+     "name": "JC Henry-",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "JC HENRY-"
+    },
+    {
+     "place": "67",
+     "name": "Mike Iaconelli-Rich Leadbeater",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "MIKE IACONELLI-RICH LEADBEATER"
+    },
+    {
+     "place": "67",
+     "name": "Douglas Kriete Jr.-Kevin Mcginnis",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "DOUGLAS KRIETE JR.-KEVIN MCGINNIS"
+    },
+    {
+     "place": "67",
+     "name": "Thomas Ledden-James Skidmore",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "THOMAS LEDDEN-JAMES SKIDMORE"
+    },
+    {
+     "place": "67",
+     "name": "Charles Leiphart-Earnest Leiphart",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "CHARLES LEIPHART-EARNEST LEIPHART"
+    },
+    {
+     "place": "67",
+     "name": "Shane Martin-Troy Christman",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "SHANE MARTIN-TROY CHRISTMAN"
+    },
+    {
+     "place": "67",
+     "name": "Max Meister-Scott Reilly",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "MAX MEISTER-SCOTT REILLY"
+    },
+    {
+     "place": "67",
+     "name": "Doug Miller-Jeff Crouse",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "DOUG MILLER-JEFF CROUSE"
+    },
+    {
+     "place": "67",
+     "name": "Dylan Missimer-Jeff Long",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "DYLAN MISSIMER-JEFF LONG"
+    },
+    {
+     "place": "67",
+     "name": "Sam Montalto-Jim (Woo) Hauck",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "SAM MONTALTO-JIM (WOO) HAUCK"
+    },
+    {
+     "place": "67",
+     "name": "Barry Moore-Kevin Moore",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "BARRY MOORE-KEVIN MOORE"
+    },
+    {
+     "place": "67",
+     "name": "Kevin Olbrich-Tyler Drozdowski",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "KEVIN OLBRICH-TYLER DROZDOWSKI"
+    },
+    {
+     "place": "67",
+     "name": "Eric Osborne-Paul Sanders",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "ERIC OSBORNE-PAUL SANDERS"
+    },
+    {
+     "place": "67",
+     "name": "Mike Piccolo-Dave Denofa",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "MIKE PICCOLO-DAVE DENOFA"
+    },
+    {
+     "place": "67",
+     "name": "Chris Porter-Martin Cervera",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "CHRIS PORTER-MARTIN CERVERA"
+    },
+    {
+     "place": "67",
+     "name": "Fran Pratt-Matt Pratt",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "FRAN PRATT-MATT PRATT"
+    },
+    {
+     "place": "67",
+     "name": "Drew Scarpa-Lee Sockwell",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "DREW SCARPA-LEE SOCKWELL"
+    },
+    {
+     "place": "67",
+     "name": "Tyler Scruggs-Eddie Mort",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "TYLER SCRUGGS-EDDIE MORT"
+    },
+    {
+     "place": "67",
+     "name": "Tommy Stalb-Joe Stalb",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "TOMMY STALB-JOE STALB"
+    },
+    {
+     "place": "67",
+     "name": "Rich Tangradi-Vincenzo Martiello",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "RICH TANGRADI-VINCENZO MARTIELLO"
+    },
+    {
+     "place": "67",
+     "name": "Lance Thomson-Dave Hunter",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "LANCE THOMSON-DAVE HUNTER"
+    },
+    {
+     "place": "67",
+     "name": "Donnie Tomlin-Dominic Simone",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "DONNIE TOMLIN-DOMINIC SIMONE"
+    },
+    {
+     "place": "67",
+     "name": "Dana Wagner-George Wagner",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "DANA WAGNER-GEORGE WAGNER"
+    },
+    {
+     "place": "67",
+     "name": "Cody Warner-Cole Mercer",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "CODY WARNER-COLE MERCER"
+    },
+    {
+     "place": "67",
+     "name": "Dave Wilder-Steve Jagodzinski",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "DAVE WILDER-STEVE JAGODZINSKI"
+    },
+    {
+     "place": "67",
+     "name": "Greg Wilder-George Wilder",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "GREG WILDER-GEORGE WILDER"
+    },
+    {
+     "place": "67",
+     "name": "Greg Zinni-Andrea Zinni",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "name_as_written": "GREG ZINNI-ANDREA ZINNI"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Teams Fished",
+     "value": "105"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "210"
+    },
+    {
+     "label": "Total Fish Released",
+     "value": "210 (100%)"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "682.00"
+    },
+    {
+     "label": "Average Weight / Fish",
+     "value": "3.25"
+    },
+    {
+     "label": "Weighing",
+     "value": "3.18"
+    },
+    {
+     "label": "Weighing",
+     "value": "10.33"
+    }
+   ],
+   "notes": [
+    "Average #Fish / Team",
+    "Average Weight / Team"
+   ],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 105,
+    "other": 7,
+    "blank": 5,
+    "table_rows": 121
+   },
+   "title": "4/24/2021 North East",
+   "dates": [
+    "2021-04-24"
+   ],
+   "waters": [
+    "North East"
+   ],
+   "id": "2021-04-24"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Team Tournament Results",
+    "9/25/2021 North East"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Team"
+    },
+    {
+     "role": "fish",
+     "label": "Fish"
+    },
+    {
+     "role": "total_weight",
+     "label": "Total"
+    },
+    {
+     "role": "penalty",
+     "label": "Pnlty"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Jerry Gerlach-Mark Ely",
+     "fish": "5",
+     "total_weight": "17.46",
+     "penalty": "",
+     "big_fish": "4.63"
+    },
+    {
+     "place": "2",
+     "name": "Kyle Gabrick-Jake Schauber",
+     "fish": "5",
+     "total_weight": "15.19",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "3",
+     "name": "Matt Weber-Mike Piccolo",
+     "fish": "5",
+     "total_weight": "14.36",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "4",
+     "name": "Ed Donnelly-Mark Mclennan",
+     "fish": "5",
+     "total_weight": "13.31",
+     "penalty": "",
+     "big_fish": "3.95"
+    },
+    {
+     "place": "5",
+     "name": "Conor Cahill-Adam Satanoff",
+     "fish": "5",
+     "total_weight": "13.16",
+     "penalty": "",
+     "big_fish": "3.95"
+    },
+    {
+     "place": "6",
+     "name": "Pablo Velazquez-Mike Phillips",
+     "fish": "5",
+     "total_weight": "12.68",
+     "penalty": "",
+     "big_fish": "4.72",
+     "extra": [
+      "Black Rifle Coffee 3rd Lunker"
+     ]
+    },
+    {
+     "place": "7",
+     "name": "Stephan Sirochman-Jw Wade",
+     "fish": "3",
+     "total_weight": "12.48",
+     "penalty": "0.50",
+     "big_fish": "5.69",
+     "extra": [
+      "Tournament Lunker"
+     ]
+    },
+    {
+     "place": "8",
+     "name": "John Vanore-Doug Becker",
+     "fish": "5",
+     "total_weight": "12.39",
+     "penalty": "",
+     "big_fish": "4.68"
+    },
+    {
+     "place": "9",
+     "name": "Keith Cowan-Zach Cowan",
+     "fish": "5",
+     "total_weight": "12.28",
+     "penalty": "",
+     "big_fish": "3.97"
+    },
+    {
+     "place": "10",
+     "name": "Dave Burket-David Burket",
+     "fish": "5",
+     "total_weight": "12.08",
+     "penalty": "",
+     "big_fish": "4.37"
+    },
+    {
+     "place": "11",
+     "name": "Jesse Brennan-Rich Leadbeater",
+     "fish": "5",
+     "total_weight": "11.71",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "12",
+     "name": "Duane Essick-Jay Pirollo",
+     "fish": "4",
+     "total_weight": "11.61",
+     "penalty": "",
+     "big_fish": "4.60"
+    },
+    {
+     "place": "13",
+     "name": "Steve Manista-Steve Weimar",
+     "fish": "5",
+     "total_weight": "10.30",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "14",
+     "name": "Jimmy Townsend-Marcus Griffin",
+     "fish": "5",
+     "total_weight": "10.12",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "15",
+     "name": "Mike Cannon-John Mcgrath",
+     "fish": "4",
+     "total_weight": "9.66",
+     "penalty": "",
+     "big_fish": "4.30"
+    },
+    {
+     "place": "16",
+     "name": "Ken Cassella-Bruce Richert",
+     "fish": "3",
+     "total_weight": "9.16",
+     "penalty": "",
+     "big_fish": "4.55"
+    },
+    {
+     "place": "17",
+     "name": "Steve Dimaio-Dan Jansen",
+     "fish": "3",
+     "total_weight": "8.91",
+     "penalty": "",
+     "big_fish": "4.33"
+    },
+    {
+     "place": "18",
+     "name": "Todd Cory-Jon Pinkava",
+     "fish": "4",
+     "total_weight": "8.13",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "19",
+     "name": "Russ Wright-Steven Hannah",
+     "fish": "3",
+     "total_weight": "8.03",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "20",
+     "name": "Nick Lepone-Joe Kraft",
+     "fish": "3",
+     "total_weight": "7.80",
+     "penalty": "",
+     "big_fish": "3.11",
+     "extra": [
+      "Cabelas: biggestt smallmouth"
+     ]
+    },
+    {
+     "place": "21",
+     "name": "Daniel Henson-Justin Henson",
+     "fish": "4",
+     "total_weight": "7.70",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "22",
+     "name": "Jc Henry-Drew Someone",
+     "fish": "5",
+     "total_weight": "7.66",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Duke Nave-Steve Allender",
+     "fish": "5",
+     "total_weight": "7.37",
+     "penalty": "",
+     "big_fish": "",
+     "extra": [
+      "Rhino Liners: smallest limit"
+     ]
+    },
+    {
+     "place": "24",
+     "name": "Nate Golla-Wayne Golla",
+     "fish": "2",
+     "total_weight": "6.63",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "25",
+     "name": "Greg Arrowood-Joe Wesley",
+     "fish": "4",
+     "total_weight": "6.58",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "26",
+     "name": "Jon Werner-Jody Werner",
+     "fish": "2",
+     "total_weight": "6.39",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "27",
+     "name": "Brian Christy, Sr-Brian Christy, 3rd",
+     "fish": "2",
+     "total_weight": "6.15",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "28",
+     "name": "Carl Walker-Camron Strosser",
+     "fish": "3",
+     "total_weight": "5.54",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "29",
+     "name": "Herb Geissler-Mike Adams",
+     "fish": "2",
+     "total_weight": "5.52",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "30",
+     "name": "Paul Sirochman-Mark Redmond",
+     "fish": "2",
+     "total_weight": "5.12",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "31",
+     "name": "Jim Miller-John Valentine",
+     "fish": "2",
+     "total_weight": "4.96",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "32",
+     "name": "Harry Nurk-Nick Canestra",
+     "fish": "1",
+     "total_weight": "4.94",
+     "penalty": "",
+     "big_fish": "4.94",
+     "extra": [
+      "Susquehanna Tackle 2nd Lunker"
+     ]
+    },
+    {
+     "place": "33",
+     "name": "Sean Geerlof-Stan Horne",
+     "fish": "2",
+     "total_weight": "4.69",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "34",
+     "name": "Sean Mckee-Mike Sentore",
+     "fish": "3",
+     "total_weight": "4.57",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "35",
+     "name": "Rick Ungham-Andrew Goins",
+     "fish": "2",
+     "total_weight": "3.83",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "36",
+     "name": "George Waeckel-Tom Yaw",
+     "fish": "2",
+     "total_weight": "3.50",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "37",
+     "name": "Esdras Placencia-Shawn Weil",
+     "fish": "1",
+     "total_weight": "2.32",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "38",
+     "name": "Herb Weichmann-",
+     "fish": "1",
+     "total_weight": "2.23",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "39",
+     "name": "Jon Cuccinello-Logan Fitzpatrick",
+     "fish": "1",
+     "total_weight": "1.25",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "40",
+     "name": "Nick Biondi-",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "40",
+     "name": "Dj Fiori-",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "40",
+     "name": "Victor Auriemma-Logan Kuhrmann",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "40",
+     "name": "Ricky Ewing-Brandon Riccio",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "40",
+     "name": "Dan Fitzpatrick-Jackson Fu",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "40",
+     "name": "Tom Ledden-Jim Skidmore",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "40",
+     "name": "Matthew Long-Leonard Long",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "40",
+     "name": "Charlie Mills-Ken Wood, Jr",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "40",
+     "name": "Eddie Mort-Ty Scruggs",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "40",
+     "name": "Jim Shinn-Andy Jones",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "40",
+     "name": "Steve Staley-Alvin Kirby",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    }
+   ],
+   "summary": [
+    {
+     "label": "Teams Fished",
+     "value": "50"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "133"
+    },
+    {
+     "label": "Total Fish Released",
+     "value": "132"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "328.27"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 50,
+    "other": 4,
+    "blank": 3,
+    "table_rows": 61
+   },
+   "title": "9/25/2021 North East",
+   "dates": [
+    "2021-09-25"
+   ],
+   "waters": [
+    "North East"
+   ],
+   "id": "2021-09-25"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Team Tournament Results",
+    "10/16/2021 North East"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Team"
+    },
+    {
+     "role": "fish",
+     "label": "Fish"
+    },
+    {
+     "role": "total_weight",
+     "label": "Total"
+    },
+    {
+     "role": "penalty",
+     "label": "Pnlty"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Mike Piccolo-Scott Mcanulty",
+     "fish": "5",
+     "total_weight": "18.61",
+     "penalty": "",
+     "big_fish": "4.06"
+    },
+    {
+     "place": "2",
+     "name": "Steven Hannah-Charles Hannah",
+     "fish": "5",
+     "total_weight": "18.02",
+     "penalty": "",
+     "big_fish": "4.55"
+    },
+    {
+     "place": "3",
+     "name": "Duane Essick-Jay Pirollo",
+     "fish": "5",
+     "total_weight": "17.61",
+     "penalty": "",
+     "big_fish": "5.47",
+     "extra": [
+      "Tournament Lunker"
+     ]
+    },
+    {
+     "place": "4",
+     "name": "Mark Ely-Jerry Gerlach",
+     "fish": "4",
+     "total_weight": "15.36",
+     "penalty": "",
+     "big_fish": "5.04"
+    },
+    {
+     "place": "5",
+     "name": "John Vanore-Douglas Becker",
+     "fish": "5",
+     "total_weight": "15.18",
+     "penalty": "",
+     "big_fish": "4.39"
+    },
+    {
+     "place": "6",
+     "name": "Ken Cassella-Bruce Richert",
+     "fish": "5",
+     "total_weight": "14.11",
+     "penalty": "",
+     "big_fish": "3.59"
+    },
+    {
+     "place": "7",
+     "name": "Brian Christy, Sr-Scott Christy",
+     "fish": "4",
+     "total_weight": "14.03",
+     "penalty": "",
+     "big_fish": "4.83"
+    },
+    {
+     "place": "8",
+     "name": "Kyle Gabriele-Billy Wiley",
+     "fish": "5",
+     "total_weight": "13.35",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "9",
+     "name": "Lou Croce-Jim (Woo) Hauck",
+     "fish": "5",
+     "total_weight": "13.30",
+     "penalty": "",
+     "big_fish": "4.00"
+    },
+    {
+     "place": "10",
+     "name": "Barry Moore-Lamont Vernon",
+     "fish": "5",
+     "total_weight": "13.18",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "11",
+     "name": "Duke Nave-Steve Allender",
+     "fish": "4",
+     "total_weight": "12.95",
+     "penalty": "",
+     "big_fish": "4.48"
+    },
+    {
+     "place": "12",
+     "name": "Victor Auriemma-Logan Kuhmann",
+     "fish": "4",
+     "total_weight": "12.55",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "13",
+     "name": "Paul Sirochman-Ron Lutz",
+     "fish": "5",
+     "total_weight": "12.17",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "14",
+     "name": "Nate Golla-Wayne Golla",
+     "fish": "3",
+     "total_weight": "11.92",
+     "penalty": "",
+     "big_fish": "5.36",
+     "extra": [
+      "Susquehanna Tackle 2nd Lunker"
+     ]
+    },
+    {
+     "place": "15",
+     "name": "Harry Nurk-Nick Canestra",
+     "fish": "5",
+     "total_weight": "11.40",
+     "penalty": "",
+     "big_fish": "4.67"
+    },
+    {
+     "place": "16",
+     "name": "John Cuccinello-Logan Fitzpatrick",
+     "fish": "4",
+     "total_weight": "11.38",
+     "penalty": "",
+     "big_fish": "3.65"
+    },
+    {
+     "place": "17",
+     "name": "Keith Cowan-Zach Cowan",
+     "fish": "5",
+     "total_weight": "10.15",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "18",
+     "name": "Rick Ungham-Andrew Goins",
+     "fish": "5",
+     "total_weight": "10.09",
+     "penalty": "",
+     "big_fish": "3.87"
+    },
+    {
+     "place": "19",
+     "name": "Jimmy Townsend-Marcus Griffin",
+     "fish": "4",
+     "total_weight": "7.96",
+     "penalty": "",
+     "big_fish": "3.42"
+    },
+    {
+     "place": "20",
+     "name": "Mike Cannon-John Mcgrath",
+     "fish": "5",
+     "total_weight": "7.22",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Pablo Velazquez-",
+     "fish": "4",
+     "total_weight": "7.19",
+     "penalty": "",
+     "big_fish": "3.40"
+    },
+    {
+     "place": "22",
+     "name": "Nick Biondi-Dave Curci",
+     "fish": "4",
+     "total_weight": "7.12",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Trent Cole",
+     "fish": "2",
+     "total_weight": "6.98",
+     "penalty": "",
+     "big_fish": "3.56"
+    },
+    {
+     "place": "24",
+     "name": "Eli Amilani-Jason Bailey",
+     "fish": "3",
+     "total_weight": "6.56",
+     "penalty": "",
+     "big_fish": "3.26"
+    },
+    {
+     "place": "25",
+     "name": "Herb Geissler-Mike Adams",
+     "fish": "3",
+     "total_weight": "6.56",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "26",
+     "name": "Stephan Sirochman-Tom Yaw",
+     "fish": "2",
+     "total_weight": "5.20",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "27",
+     "name": "Steve Dimaio-Dan Jensen",
+     "fish": "2",
+     "total_weight": "4.61",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "28",
+     "name": "Tom Ledden-Jim Skidmore",
+     "fish": "4",
+     "total_weight": "4.57",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "29",
+     "name": "Don Anderson-Chris Benninger",
+     "fish": "2",
+     "total_weight": "4.12",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "30",
+     "name": "Al Pavone-Ryan Sweeney",
+     "fish": "2",
+     "total_weight": "3.99",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "31",
+     "name": "Carl Walker-John Sellers",
+     "fish": "1",
+     "total_weight": "3.17",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "32",
+     "name": "Steve Manista-Steve Weimar",
+     "fish": "1",
+     "total_weight": "2.64",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "33",
+     "name": "Eric Osborne-Paul Sanders",
+     "fish": "1",
+     "total_weight": "1.82",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "34",
+     "name": "Conor Cahill-Adam Satanoff",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "34",
+     "name": "Sean Geerlof-Stan Horne",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "34",
+     "name": "Michael Grello-Scott Treon",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "34",
+     "name": "Jim Miller-Greg Staino",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "34",
+     "name": "Eddie Mort-Tyler Scruggs",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "34",
+     "name": "Bryson Smith-David Keppler",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    },
+    {
+     "place": "34",
+     "name": "Mark Ward-Brian Krout",
+     "fish": "",
+     "total_weight": "0.00",
+     "penalty": "",
+     "big_fish": ""
+    }
+   ],
+   "summary": [
+    {
+     "label": "Teams Fished",
+     "value": "40"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "123"
+    },
+    {
+     "label": "Total Fish Released",
+     "value": "123"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "325.07"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 40,
+    "other": 4,
+    "blank": 2,
+    "table_rows": 50
+   },
+   "title": "10/16/2021 North East",
+   "dates": [
+    "2021-10-16"
+   ],
+   "waters": [
+    "North East"
+   ],
+   "id": "2021-10-16"
+  }
+ ],
+ "standings": [
+  {
+   "title_lines": [
+    "CCBM 2021 Open Final Standings"
+   ],
+   "columns": [
+    "Overall Place",
+    "Team",
+    "Best Four Txs 1",
+    "Best Four Txs 2",
+    "Best Four Txs 3",
+    "Best Four Txs 4",
+    "Total-Best 4",
+    "5th pts tx"
+   ],
+   "rows": [
+    [
+     "1",
+     "Duane Essick- Jay Pirollo",
+     "100",
+     "98",
+     "98",
+     "89",
+     "385",
+     "23"
+    ],
+    [
+     "2",
+     "John Vanore- Doug Becker",
+     "100",
+     "96",
+     "93",
+     "90",
+     "379",
+     "82"
+    ],
+    [
+     "3",
+     "Keith Cowan- Zach- Nate- Vince Melfi",
+     "99",
+     "92",
+     "91",
+     "84",
+     "366",
+     "22"
+    ],
+    [
+     "4",
+     "Mike Piccolo- Dave Denofa- Steve Bohn- Scott Mcanulty",
+     "100",
+     "98",
+     "96",
+     "51",
+     "345",
+     "15"
+    ],
+    [
+     "5",
+     "Pablo Velazquez- Mike Phillips",
+     "96",
+     "95",
+     "80",
+     "65",
+     "336",
+     "55"
+    ],
+    [
+     "6",
+     "Nate Golla- Wayne Golla",
+     "88",
+     "87",
+     "83",
+     "77",
+     "335",
+     "76"
+    ],
+    [
+     "6",
+     "Steven Hannah- Russ Wright- Erin Hannah",
+     "99",
+     "93",
+     "82",
+     "61",
+     "335",
+     "32"
+    ],
+    [
+     "8",
+     "Herb Geissler- Mike Adams",
+     "93",
+     "92",
+     "76",
+     "72",
+     "333",
+     "60"
+    ],
+    [
+     "9",
+     "Mike Cannon- John Mcgrath- Van Ludwick",
+     "94",
+     "86",
+     "81",
+     "71",
+     "332",
+     "29"
+    ],
+    [
+     "9",
+     "Mark Ely- Jerry Gerlach",
+     "100",
+     "97",
+     "74",
+     "61",
+     "332",
+     "58"
+    ],
+    [
+     "11",
+     "Rick Ungham- Steiner/Goins",
+     "94",
+     "83",
+     "83",
+     "70",
+     "330",
+     "66"
+    ],
+    [
+     "12",
+     "Stephan Sirochman- JW Wade/Tom Yaw",
+     "94",
+     "81",
+     "78",
+     "75",
+     "328",
+     "17"
+    ],
+    [
+     "13",
+     "Jimmy Townsend- Marcus Griffin",
+     "91",
+     "87",
+     "82",
+     "66",
+     "326",
+     "66"
+    ],
+    [
+     "14",
+     "Mike Sentore- Sean Mckee- Jack Rinkers",
+     "100",
+     "80",
+     "78",
+     "67",
+     "325",
+     ""
+    ],
+    [
+     "15",
+     "Conor Cahill- Adam Satanoff-Jim Valentine",
+     "99",
+     "96",
+     "76",
+     "48",
+     "319",
+     "22"
+    ],
+    [
+     "16",
+     "Jon Cuccinello- Logan Fitzpatrick",
+     "85",
+     "83",
+     "82",
+     "62",
+     "312",
+     ""
+    ],
+    [
+     "17",
+     "Steve Manista- Steve Weimar",
+     "88",
+     "75",
+     "72",
+     "69",
+     "304",
+     "63"
+    ],
+    [
+     "18",
+     "Paul Sirochman- Leety/Moluski/Redmond/Lutz",
+     "88",
+     "72",
+     "72",
+     "71",
+     "303",
+     "39"
+    ],
+    [
+     "19",
+     "Duke Nave- Steve Allender",
+     "90",
+     "78",
+     "67",
+     "63",
+     "298",
+     "22"
+    ],
+    [
+     "20",
+     "Harry Nurk- Nick Canestra",
+     "86",
+     "73",
+     "69",
+     "64",
+     "292",
+     "64"
+    ],
+    [
+     "21",
+     "Victor Auriemma- Troy Bowings",
+     "92",
+     "89",
+     "60",
+     "42",
+     "283",
+     "15"
+    ],
+    [
+     "22",
+     "Ken Cassella- Bruce Richert",
+     "95",
+     "85",
+     "53",
+     "48",
+     "281",
+     ""
+    ],
+    [
+     "23",
+     "Carl Walker- John Sellers",
+     "73",
+     "70",
+     "69",
+     "68",
+     "280",
+     "39"
+    ],
+    [
+     "24",
+     "Nick Lepone- Tom Bevelli- Dj Fiori- Tom Balachvili",
+     "81",
+     "74",
+     "74",
+     "49",
+     "278",
+     ""
+    ],
+    [
+     "25",
+     "Jon Werner- Jody Werner",
+     "79",
+     "75",
+     "63",
+     "50",
+     "267",
+     ""
+    ],
+    [
+     "26",
+     "Jim Miller- Sean Fadigan- Greg Staino",
+     "80",
+     "70",
+     "62",
+     "48",
+     "260",
+     ""
+    ],
+    [
+     "27",
+     "Bryson Smith- David Keppler",
+     "84",
+     "68",
+     "59",
+     "48",
+     "259",
+     ""
+    ],
+    [
+     "28",
+     "Matt Weber- Logan Kuhmann- Logan Beebe",
+     "98",
+     "89",
+     "64",
+     "",
+     "251",
+     ""
+    ],
+    [
+     "29",
+     "Herb Weichmann- Jason Basta",
+     "95",
+     "89",
+     "63",
+     "",
+     "247",
+     ""
+    ],
+    [
+     "30",
+     "Ed Donnelly- Joey Murphy- Chris Angelucci",
+     "97",
+     "65",
+     "61",
+     "22",
+     "245",
+     ""
+    ],
+    [
+     "31",
+     "Chris Price- Jeff Semans",
+     "97",
+     "85",
+     "60",
+     "",
+     "242",
+     ""
+    ],
+    [
+     "32",
+     "Sean Geerlof- Stan Horne",
+     "68",
+     "67",
+     "40",
+     "48",
+     "223",
+     "22"
+    ],
+    [
+     "33",
+     "Lou Croce- Jimmy Pitcherello/Woo Hauck",
+     "92",
+     "47",
+     "40",
+     "30",
+     "209",
+     ""
+    ],
+    [
+     "34",
+     "Trent Cole- Timmy Nichols- Kevin Olbrich",
+     "85",
+     "78",
+     "44",
+     "",
+     "207",
+     ""
+    ],
+    [
+     "35",
+     "Daniel Henson- Justin Henson- Jordan Henson",
+     "80",
+     "66",
+     "35",
+     "15",
+     "196",
+     ""
+    ],
+    [
+     "36",
+     "Terry Roberson- Andrew Chianese",
+     "91",
+     "73",
+     "22",
+     "",
+     "186",
+     ""
+    ],
+    [
+     "37",
+     "Joe Hunt- Braden Hunt",
+     "98",
+     "51",
+     "35",
+     "",
+     "184",
+     ""
+    ],
+    [
+     "37",
+     "Nick Biondi- Dave Curci",
+     "79",
+     "48",
+     "42",
+     "15",
+     "184",
+     ""
+    ],
+    [
+     "39",
+     "Steve Staley- Alvin Kirby- Chuck Rohrbaugh",
+     "75",
+     "43",
+     "42",
+     "22",
+     "182",
+     ""
+    ],
+    [
+     "40",
+     "Doug Reed- Hayden Reed",
+     "93",
+     "88",
+     "",
+     "",
+     "181",
+     ""
+    ],
+    [
+     "41",
+     "Thomas Ledden- Jim Skidmore",
+     "73",
+     "46",
+     "42",
+     "19",
+     "180",
+     "15"
+    ],
+    [
+     "42",
+     "Barry Moore- Kevin Moore-- Lamont Vernon",
+     "91",
+     "48",
+     "22",
+     "15",
+     "176",
+     ""
+    ],
+    [
+     "43",
+     "Steve Dimaio- Dan Jensen",
+     "84",
+     "74",
+     "15",
+     "",
+     "173",
+     ""
+    ],
+    [
+     "44",
+     "Donnie Tomlin- Mark Weatherby- Dominic Simone",
+     "99",
+     "57",
+     "15",
+     "",
+     "171",
+     ""
+    ],
+    [
+     "44",
+     "Troy Rosenzweig- Brian Krout",
+     "54",
+     "48",
+     "47",
+     "22",
+     "171",
+     ""
+    ],
+    [
+     "46",
+     "Brian Christy, Sr-Brian Christy, 3rd",
+     "94",
+     "74",
+     "",
+     "",
+     "168",
+     ""
+    ],
+    [
+     "47",
+     "Vincent Pustizzi- Jordan Sypeck",
+     "98",
+     "69",
+     "",
+     "",
+     "167",
+     ""
+    ],
+    [
+     "47",
+     "Dave Burket- Darren Sobel",
+     "91",
+     "76",
+     "",
+     "",
+     "167",
+     ""
+    ],
+    [
+     "49",
+     "Andrew Heivly- Marc Heivly",
+     "96",
+     "70",
+     "",
+     "",
+     "166",
+     ""
+    ],
+    [
+     "49",
+     "Tom Turner- Roger Shirkey- Frank Arthur",
+     "87",
+     "79",
+     "",
+     "",
+     "166",
+     ""
+    ],
+    [
+     "51",
+     "Steve Bowman Jr.- Steve Bowman Sr.",
+     "92",
+     "47",
+     "22",
+     "",
+     "161",
+     ""
+    ],
+    [
+     "52",
+     "Devynn Brown- Bradley Branson- Jake Stuckey",
+     "84",
+     "75",
+     "",
+     "",
+     "159",
+     ""
+    ],
+    [
+     "53",
+     "Joe Morgan- Jason Reid",
+     "90",
+     "46",
+     "22",
+     "",
+     "158",
+     ""
+    ],
+    [
+     "53",
+     "Rob Willwerth- Jim Valentine",
+     "87",
+     "71",
+     "",
+     "",
+     "158",
+     ""
+    ],
+    [
+     "55",
+     "Cody Edmunds- Brian Edmunds",
+     "56",
+     "56",
+     "44",
+     "",
+     "156",
+     ""
+    ],
+    [
+     "56",
+     "Greg Arrowood- Joe Wesley- Ryan Sweeney",
+     "76",
+     "43",
+     "21",
+     "15",
+     "155",
+     ""
+    ],
+    [
+     "57",
+     "Chase Weik- Jason Cavanaugh",
+     "55",
+     "50",
+     "49",
+     "",
+     "154",
+     ""
+    ],
+    [
+     "58",
+     "Greg Zinni- Andrea Zinni",
+     "73",
+     "65",
+     "15",
+     "",
+     "153",
+     ""
+    ],
+    [
+     "59",
+     "Bob Potts- Mike Potts- Troy Burger",
+     "69",
+     "51",
+     "22",
+     "",
+     "142",
+     ""
+    ],
+    [
+     "59",
+     "Charles Leiphart- Earnest Leiphart",
+     "90",
+     "37",
+     "15",
+     "",
+     "142",
+     ""
+    ],
+    [
+     "61",
+     "Ken Jester- Jason Bailey- Mike Machmer",
+     "89",
+     "52",
+     "",
+     "",
+     "141",
+     ""
+    ],
+    [
+     "62",
+     "Ricky Ewing- Brandon Riccio",
+     "53",
+     "42",
+     "41",
+     "",
+     "136",
+     ""
+    ],
+    [
+     "63",
+     "Eddie Mort- Ty Scruggs",
+     "48",
+     "45",
+     "42",
+     "",
+     "135",
+     ""
+    ],
+    [
+     "64",
+     "Fran Pratt- Matt Pratt",
+     "15",
+     "71",
+     "36",
+     "",
+     "122",
+     ""
+    ],
+    [
+     "65",
+     "Jim Shinn- Nick Ferry",
+     "79",
+     "42",
+     "",
+     "",
+     "121",
+     ""
+    ],
+    [
+     "65",
+     "Esdras Placencia- Curtis Miller",
+     "64",
+     "57",
+     "",
+     "",
+     "121",
+     ""
+    ],
+    [
+     "67",
+     "Eric Osborne- Paul Sanders",
+     "68",
+     "33",
+     "15",
+     "",
+     "116",
+     ""
+    ],
+    [
+     "68",
+     "Chad Everwine- Joe Ayala",
+     "59",
+     "56",
+     "",
+     "",
+     "115",
+     ""
+    ],
+    [
+     "69",
+     "Dave Wilder- Todd Helm- Steve Jagodzinski",
+     "95",
+     "15",
+     "",
+     "",
+     "110",
+     ""
+    ],
+    [
+     "70",
+     "Rich Leadbeater-Mike Iaconelli",
+     "90",
+     "15",
+     "",
+     "",
+     "105",
+     ""
+    ],
+    [
+     "71",
+     "Pete Faverio- Ron Galloway",
+     "81",
+     "22",
+     "",
+     "",
+     "103",
+     ""
+    ],
+    [
+     "72",
+     "James Easley- Zach Page",
+     "86",
+     "15",
+     "",
+     "",
+     "101",
+     ""
+    ],
+    [
+     "72",
+     "Rich Stevens- Jim Cavanaugh- Andy Jones",
+     "58",
+     "43",
+     "",
+     "",
+     "101",
+     ""
+    ],
+    [
+     "74",
+     "Kevin Pownall- James Martin",
+     "77",
+     "22",
+     "",
+     "",
+     "99",
+     ""
+    ],
+    [
+     "74",
+     "Kyle Gabrick-Jake Schauber",
+     "99",
+     "",
+     "",
+     "",
+     "99",
+     ""
+    ],
+    [
+     "76",
+     "Bob Austin",
+     "97",
+     "",
+     "",
+     "",
+     "97",
+     ""
+    ],
+    [
+     "76",
+     "Jay Burger- Josh Burger",
+     "97",
+     "",
+     "",
+     "",
+     "97",
+     ""
+    ],
+    [
+     "78",
+     "Paul Badders- Frank Arthur",
+     "95",
+     "",
+     "",
+     "",
+     "95",
+     ""
+    ],
+    [
+     "79",
+     "Andrew Sams- Alex Thomas",
+     "94",
+     "",
+     "",
+     "",
+     "94",
+     ""
+    ],
+    [
+     "79",
+     "John Baranik- Noah Wamsher- Kenny Dixon",
+     "45",
+     "34",
+     "15",
+     "",
+     "94",
+     ""
+    ],
+    [
+     "79",
+     "Jc Henry-",
+     "79",
+     "15",
+     "",
+     "",
+     "94",
+     ""
+    ],
+    [
+     "82",
+     "Kyle Gabriele and Billy Wiley",
+     "93",
+     "",
+     "",
+     "",
+     "93",
+     ""
+    ],
+    [
+     "83",
+     "Troy Burger- Bob Potts",
+     "69",
+     "22",
+     "",
+     "",
+     "91",
+     ""
+    ],
+    [
+     "84",
+     "Rick Mullen- Hunter Sambrick",
+     "68",
+     "22",
+     "",
+     "",
+     "90",
+     ""
+    ],
+    [
+     "85",
+     "Sam Rineer- Joseph Strauss",
+     "",
+     "88",
+     "",
+     "",
+     "88",
+     ""
+    ],
+    [
+     "86",
+     "Michael Duarte- Matt Iman",
+     "87",
+     "",
+     "",
+     "",
+     "87",
+     ""
+    ],
+    [
+     "87",
+     "Chris Swearer- Corbin Gotwalt",
+     "86",
+     "",
+     "",
+     "",
+     "86",
+     ""
+    ],
+    [
+     "87",
+     "Tom Todd- Mark Silvia",
+     "86",
+     "",
+     "",
+     "",
+     "86",
+     ""
+    ],
+    [
+     "89",
+     "Reno Regalbuto- Troy Polhamus",
+     "85",
+     "",
+     "",
+     "",
+     "85",
+     ""
+    ],
+    [
+     "90",
+     "Ed Kay- Darren Cambell- Karl Cambell",
+     "84",
+     "0",
+     "",
+     "",
+     "84",
+     ""
+    ],
+    [
+     "91",
+     "Todd Cory-Jon Pinkava",
+     "83",
+     "",
+     "",
+     "",
+     "83",
+     ""
+    ],
+    [
+     "92",
+     "Chet Berkey- Chris Patton",
+     "82",
+     "",
+     "",
+     "",
+     "82",
+     ""
+    ],
+    [
+     "92",
+     "Travis Nale- Chuck Nale",
+     "54",
+     "28",
+     "",
+     "",
+     "82",
+     ""
+    ],
+    [
+     "94",
+     "Jackson Staib- David Andrews",
+     "81",
+     "",
+     "",
+     "",
+     "81",
+     ""
+    ],
+    [
+     "94",
+     "George Waeckel- Tom Yaw",
+     "65",
+     "16",
+     "",
+     "",
+     "81",
+     ""
+    ],
+    [
+     "96",
+     "Eric Sollenberger- Mark Shoenfelt",
+     "80",
+     "",
+     "",
+     "",
+     "80",
+     ""
+    ],
+    [
+     "97",
+     "Todd Corry- Jon Pinkava",
+     "78",
+     "",
+     "",
+     "",
+     "78",
+     ""
+    ],
+    [
+     "98",
+     "Derrick Lozer- Kris Bucher",
+     "77",
+     "",
+     "",
+     "",
+     "77",
+     ""
+    ],
+    [
+     "98",
+     "Rob Tipton- Mark Schafer",
+     "77",
+     "",
+     "",
+     "",
+     "77",
+     ""
+    ],
+    [
+     "98",
+     "Eli Amilani and Jason Bailey",
+     "77",
+     "",
+     "",
+     "",
+     "77",
+     ""
+    ],
+    [
+     "101",
+     "don anderson and chris benninger",
+     "72",
+     "",
+     "",
+     "",
+     "72",
+     ""
+    ],
+    [
+     "102",
+     "Al Pavone and Ryan Sweeney",
+     "71",
+     "",
+     "",
+     "",
+     "71",
+     ""
+    ],
+    [
+     "103",
+     "Charlie Pulay- Mark Braune- Matt Keats",
+     "46",
+     "22",
+     "",
+     "",
+     "68",
+     ""
+    ],
+    [
+     "103",
+     "Doug Miller- Jeff Crouse- Evan Loe",
+     "31",
+     "22",
+     "15",
+     "",
+     "68",
+     ""
+    ],
+    [
+     "104",
+     "Chris Herr- Stephanie Herr- Brendon Herr",
+     "45",
+     "22",
+     "",
+     "",
+     "67",
+     ""
+    ],
+    [
+     "104",
+     "Justin Johnston- Will Brown",
+     "67",
+     "",
+     "",
+     "",
+     "67",
+     ""
+    ],
+    [
+     "106",
+     "Esdras Placencia-Shawn Weil",
+     "64",
+     "",
+     "",
+     "",
+     "64",
+     ""
+    ],
+    [
+     "107",
+     "Barry Potteiger- Adam Ivory",
+     "62",
+     "",
+     "",
+     "",
+     "62",
+     ""
+    ],
+    [
+     "107",
+     "Tom Palm- Bradley Palm",
+     "62",
+     "",
+     "",
+     "",
+     "62",
+     ""
+    ],
+    [
+     "109",
+     "John Valdez- Ed Davis",
+     "59",
+     "",
+     "",
+     "",
+     "59",
+     ""
+    ],
+    [
+     "110",
+     "Dakota Snyder- Anthony Cicero",
+     "58",
+     "",
+     "",
+     "",
+     "58",
+     ""
+    ],
+    [
+     "111",
+     "Dave Raively- Corey Hymer",
+     "57",
+     "",
+     "",
+     "",
+     "57",
+     ""
+    ],
+    [
+     "112",
+     "Damian Szlachta- Colton Kentopp",
+     "55",
+     "",
+     "",
+     "",
+     "55",
+     ""
+    ],
+    [
+     "113",
+     "Peter Warner- Dylan Aulbach",
+     "54",
+     "",
+     "",
+     "",
+     "54",
+     ""
+    ],
+    [
+     "114",
+     "Steve Barber- Marco Dell",
+     "53",
+     "",
+     "",
+     "",
+     "53",
+     ""
+    ],
+    [
+     "115",
+     "Anthony Cicero- Josh Rand",
+     "52",
+     "",
+     "",
+     "",
+     "52",
+     ""
+    ],
+    [
+     "115",
+     "Steve Baillargeon-",
+     "52",
+     "",
+     "",
+     "",
+     "52",
+     ""
+    ],
+    [
+     "117",
+     "Dan Cornelius- Craig Cornelius",
+     "50",
+     "",
+     "",
+     "",
+     "50",
+     ""
+    ],
+    [
+     "118",
+     "Matt Goudie- Nic Faust",
+     "49",
+     "",
+     "",
+     "",
+     "49",
+     ""
+    ],
+    [
+     "119",
+     "Michael Grello and Scott Treon",
+     "48",
+     "",
+     "",
+     "",
+     "48",
+     ""
+    ],
+    [
+     "120",
+     "Jake Schauber- John Provin",
+     "44",
+     "",
+     "",
+     "",
+     "44",
+     ""
+    ],
+    [
+     "121",
+     "Bradley Cain- Randy Cain",
+     "42",
+     "",
+     "",
+     "",
+     "42",
+     ""
+    ],
+    [
+     "121",
+     "Bryan Giran- Amanda Giran",
+     "42",
+     "",
+     "",
+     "",
+     "42",
+     ""
+    ],
+    [
+     "121",
+     "Jim Tyson- Scott Thompson",
+     "42",
+     "",
+     "",
+     "",
+     "42",
+     ""
+    ],
+    [
+     "121",
+     "Dj Fiori-",
+     "42",
+     "",
+     "",
+     "",
+     "42",
+     ""
+    ],
+    [
+     "121",
+     "Dan Fitzpatrick-Jackson Fu",
+     "42",
+     "",
+     "",
+     "",
+     "42",
+     ""
+    ],
+    [
+     "121",
+     "Matthew Long-Leonard Long",
+     "42",
+     "",
+     "",
+     "",
+     "42",
+     ""
+    ],
+    [
+     "121",
+     "Charlie Mills-Ken Wood, Jr",
+     "42",
+     "",
+     "",
+     "",
+     "42",
+     ""
+    ],
+    [
+     "128",
+     "Cliff Humphreys- Zach Rollins",
+     "41",
+     "",
+     "",
+     "",
+     "41",
+     ""
+    ],
+    [
+     "128",
+     "Sam Montalto- Jim (Woo) Hauck",
+     "26",
+     "15",
+     "",
+     "",
+     "41",
+     ""
+    ],
+    [
+     "130",
+     "Thomas Riccio",
+     "38",
+     "",
+     "",
+     "",
+     "38",
+     ""
+    ],
+    [
+     "130",
+     "Tom Wood- Bob Moody",
+     "38",
+     "",
+     "",
+     "",
+     "38",
+     ""
+    ],
+    [
+     "132",
+     "Charles Hannah Brett Skinner",
+     "22",
+     "15",
+     "",
+     "",
+     "37",
+     ""
+    ],
+    [
+     "132",
+     "Dana Wagner- George Wagner",
+     "22",
+     "15",
+     "",
+     "",
+     "37",
+     ""
+    ],
+    [
+     "132",
+     "Douglas Kriete Jr.- Jason Giran- Kevin Mcginnis",
+     "22",
+     "15",
+     "",
+     "",
+     "37",
+     ""
+    ],
+    [
+     "132",
+     "Kevin Olbrich- Tyler Drozdowski- Josh Burger",
+     "22",
+     "15",
+     "",
+     "",
+     "37",
+     ""
+    ],
+    [
+     "132",
+     "Lance Thomson- Dave Hunter- Lance Thomson, Jr",
+     "22",
+     "15",
+     "",
+     "",
+     "37",
+     ""
+    ],
+    [
+     "132",
+     "Ron Caldeira- John Oldaker",
+     "22",
+     "15",
+     "",
+     "",
+     "37",
+     ""
+    ],
+    [
+     "132",
+     "Tommy Riccio- Jerry Hodge",
+     "37",
+     "",
+     "",
+     "",
+     "37",
+     ""
+    ],
+    [
+     "132",
+     "Tony Eskridge- Danny Lam- Alberto Gonzalez",
+     "22",
+     "15",
+     "",
+     "",
+     "37",
+     ""
+    ],
+    [
+     "140",
+     "Coty Camp- John Gomez",
+     "36",
+     "",
+     "",
+     "",
+     "36",
+     ""
+    ],
+    [
+     "141",
+     "Pablo Velazquez, Sr- Mr Phillips",
+     "27",
+     "",
+     "",
+     "",
+     "27",
+     ""
+    ],
+    [
+     "142",
+     "Kyle Gilson- Kyle Gilson, Jr",
+     "25",
+     "",
+     "",
+     "",
+     "25",
+     ""
+    ],
+    [
+     "143",
+     "Steve Zisk- Al Pavone",
+     "24",
+     "",
+     "",
+     "",
+     "24",
+     ""
+    ],
+    [
+     "144",
+     "James Hawk- Jr Hawk",
+     "22",
+     "",
+     "",
+     "",
+     "22",
+     ""
+    ],
+    [
+     "144",
+     "Jerry Hodge- Jerry Brooks",
+     "22",
+     "",
+     "",
+     "",
+     "22",
+     ""
+    ],
+    [
+     "144",
+     "Joseph Merker- Patrick Murphy",
+     "22",
+     "",
+     "",
+     "",
+     "22",
+     ""
+    ],
+    [
+     "144",
+     "Larry Craighead- Nate Brown",
+     "22",
+     "",
+     "",
+     "",
+     "22",
+     ""
+    ],
+    [
+     "144",
+     "Melvin Smitson",
+     "22",
+     "",
+     "",
+     "",
+     "22",
+     ""
+    ],
+    [
+     "144",
+     "Mike Reilly- Scott Reilly",
+     "22",
+     "",
+     "",
+     "",
+     "22",
+     ""
+    ],
+    [
+     "144",
+     "Paul Sanders- Eric Osborne",
+     "22",
+     "",
+     "",
+     "",
+     "22",
+     ""
+    ],
+    [
+     "144",
+     "Peter Jerrom",
+     "22",
+     "",
+     "",
+     "",
+     "22",
+     ""
+    ],
+    [
+     "144",
+     "Rick Anderson- Nick Goodling",
+     "22",
+     "",
+     "",
+     "",
+     "22",
+     ""
+    ],
+    [
+     "144",
+     "Ryan Walsh- Adam Ivory",
+     "22",
+     "",
+     "",
+     "",
+     "22",
+     ""
+    ],
+    [
+     "144",
+     "Scott Ivins- Joe Haefner- Jim Miller",
+     "22",
+     "0",
+     "",
+     "",
+     "22",
+     ""
+    ],
+    [
+     "144",
+     "Ted Lempke- Mark Kyllingstad",
+     "22",
+     "",
+     "",
+     "",
+     "22",
+     ""
+    ],
+    [
+     "144",
+     "Tejmohan Sawhney- Dave Wilt",
+     "22",
+     "",
+     "",
+     "",
+     "22",
+     ""
+    ],
+    [
+     "157",
+     "Bruce Reichart",
+     "20",
+     "",
+     "",
+     "",
+     "20",
+     ""
+    ],
+    [
+     "158",
+     "Mike Machmer- Ernie Demonia",
+     "18",
+     "",
+     "",
+     "",
+     "18",
+     ""
+    ],
+    [
+     "159",
+     "Brian Grant- Bill Burnside",
+     "15",
+     "",
+     "",
+     "",
+     "15",
+     ""
+    ],
+    [
+     "159",
+     "Chris Porter- Martin Cervera",
+     "15",
+     "",
+     "",
+     "",
+     "15",
+     ""
+    ],
+    [
+     "159",
+     "Cody Warner- Cole Mercer",
+     "15",
+     "",
+     "",
+     "",
+     "15",
+     ""
+    ],
+    [
+     "159",
+     "Dave Capano- Jim Smith",
+     "15",
+     "",
+     "",
+     "",
+     "15",
+     ""
+    ],
+    [
+     "159",
+     "Dominic Simone- Tom Pierce- Donnie Tomlin",
+     "15",
+     "0",
+     "",
+     "",
+     "15",
+     ""
+    ],
+    [
+     "159",
+     "Drew Scarpa- Lee Sockwell",
+     "15",
+     "",
+     "",
+     "",
+     "15",
+     ""
+    ],
+    [
+     "159",
+     "Dylan Missimer- Jeff Long",
+     "15",
+     "",
+     "",
+     "",
+     "15",
+     ""
+    ],
+    [
+     "159",
+     "Greg Wilder- George Wilder",
+     "15",
+     "",
+     "",
+     "",
+     "15",
+     ""
+    ],
+    [
+     "159",
+     "Max Meister- Scott Reilly",
+     "15",
+     "",
+     "",
+     "",
+     "15",
+     ""
+    ],
+    [
+     "159",
+     "Nate Brown- Miles Pryzynski",
+     "15",
+     "",
+     "",
+     "",
+     "15",
+     ""
+    ],
+    [
+     "159",
+     "Rich Tangradi- Vincenzo Martiello",
+     "15",
+     "",
+     "",
+     "",
+     "15",
+     ""
+    ],
+    [
+     "159",
+     "Shane Martin- Troy Christman",
+     "15",
+     "",
+     "",
+     "",
+     "15",
+     ""
+    ],
+    [
+     "159",
+     "Tommy Stalb- Joe Stalb",
+     "15",
+     "",
+     "",
+     "",
+     "15",
+     ""
+    ],
+    [
+     "159",
+     "Tyler Scruggs- Eddie Mort",
+     "15",
+     "",
+     "",
+     "",
+     "15",
+     ""
+    ],
+    [
+     "173",
+     "Jonathan Bredbenner- Taylor Demyan",
+     "14",
+     "",
+     "",
+     "",
+     "14",
+     ""
+    ],
+    [
+     "173",
+     "Austen Radecki- Robbie Wieder",
+     "14",
+     "0",
+     "",
+     "",
+     "14",
+     ""
+    ],
+    [
+     "175",
+     "Joe Dellavalle- Jim Steiner",
+     "0",
+     "",
+     "",
+     "",
+     "0",
+     ""
+    ],
+    [
+     "175",
+     "Randy Bassler- Andrew Perry",
+     "0",
+     "",
+     "",
+     "",
+     "0",
+     ""
+    ],
+    [
+     "175",
+     "Ray Saganich- Mike Saganich",
+     "0",
+     "",
+     "",
+     "",
+     "0",
+     ""
+    ],
+    [
+     "175",
+     "Shawn Weil- Theron Andrews",
+     "0",
+     "",
+     "",
+     "",
+     "0",
+     ""
+    ],
+    [
+     "175",
+     "Tom Wolverton- Mike Kearney",
+     "0",
+     "",
+     "",
+     "",
+     "0",
+     ""
+    ]
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 1,
+    "header": 1,
+    "rows": 180,
+    "other": 0,
+    "blank": 3
+   }
+  }
+ ],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "text",
+   "lines": [
+    "2022 Schedule",
+    "April 2",
+    "May 28",
+    "July 16",
+    "September 24",
+    "October 29",
+    "November 12 (cash prizes only/no points)",
+    "( 2021 Opens averaged 80 boats per tournament )"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "North East River, Anchor Marina",
+    "Upper Chesapeake Bay"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "(For the full write-up and photos of the Open txs see the Facebook page)"
+   ],
+   "links": [
+    {
+     "text": "Facebook page)",
+     "href": "https://www.facebook.com/groups/881394538591363"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "(For the full write-up and photos of the 4/24 Open, see the CCBM Opens Facebook page.)"
+   ],
+   "links": [
+    {
+     "text": "CCBM Opens Facebook page",
+     "href": "https://www.facebook.com/groups/881394538591363/permalink/4439190886145026/"
+    }
+   ]
+  },
+  {
+   "kind": "standings",
+   "index": 0
+  },
+  {
+   "kind": "tournament",
+   "id": "2021-06-12"
+  },
+  {
+   "kind": "tournament",
+   "id": "2021-05-15"
+  },
+  {
+   "kind": "tournament",
+   "id": "2021-04-24"
+  },
+  {
+   "kind": "tournament",
+   "id": "2021-09-25"
+  },
+  {
+   "kind": "tournament",
+   "id": "2021-10-16"
+  }
+ ],
+ "results_form": "tables",
+ "pictures": []
+}

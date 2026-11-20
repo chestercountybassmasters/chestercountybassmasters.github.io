@@ -1,0 +1,90 @@
+{
+ "series": "club",
+ "year": 2010,
+ "source": {
+  "page": "2010-club-results.html",
+  "copied": "2026-11-20",
+  "sha256": "084d971da2910b129ff6da40314fcec5c2e59283a54a96295018daa3a7a77464",
+  "rows": {
+   "table_rows": 0,
+   "tournament_rows": 0,
+   "standings_rows": 0,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 0,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [],
+ "standings": [],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "image",
+   "file": "archive/8525700_orig.jpg"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "Results",
+    "Click on results to enlarge"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/1445791_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/690785_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/9714094_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/2764439_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/7735664_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/4107092_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/3830203_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/8675036_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/9642895_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/1936976_orig.jpg"
+  }
+ ],
+ "results_form": "pictures",
+ "pictures": [
+  "archive/8525700_orig.jpg",
+  "archive/1445791_orig.jpg",
+  "archive/690785_orig.jpg",
+  "archive/9714094_orig.jpg",
+  "archive/2764439_orig.jpg",
+  "archive/7735664_orig.jpg",
+  "archive/4107092_orig.jpg",
+  "archive/3830203_orig.jpg",
+  "archive/8675036_orig.jpg",
+  "archive/9642895_orig.jpg",
+  "archive/1936976_orig.jpg"
+ ]
+}

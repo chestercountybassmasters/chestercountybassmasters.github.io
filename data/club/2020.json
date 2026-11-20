@@ -1,0 +1,2887 @@
+{
+ "series": "club",
+ "year": 2020,
+ "source": {
+  "page": "2020-club-results.html",
+  "copied": "2026-11-20",
+  "sha256": "55bde5b11b2f279d7a657fa721c5a31e67853233e224728f87fd4c2d1af3a5f7",
+  "rows": {
+   "table_rows": 287,
+   "tournament_rows": 287,
+   "standings_rows": 0,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 0,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [
+  {
+   "title_lines": [
+    "CCBM Tx #1",
+    "05/23/2020 North East"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Angler"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt."
+    },
+    {
+     "role": "points",
+     "label": "Pts."
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Mark Ely",
+     "fish": "5",
+     "weight": "17.65",
+     "points": "100",
+     "name_as_written": "MARK ELY"
+    },
+    {
+     "place": "2",
+     "name": "Paul S.",
+     "fish": "4",
+     "weight": "11.71",
+     "points": "96",
+     "name_as_written": "PAUL S."
+    },
+    {
+     "place": "3",
+     "name": "Steve Manista",
+     "fish": "3",
+     "weight": "11.59",
+     "points": "93",
+     "name_as_written": "STEVE MANISTA"
+    },
+    {
+     "place": "4",
+     "name": "JC Henry",
+     "fish": "4",
+     "weight": "11.50",
+     "points": "91",
+     "name_as_written": "JC HENRY"
+    },
+    {
+     "place": "5",
+     "name": "Sean",
+     "fish": "3",
+     "weight": "10.47",
+     "points": "90",
+     "name_as_written": "SEAN"
+    },
+    {
+     "place": "6",
+     "name": "John",
+     "fish": "4",
+     "weight": "8.78",
+     "points": "89",
+     "name_as_written": "JOHN"
+    },
+    {
+     "place": "7",
+     "name": "Tom Wood",
+     "fish": "2",
+     "weight": "8.04",
+     "points": "88",
+     "name_as_written": "TOM WOOD"
+    },
+    {
+     "place": "8",
+     "name": "Will",
+     "fish": "2",
+     "weight": "7.82",
+     "points": "87",
+     "name_as_written": "WILL"
+    },
+    {
+     "place": "9",
+     "name": "Jimmy P",
+     "fish": "2",
+     "weight": "5.97",
+     "points": "86",
+     "name_as_written": "JIMMY P"
+    },
+    {
+     "place": "10",
+     "name": "Stephan",
+     "fish": "2",
+     "weight": "5.12",
+     "points": "85",
+     "name_as_written": "STEPHAN"
+    },
+    {
+     "place": "11",
+     "name": "Woo",
+     "fish": "1",
+     "weight": "3.50",
+     "points": "84",
+     "name_as_written": "WOO"
+    },
+    {
+     "place": "12",
+     "name": "Lou",
+     "fish": "1",
+     "weight": "2.52",
+     "points": "83",
+     "name_as_written": "LOU"
+    },
+    {
+     "place": "13",
+     "name": "Eli",
+     "fish": "1",
+     "weight": "2.43",
+     "points": "82",
+     "name_as_written": "ELI"
+    },
+    {
+     "place": "14",
+     "name": "Rick",
+     "fish": "1",
+     "weight": "2.32",
+     "points": "81",
+     "name_as_written": "RICK"
+    },
+    {
+     "place": "15",
+     "name": "Ken",
+     "fish": "1",
+     "weight": "1.93",
+     "points": "80",
+     "name_as_written": "KEN"
+    },
+    {
+     "place": "16",
+     "name": "Jim Shinn",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "55",
+     "name_as_written": "JIM SHINN"
+    },
+    {
+     "place": "16",
+     "name": "JW",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "55"
+    },
+    {
+     "place": "16",
+     "name": "Nick",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "55",
+     "name_as_written": "NICK"
+    },
+    {
+     "place": "16",
+     "name": "Ryan",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "55",
+     "name_as_written": "RYAN"
+    },
+    {
+     "place": "16",
+     "name": "Tom Yaw",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "55",
+     "name_as_written": "TOM YAW"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Total Anglers",
+     "value": "20"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "111.35"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "36"
+    },
+    {
+     "label": "Average Fish Weight",
+     "value": "3.09"
+    },
+    {
+     "label": "#Fish/Angler",
+     "value": "1.80"
+    },
+    {
+     "label": "/Angler",
+     "value": "5.57"
+    }
+   ],
+   "notes": [
+    "STEVE MANISTA 5.90 lbs ROLLING LUNKER!!",
+    "Average",
+    "Average Weight"
+   ],
+   "source_rows": {
+    "title": 2,
+    "header": 1,
+    "results": 20,
+    "other": 7,
+    "blank": 6,
+    "table_rows": 36
+   },
+   "title": "CCBM Tx #1 05/23/2020 North East",
+   "dates": [
+    "2020-05-23"
+   ],
+   "waters": [
+    "North East"
+   ],
+   "id": "2020-05-23"
+  },
+  {
+   "title_lines": [
+    "CCBM Tx #2",
+    "6/13/2020 North East"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Angler"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt."
+    },
+    {
+     "role": "points",
+     "label": "Pts."
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Stan Horne",
+     "fish": "5",
+     "weight": "16.57",
+     "points": "100",
+     "name_as_written": "STAN HORNE"
+    },
+    {
+     "place": "2",
+     "name": "Rick Mullen",
+     "fish": "5",
+     "weight": "14.26",
+     "points": "96",
+     "name_as_written": "RICK MULLEN"
+    },
+    {
+     "place": "3",
+     "name": "Sean Geerlof",
+     "fish": "5",
+     "weight": "13.11",
+     "points": "93",
+     "name_as_written": "SEAN GEERLOF"
+    },
+    {
+     "place": "4",
+     "name": "JC Henry",
+     "fish": "5",
+     "weight": "12.40",
+     "points": "91",
+     "name_as_written": "JC HENRY"
+    },
+    {
+     "place": "5",
+     "name": "JW Wade",
+     "fish": "5",
+     "weight": "12.35",
+     "points": "90",
+     "name_as_written": "JW WADE"
+    },
+    {
+     "place": "6",
+     "name": "Lou Croce",
+     "fish": "5",
+     "weight": "12.26",
+     "points": "89",
+     "name_as_written": "LOU CROCE"
+    },
+    {
+     "place": "7",
+     "name": "George Waeckel",
+     "fish": "2",
+     "weight": "7.52",
+     "points": "88",
+     "name_as_written": "GEORGE WAECKEL"
+    },
+    {
+     "place": "8",
+     "name": "Ryan Sweeney",
+     "fish": "3",
+     "weight": "6.76",
+     "points": "87",
+     "name_as_written": "RYAN SWEENEY"
+    },
+    {
+     "place": "9",
+     "name": "Mark Ely",
+     "fish": "3",
+     "weight": "6.58",
+     "points": "86",
+     "name_as_written": "MARK ELY"
+    },
+    {
+     "place": "10",
+     "name": "Steve Manista",
+     "fish": "2",
+     "weight": "4.68",
+     "points": "85",
+     "name_as_written": "STEVE MANISTA"
+    },
+    {
+     "place": "11",
+     "name": "Ken Jester",
+     "fish": "2",
+     "weight": "4.56",
+     "points": "84",
+     "name_as_written": "KEN JESTER"
+    },
+    {
+     "place": "12",
+     "name": "Jim Pro",
+     "fish": "1",
+     "weight": "3.05",
+     "points": "83",
+     "name_as_written": "JIM PRO"
+    },
+    {
+     "place": "13",
+     "name": "Tom Yaw",
+     "fish": "1",
+     "weight": "2.68",
+     "points": "82",
+     "name_as_written": "TOM YAW"
+    },
+    {
+     "place": "14",
+     "name": "Jim (Woo) Hauck",
+     "fish": "1",
+     "weight": "2.49",
+     "points": "81",
+     "name_as_written": "JIM (WOO) HAUCK"
+    },
+    {
+     "place": "15",
+     "name": "Eli Amilani",
+     "fish": "1",
+     "weight": "2.30",
+     "points": "80",
+     "name_as_written": "ELI AMILANI"
+    },
+    {
+     "place": "15",
+     "name": "Paul Sirochman",
+     "fish": "1",
+     "weight": "2.30",
+     "points": "80",
+     "name_as_written": "PAUL SIROCHMAN"
+    },
+    {
+     "place": "17",
+     "name": "Steve Zisk",
+     "fish": "1",
+     "weight": "2.24",
+     "points": "78",
+     "name_as_written": "STEVE ZISK"
+    },
+    {
+     "place": "18",
+     "name": "Tom Wood",
+     "fish": "1",
+     "weight": "2.12",
+     "points": "77",
+     "name_as_written": "TOM WOOD"
+    },
+    {
+     "place": "19",
+     "name": "Steve Weimar",
+     "fish": "1",
+     "weight": "1.60",
+     "points": "76",
+     "name_as_written": "STEVE WEIMAR"
+    },
+    {
+     "place": "20",
+     "name": "Nick Biondi",
+     "fish": "",
+     "weight": "0.00",
+     "points": "51",
+     "name_as_written": "NICK BIONDI"
+    },
+    {
+     "place": "20",
+     "name": "Stephan Sirochman",
+     "fish": "",
+     "weight": "0.00",
+     "points": "51",
+     "name_as_written": "STEPHAN SIROCHMAN"
+    },
+    {
+     "place": "20",
+     "name": "Will Warren",
+     "fish": "",
+     "weight": "0.00",
+     "points": "51",
+     "name_as_written": "WILL WARREN"
+    },
+    {
+     "place": "20",
+     "name": "Jimmy Pitcherello",
+     "fish": "",
+     "weight": "0.00",
+     "points": "51",
+     "name_as_written": "JIMMY PITCHERELLO"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Lunker",
+     "value": "George Waeckel: 4.77 Lbs."
+    },
+    {
+     "label": "Total Anglers",
+     "value": "23"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "129.83"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "50"
+    },
+    {
+     "label": "Average Fish Weight",
+     "value": "2.60"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 2,
+    "header": 1,
+    "results": 23,
+    "other": 5,
+    "blank": 2,
+    "table_rows": 33
+   },
+   "title": "CCBM Tx #2 6/13/2020 North East",
+   "dates": [
+    "2020-06-13"
+   ],
+   "waters": [
+    "North East"
+   ],
+   "id": "2020-06-13"
+  },
+  {
+   "title_lines": [
+    "CCBM Tx #3",
+    "7/11/2020 Nanticoke"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Angler"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt."
+    },
+    {
+     "role": "points",
+     "label": "Pts."
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Stan Horne",
+     "fish": "5",
+     "weight": "10.78",
+     "points": "100",
+     "name_as_written": "STAN HORNE"
+    },
+    {
+     "place": "2",
+     "name": "Stephan Sirochman",
+     "fish": "4",
+     "weight": "7.74",
+     "points": "96",
+     "name_as_written": "STEPHAN SIROCHMAN"
+    },
+    {
+     "place": "3",
+     "name": "Sean Geerlof",
+     "fish": "5",
+     "weight": "6.95",
+     "points": "93",
+     "name_as_written": "SEAN GEERLOF"
+    },
+    {
+     "place": "4",
+     "name": "Jim Pro",
+     "fish": "3",
+     "weight": "5.80",
+     "points": "91",
+     "name_as_written": "JIM PRO"
+    },
+    {
+     "place": "5",
+     "name": "Jimmy Pitcherello",
+     "fish": "3",
+     "weight": "5.49",
+     "points": "90",
+     "name_as_written": "JIMMY PITCHERELLO"
+    },
+    {
+     "place": "6",
+     "name": "Steve Manista",
+     "fish": "3",
+     "weight": "5.36",
+     "points": "89",
+     "name_as_written": "STEVE MANISTA"
+    },
+    {
+     "place": "7",
+     "name": "Lou Croce",
+     "fish": "3",
+     "weight": "5.01",
+     "points": "88",
+     "name_as_written": "LOU CROCE"
+    },
+    {
+     "place": "8",
+     "name": "Steve Weimar",
+     "fish": "3",
+     "weight": "3.88",
+     "points": "87",
+     "name_as_written": "STEVE WEIMAR"
+    },
+    {
+     "place": "9",
+     "name": "Paul Sirochman",
+     "fish": "2*",
+     "weight": "3.83",
+     "points": "86",
+     "name_as_written": "PAUL SIROCHMAN"
+    },
+    {
+     "place": "10",
+     "name": "Rick Mullen",
+     "fish": "1",
+     "weight": "2.08",
+     "points": "85",
+     "name_as_written": "RICK MULLEN"
+    },
+    {
+     "place": "11",
+     "name": "JC Henry",
+     "fish": "1",
+     "weight": "1.57",
+     "points": "84",
+     "name_as_written": "JC HENRY"
+    },
+    {
+     "place": "12",
+     "name": "George Waeckel",
+     "fish": "1",
+     "weight": "1.40",
+     "points": "83",
+     "name_as_written": "GEORGE WAECKEL"
+    },
+    {
+     "place": "13",
+     "name": "Steve Zisk",
+     "fish": "1",
+     "weight": "1.10",
+     "points": "82",
+     "name_as_written": "STEVE ZISK"
+    },
+    {
+     "place": "14",
+     "name": "JW Wade",
+     "fish": "",
+     "weight": "0.00",
+     "points": "57",
+     "name_as_written": "JW WADE"
+    },
+    {
+     "place": "14",
+     "name": "Tom Yaw",
+     "fish": "",
+     "weight": "0.00",
+     "points": "57",
+     "name_as_written": "TOM YAW"
+    },
+    {
+     "place": "14",
+     "name": "Bill Allison",
+     "fish": "",
+     "weight": "0.00",
+     "points": "57",
+     "name_as_written": "BILL ALLISON"
+    },
+    {
+     "place": "14",
+     "name": "Eli Amilani",
+     "fish": "",
+     "weight": "0.00",
+     "points": "57",
+     "name_as_written": "ELI AMILANI"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Lunker",
+     "value": "STAN HORNE 3.98 lbs"
+    },
+    {
+     "label": "Total Anglers",
+     "value": "17"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "60.99"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "33"
+    },
+    {
+     "label": "Average Fish Weight",
+     "value": "1.85"
+    }
+   ],
+   "notes": [
+    "* dead fish"
+   ],
+   "source_rows": {
+    "title": 2,
+    "header": 1,
+    "results": 17,
+    "other": 6,
+    "blank": 1,
+    "table_rows": 27
+   },
+   "title": "CCBM Tx #3 7/11/2020 Nanticoke",
+   "dates": [
+    "2020-07-11"
+   ],
+   "waters": [
+    "Nanticoke"
+   ],
+   "id": "2020-07-11"
+  },
+  {
+   "title_lines": [
+    "CCBM Tx #4",
+    "7/25/2020 Wicomico"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Angler"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt."
+    },
+    {
+     "role": "points",
+     "label": "Pts."
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Tom Yaw",
+     "fish": "3",
+     "weight": "9.29",
+     "points": "100",
+     "name_as_written": "TOM YAW"
+    },
+    {
+     "place": "2",
+     "name": "Tom Wood",
+     "fish": "4",
+     "weight": "8.39",
+     "points": "96",
+     "name_as_written": "TOM WOOD"
+    },
+    {
+     "place": "3",
+     "name": "JC Henry",
+     "fish": "4",
+     "weight": "6.76",
+     "points": "93",
+     "name_as_written": "JC HENRY"
+    },
+    {
+     "place": "4",
+     "name": "Steve Weimar",
+     "fish": "2",
+     "weight": "4.03",
+     "points": "91",
+     "name_as_written": "STEVE WEIMAR"
+    },
+    {
+     "place": "5",
+     "name": "Mark Ely",
+     "fish": "1",
+     "weight": "3.68",
+     "points": "90",
+     "name_as_written": "MARK ELY"
+    },
+    {
+     "place": "6",
+     "name": "Dave Curci",
+     "fish": "2",
+     "weight": "3.13",
+     "points": "89",
+     "name_as_written": "DAVE CURCI"
+    },
+    {
+     "place": "7",
+     "name": "Ryan Sweeney",
+     "fish": "1",
+     "weight": "2.77",
+     "points": "88",
+     "name_as_written": "RYAN SWEENEY"
+    },
+    {
+     "place": "8",
+     "name": "Sean Geerlof",
+     "fish": "1",
+     "weight": "1.84",
+     "points": "87",
+     "name_as_written": "SEAN GEERLOF"
+    },
+    {
+     "place": "9",
+     "name": "Stan Horne",
+     "fish": "1",
+     "weight": "1.55",
+     "points": "86",
+     "name_as_written": "STAN HORNE"
+    },
+    {
+     "place": "10",
+     "name": "Steve Manista",
+     "fish": "1",
+     "weight": "1.43",
+     "points": "85",
+     "name_as_written": "STEVE MANISTA"
+    },
+    {
+     "place": "11",
+     "name": "Jim (Woo) Hauck",
+     "fish": "1",
+     "weight": "1.07",
+     "points": "84",
+     "name_as_written": "JIM (WOO) HAUCK"
+    },
+    {
+     "place": "12",
+     "name": "Rick Mullen",
+     "fish": "",
+     "weight": "0.00",
+     "points": "59",
+     "name_as_written": "RICK MULLEN"
+    },
+    {
+     "place": "12",
+     "name": "Jimmy Pitcherello",
+     "fish": "",
+     "weight": "0.00",
+     "points": "59",
+     "name_as_written": "JIMMY PITCHERELLO"
+    },
+    {
+     "place": "12",
+     "name": "Bill Allison",
+     "fish": "",
+     "weight": "0.00",
+     "points": "59",
+     "name_as_written": "BILL ALLISON"
+    },
+    {
+     "place": "12",
+     "name": "Eli Amilani",
+     "fish": "",
+     "weight": "0.00",
+     "points": "59",
+     "name_as_written": "ELI AMILANI"
+    },
+    {
+     "place": "12",
+     "name": "Nick Biondi",
+     "fish": "",
+     "weight": "0.00",
+     "points": "59",
+     "name_as_written": "NICK BIONDI"
+    },
+    {
+     "place": "12",
+     "name": "Lou Croce",
+     "fish": "",
+     "weight": "0.00",
+     "points": "59",
+     "name_as_written": "LOU CROCE"
+    },
+    {
+     "place": "12",
+     "name": "Jim Pro",
+     "fish": "",
+     "weight": "0.00",
+     "points": "59",
+     "name_as_written": "JIM PRO"
+    },
+    {
+     "place": "12",
+     "name": "Paul Sirochman",
+     "fish": "",
+     "weight": "0.00",
+     "points": "59",
+     "name_as_written": "PAUL SIROCHMAN"
+    },
+    {
+     "place": "12",
+     "name": "Stephan Sirochman",
+     "fish": "",
+     "weight": "0.00",
+     "points": "59",
+     "name_as_written": "STEPHAN SIROCHMAN"
+    },
+    {
+     "place": "12",
+     "name": "JW Wade",
+     "fish": "",
+     "weight": "0.00",
+     "points": "59",
+     "name_as_written": "JW WADE"
+    },
+    {
+     "place": "12",
+     "name": "George Waeckel",
+     "fish": "",
+     "weight": "0.00",
+     "points": "59",
+     "name_as_written": "GEORGE WAECKEL"
+    },
+    {
+     "place": "12",
+     "name": "Will Warren",
+     "fish": "",
+     "weight": "0.00",
+     "points": "59",
+     "name_as_written": "WILL WARREN"
+    },
+    {
+     "place": "12",
+     "name": "Steve Zisk",
+     "fish": "",
+     "weight": "0.00",
+     "points": "59",
+     "name_as_written": "STEVE ZISK"
+    },
+    {
+     "place": "[4]",
+     "name": "*LEN SPEED (guest but then joined)",
+     "fish": "2",
+     "weight": "5.99",
+     "points": "91",
+     "guest": true
+    }
+   ],
+   "summary": [
+    {
+     "label": "Lunker",
+     "value": "Mark Ely 3.68 lbs"
+    },
+    {
+     "label": "Total Anglers",
+     "value": "25"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "49.93"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "23"
+    },
+    {
+     "label": "Average Fish Weight",
+     "value": "2.17"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 2,
+    "header": 1,
+    "results": 25,
+    "other": 5,
+    "blank": 2,
+    "table_rows": 35
+   },
+   "title": "CCBM Tx #4 7/25/2020 Wicomico",
+   "dates": [
+    "2020-07-25"
+   ],
+   "waters": [
+    "Wicomico"
+   ],
+   "id": "2020-07-25"
+  },
+  {
+   "title_lines": [
+    "CCBM Tx #5",
+    "8/08/2020 Nanticoke"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Angler"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt."
+    },
+    {
+     "role": "points",
+     "label": "Pts."
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Stan Horne",
+     "fish": "5",
+     "weight": "12.84",
+     "points": "100",
+     "name_as_written": "STAN HORNE"
+    },
+    {
+     "place": "2",
+     "name": "Ryan Sweeney",
+     "fish": "4",
+     "weight": "6.01",
+     "points": "96",
+     "name_as_written": "RYAN SWEENEY"
+    },
+    {
+     "place": "3",
+     "name": "Jim Pro",
+     "fish": "2",
+     "weight": "4.68",
+     "points": "93",
+     "name_as_written": "JIM PRO"
+    },
+    {
+     "place": "4",
+     "name": "Steve Zisk",
+     "fish": "3",
+     "weight": "4.56",
+     "points": "91",
+     "name_as_written": "STEVE ZISK"
+    },
+    {
+     "place": "5",
+     "name": "Jim (Woo) Hauck",
+     "fish": "2",
+     "weight": "3.42",
+     "points": "90",
+     "name_as_written": "JIM (WOO) HAUCK"
+    },
+    {
+     "place": "6",
+     "name": "JW Wade",
+     "fish": "3",
+     "weight": "3.29",
+     "points": "89",
+     "name_as_written": "JW WADE"
+    },
+    {
+     "place": "7",
+     "name": "Eli Amilani",
+     "fish": "3",
+     "weight": "3.25",
+     "points": "88",
+     "name_as_written": "ELI AMILANI"
+    },
+    {
+     "place": "8",
+     "name": "Dave Curci",
+     "fish": "2",
+     "weight": "2.54",
+     "points": "87",
+     "name_as_written": "DAVE CURCI"
+    },
+    {
+     "place": "9",
+     "name": "Sean Geerlof",
+     "fish": "2",
+     "weight": "2.44",
+     "points": "86",
+     "name_as_written": "SEAN GEERLOF"
+    },
+    {
+     "place": "10",
+     "name": "George Waeckel",
+     "fish": "2",
+     "weight": "1.94",
+     "points": "85",
+     "name_as_written": "GEORGE WAECKEL"
+    },
+    {
+     "place": "11",
+     "name": "Lou Croce",
+     "fish": "1",
+     "weight": "1.91",
+     "points": "84",
+     "name_as_written": "LOU CROCE"
+    },
+    {
+     "place": "11",
+     "name": "Stephan Sirochman",
+     "fish": "1",
+     "weight": "1.91",
+     "points": "84",
+     "name_as_written": "STEPHAN SIROCHMAN"
+    },
+    {
+     "place": "13",
+     "name": "Rick Mullen",
+     "fish": "1",
+     "weight": "1.37",
+     "points": "82",
+     "name_as_written": "RICK MULLEN"
+    },
+    {
+     "place": "14",
+     "name": "Nick Biondi",
+     "fish": "1",
+     "weight": "1.34",
+     "points": "81",
+     "name_as_written": "NICK BIONDI"
+    },
+    {
+     "place": "15",
+     "name": "Steve Weimar",
+     "fish": "1",
+     "weight": "1.28",
+     "points": "80",
+     "name_as_written": "STEVE WEIMAR"
+    },
+    {
+     "place": "16",
+     "name": "Jimmy Pitcherello",
+     "fish": "1",
+     "weight": "1.17",
+     "points": "79",
+     "name_as_written": "JIMMY PITCHERELLO"
+    },
+    {
+     "place": "17",
+     "name": "Tom Yaw",
+     "fish": "1",
+     "weight": "0.99",
+     "points": "78",
+     "name_as_written": "TOM YAW"
+    },
+    {
+     "place": "18",
+     "name": "JC Henry",
+     "fish": "",
+     "weight": "0.00",
+     "points": "53",
+     "name_as_written": "JC HENRY"
+    },
+    {
+     "place": "18",
+     "name": "Len Speed",
+     "fish": "",
+     "weight": "0.00",
+     "points": "53",
+     "name_as_written": "LEN SPEED"
+    },
+    {
+     "place": "18",
+     "name": "Paul Sirochman",
+     "fish": "",
+     "weight": "0.00",
+     "points": "53",
+     "name_as_written": "PAUL SIROCHMAN"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Lunker",
+     "value": "Stan Horne 4.60 lbs"
+    },
+    {
+     "label": "Total Anglers",
+     "value": "20"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "54.94"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "35"
+    },
+    {
+     "label": "Average Fish Weight",
+     "value": "1.57"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 2,
+    "header": 1,
+    "results": 20,
+    "other": 5,
+    "blank": 3,
+    "table_rows": 31
+   },
+   "title": "CCBM Tx #5 8/08/2020 Nanticoke",
+   "dates": [
+    "2020-08-08"
+   ],
+   "waters": [
+    "Nanticoke"
+   ],
+   "id": "2020-08-08"
+  },
+  {
+   "title_lines": [
+    "CCBM Tx #6",
+    "8/22/2020 Conowingo"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Angler"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt."
+    },
+    {
+     "role": "points",
+     "label": "Pts."
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Paul Sirochman",
+     "fish": "5",
+     "weight": "11.10*",
+     "points": "100",
+     "name_as_written": "PAUL SIROCHMAN"
+    },
+    {
+     "place": "2",
+     "name": "Ryan Sweeney",
+     "fish": "4",
+     "weight": "8.43",
+     "points": "96",
+     "name_as_written": "RYAN SWEENEY"
+    },
+    {
+     "place": "3",
+     "name": "Steve Manista",
+     "fish": "1",
+     "weight": "2.64",
+     "points": "93",
+     "name_as_written": "STEVE MANISTA"
+    },
+    {
+     "place": "4",
+     "name": "George Waeckel",
+     "fish": "2",
+     "weight": "2.47",
+     "points": "91",
+     "name_as_written": "GEORGE WAECKEL"
+    },
+    {
+     "place": "5",
+     "name": "Stephan Sirochman",
+     "fish": "2",
+     "weight": "2.28",
+     "points": "90",
+     "name_as_written": "STEPHAN SIROCHMAN"
+    },
+    {
+     "place": "6",
+     "name": "Eli Amilani",
+     "fish": "1",
+     "weight": "1.59",
+     "points": "89",
+     "name_as_written": "ELI AMILANI"
+    },
+    {
+     "place": "7",
+     "name": "Steve Weimar",
+     "fish": "1",
+     "weight": "1.43",
+     "points": "88",
+     "name_as_written": "STEVE WEIMAR"
+    },
+    {
+     "place": "8",
+     "name": "Stan Horne",
+     "fish": "1",
+     "weight": "1.38",
+     "points": "87",
+     "name_as_written": "STAN HORNE"
+    },
+    {
+     "place": "9",
+     "name": "Nick Biondi",
+     "fish": "1",
+     "weight": "1.13",
+     "points": "86",
+     "name_as_written": "NICK BIONDI"
+    },
+    {
+     "place": "10",
+     "name": "Sean Geerlof",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "61",
+     "name_as_written": "SEAN GEERLOF"
+    },
+    {
+     "place": "10",
+     "name": "Jim (Woo) Hauck",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "61",
+     "name_as_written": "JIM (WOO) HAUCK"
+    },
+    {
+     "place": "10",
+     "name": "Tom Yaw",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "61",
+     "name_as_written": "TOM YAW"
+    },
+    {
+     "place": "10",
+     "name": "JW Wade",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "61",
+     "name_as_written": "JW WADE"
+    },
+    {
+     "place": "10",
+     "name": "Billy Allison",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "61",
+     "name_as_written": "BILLY ALLISON"
+    },
+    {
+     "place": "10",
+     "name": "Dave Curci",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "61",
+     "name_as_written": "DAVE CURCI"
+    },
+    {
+     "place": "10",
+     "name": "Rick Mullen",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "61",
+     "name_as_written": "RICK MULLEN"
+    },
+    {
+     "place": "10",
+     "name": "Tom Wood",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "61",
+     "name_as_written": "TOM WOOD"
+    },
+    {
+     "place": "10",
+     "name": "Steve Zisk",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "61",
+     "name_as_written": "STEVE ZISK"
+    },
+    {
+     "place": "10",
+     "name": "Jim Pro",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "61",
+     "name_as_written": "JIM PRO"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Lunker",
+     "value": "Paul Sirochman 4.00 lbs"
+    },
+    {
+     "label": "Total Anglers",
+     "value": "19"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "32.45"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "18"
+    },
+    {
+     "label": "Average Fish Weight",
+     "value": "1.80"
+    }
+   ],
+   "notes": [
+    "*dead fish penalty"
+   ],
+   "source_rows": {
+    "title": 2,
+    "header": 1,
+    "results": 19,
+    "other": 6,
+    "blank": 0,
+    "table_rows": 28
+   },
+   "title": "CCBM Tx #6 8/22/2020 Conowingo",
+   "dates": [
+    "2020-08-22"
+   ],
+   "waters": [
+    "Conowingo"
+   ],
+   "id": "2020-08-22"
+  },
+  {
+   "title_lines": [
+    "CCBM Tx #7",
+    "9/12/2020 Nanticoke"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Angler"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt."
+    },
+    {
+     "role": "points",
+     "label": "Pts."
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Tom Yaw",
+     "fish": "5",
+     "weight": "11.13",
+     "points": "100",
+     "name_as_written": "TOM YAW"
+    },
+    {
+     "place": "2",
+     "name": "Mark Ely",
+     "fish": "5",
+     "weight": "9.96",
+     "points": "96",
+     "name_as_written": "MARK ELY"
+    },
+    {
+     "place": "3",
+     "name": "Tom Wood",
+     "fish": "5",
+     "weight": "8.90",
+     "points": "93",
+     "name_as_written": "TOM WOOD"
+    },
+    {
+     "place": "4",
+     "name": "Sam Motalto",
+     "fish": "5",
+     "weight": "7.91",
+     "points": "91",
+     "name_as_written": "SAM MOTALTO"
+    },
+    {
+     "place": "5",
+     "name": "Steve Weimar",
+     "fish": "5",
+     "weight": "7.74",
+     "points": "90",
+     "name_as_written": "STEVE WEIMAR"
+    },
+    {
+     "place": "6",
+     "name": "George Waeckel",
+     "fish": "5",
+     "weight": "7.37",
+     "points": "89",
+     "name_as_written": "GEORGE WAECKEL"
+    },
+    {
+     "place": "7",
+     "name": "Sean Geerlof",
+     "fish": "5",
+     "weight": "7.35",
+     "points": "88",
+     "name_as_written": "SEAN GEERLOF"
+    },
+    {
+     "place": "8",
+     "name": "Lou Croce",
+     "fish": "5",
+     "weight": "6.03",
+     "points": "87",
+     "name_as_written": "LOU CROCE"
+    },
+    {
+     "place": "9",
+     "name": "Jimmy Pitcherello",
+     "fish": "4",
+     "weight": "5.05",
+     "points": "86",
+     "name_as_written": "JIMMY PITCHERELLO"
+    },
+    {
+     "place": "10",
+     "name": "Jim (Woo) Hauck",
+     "fish": "4",
+     "weight": "4.67",
+     "points": "85",
+     "name_as_written": "JIM (WOO) HAUCK"
+    },
+    {
+     "place": "11",
+     "name": "Billy Allison",
+     "fish": "2",
+     "weight": "4.18",
+     "points": "84",
+     "name_as_written": "BILLY ALLISON"
+    },
+    {
+     "place": "12",
+     "name": "Paul Sirochman",
+     "fish": "2",
+     "weight": "4.12",
+     "points": "83",
+     "name_as_written": "PAUL SIROCHMAN"
+    },
+    {
+     "place": "13",
+     "name": "JC Henry",
+     "fish": "2",
+     "weight": "3.99",
+     "points": "82",
+     "name_as_written": "JC HENRY"
+    },
+    {
+     "place": "14",
+     "name": "Steve Zisk",
+     "fish": "3",
+     "weight": "3.68",
+     "points": "81",
+     "name_as_written": "STEVE ZISK"
+    },
+    {
+     "place": "15",
+     "name": "JW Wade",
+     "fish": "2",
+     "weight": "3.04",
+     "points": "80",
+     "name_as_written": "JW WADE"
+    },
+    {
+     "place": "16",
+     "name": "Steve Manista",
+     "fish": "3",
+     "weight": "2.76",
+     "points": "79",
+     "name_as_written": "STEVE MANISTA"
+    },
+    {
+     "place": "17",
+     "name": "Eli Amilani",
+     "fish": "2",
+     "weight": "2.58",
+     "points": "78",
+     "name_as_written": "ELI AMILANI"
+    },
+    {
+     "place": "18",
+     "name": "Jim Pro",
+     "fish": "2",
+     "weight": "1.83",
+     "points": "77",
+     "name_as_written": "JIM PRO"
+    },
+    {
+     "place": "19",
+     "name": "Dave Curci",
+     "fish": "1",
+     "weight": "1.72",
+     "points": "76",
+     "name_as_written": "DAVE CURCI"
+    },
+    {
+     "place": "20",
+     "name": "Len Speed",
+     "fish": "1",
+     "weight": "1.60",
+     "points": "75",
+     "name_as_written": "LEN SPEED"
+    },
+    {
+     "place": "21",
+     "name": "Nick Biondi",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "50",
+     "name_as_written": "NICK BIONDI"
+    },
+    {
+     "place": "21",
+     "name": "Stephan Sirochman",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "50",
+     "name_as_written": "STEPHAN SIROCHMAN"
+    },
+    {
+     "place": "21",
+     "name": "Stan Horne",
+     "fish": "(LATE)",
+     "weight": "0.00",
+     "points": "50",
+     "name_as_written": "STAN HORNE"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Lunker",
+     "value": "TOM YAW 3.61 lbs"
+    },
+    {
+     "label": "Total Anglers",
+     "value": "23"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "105.61"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "68"
+    },
+    {
+     "label": "Average Fish Weight",
+     "value": "1.55"
+    },
+    {
+     "label": "Average Wgt./Participant",
+     "value": "4.59"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 2,
+    "header": 1,
+    "results": 23,
+    "other": 6,
+    "blank": 0,
+    "table_rows": 32
+   },
+   "title": "CCBM Tx #7 9/12/2020 Nanticoke",
+   "dates": [
+    "2020-09-12"
+   ],
+   "waters": [
+    "Nanticoke"
+   ],
+   "id": "2020-09-12"
+  },
+  {
+   "title_lines": [
+    "CCBM Tx #8",
+    "9/26/2020 Conowingo"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Angler"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt."
+    },
+    {
+     "role": "points",
+     "label": "Pts."
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Paul Sirochman",
+     "fish": "4",
+     "weight": "8.16",
+     "points": "100",
+     "name_as_written": "PAUL SIROCHMAN"
+    },
+    {
+     "place": "2",
+     "name": "Ken Jester",
+     "fish": "5",
+     "weight": "7.27",
+     "points": "96",
+     "name_as_written": "KEN JESTER"
+    },
+    {
+     "place": "3",
+     "name": "Tom Wood",
+     "fish": "5",
+     "weight": "7.25",
+     "points": "93",
+     "name_as_written": "TOM WOOD"
+    },
+    {
+     "place": "4",
+     "name": "Tom Yaw",
+     "fish": "3",
+     "weight": "6.34",
+     "points": "91",
+     "name_as_written": "TOM YAW"
+    },
+    {
+     "place": "5",
+     "name": "Sean Geerlof",
+     "fish": "3",
+     "weight": "5.55",
+     "points": "90",
+     "name_as_written": "SEAN GEERLOF"
+    },
+    {
+     "place": "6",
+     "name": "Rick Mullen",
+     "fish": "3",
+     "weight": "5.18",
+     "points": "89",
+     "name_as_written": "RICK MULLEN"
+    },
+    {
+     "place": "7",
+     "name": "Len Speed",
+     "fish": "2",
+     "weight": "4.79",
+     "points": "88",
+     "name_as_written": "LEN SPEED"
+    },
+    {
+     "place": "8",
+     "name": "Jimmy Pitcherello",
+     "fish": "3",
+     "weight": "3.48",
+     "points": "87",
+     "name_as_written": "JIMMY PITCHERELLO"
+    },
+    {
+     "place": "9",
+     "name": "Steve Zisk",
+     "fish": "1",
+     "weight": "2.62",
+     "points": "86",
+     "name_as_written": "STEVE ZISK"
+    },
+    {
+     "place": "10",
+     "name": "Nick Biondi",
+     "fish": "1",
+     "weight": "2.51",
+     "points": "85",
+     "name_as_written": "NICK BIONDI"
+    },
+    {
+     "place": "11",
+     "name": "Mark Ely",
+     "fish": "2",
+     "weight": "2.50",
+     "points": "84",
+     "name_as_written": "MARK ELY"
+    },
+    {
+     "place": "12",
+     "name": "Sam Montalto",
+     "fish": "2",
+     "weight": "2.41",
+     "points": "83",
+     "name_as_written": "SAM MONTALTO"
+    },
+    {
+     "place": "13",
+     "name": "Steve Manista",
+     "fish": "1",
+     "weight": "2.20",
+     "points": "82",
+     "name_as_written": "STEVE MANISTA"
+    },
+    {
+     "place": "14",
+     "name": "Stephan Sirochman",
+     "fish": "1",
+     "weight": "1.69",
+     "points": "81",
+     "name_as_written": "STEPHAN SIROCHMAN"
+    },
+    {
+     "place": "15",
+     "name": "Ryan Sweeney",
+     "fish": "1",
+     "weight": "1.42",
+     "points": "80",
+     "name_as_written": "RYAN SWEENEY"
+    },
+    {
+     "place": "16",
+     "name": "George Waeckel",
+     "fish": "1",
+     "weight": "1.28",
+     "points": "79",
+     "name_as_written": "GEORGE WAECKEL"
+    },
+    {
+     "place": "17",
+     "name": "Stan Horne",
+     "fish": "1",
+     "weight": "1.19",
+     "points": "78",
+     "name_as_written": "STAN HORNE"
+    },
+    {
+     "place": "18",
+     "name": "JC Henry",
+     "fish": "1",
+     "weight": "1.16",
+     "points": "77",
+     "name_as_written": "JC HENRY"
+    },
+    {
+     "place": "19",
+     "name": "Bill Allison",
+     "fish": "1",
+     "weight": "1.07",
+     "points": "76",
+     "name_as_written": "BILL ALLISON"
+    },
+    {
+     "place": "20",
+     "name": "Dave Curci",
+     "fish": "1",
+     "weight": "1.04",
+     "points": "75",
+     "name_as_written": "DAVE CURCI"
+    },
+    {
+     "place": "21",
+     "name": "Lou Croce",
+     "fish": "1",
+     "weight": "0.79",
+     "points": "74",
+     "name_as_written": "LOU CROCE"
+    },
+    {
+     "place": "22",
+     "name": "Steve Weimar",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "49",
+     "name_as_written": "STEVE WEIMAR"
+    },
+    {
+     "place": "22",
+     "name": "JW Wade",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "49",
+     "name_as_written": "JW WADE"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Lunker",
+     "value": "TOM WOOD 3.0 lbs"
+    },
+    {
+     "label": "Total Anglers",
+     "value": "23"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "69.90"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "43"
+    },
+    {
+     "label": "Average Fish Weight",
+     "value": "1..63"
+    },
+    {
+     "label": "Average Wgt./Participant",
+     "value": "1.87"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 2,
+    "header": 1,
+    "results": 23,
+    "other": 6,
+    "blank": 0,
+    "table_rows": 32
+   },
+   "title": "CCBM Tx #8 9/26/2020 Conowingo",
+   "dates": [
+    "2020-09-26"
+   ],
+   "waters": [
+    "Conowingo"
+   ],
+   "id": "2020-09-26"
+  },
+  {
+   "title_lines": [
+    "CCBM Tx #9",
+    "10/10/2020 Nanticoke"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Angler"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt."
+    },
+    {
+     "role": "points",
+     "label": "Pts."
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Ken Jester",
+     "fish": "5",
+     "weight": "10.29",
+     "points": "100",
+     "name_as_written": "KEN JESTER"
+    },
+    {
+     "place": "2",
+     "name": "Stan Horne",
+     "fish": "5",
+     "weight": "8.30",
+     "points": "96",
+     "name_as_written": "STAN HORNE"
+    },
+    {
+     "place": "3",
+     "name": "Lou Croce",
+     "fish": "5",
+     "weight": "8.30",
+     "points": "93",
+     "name_as_written": "LOU CROCE"
+    },
+    {
+     "place": "4",
+     "name": "Sam Montalto",
+     "fish": "5",
+     "weight": "7.90",
+     "points": "91",
+     "name_as_written": "SAM MONTALTO"
+    },
+    {
+     "place": "5",
+     "name": "Steve Zisk",
+     "fish": "4",
+     "weight": "7.54",
+     "points": "90",
+     "name_as_written": "STEVE ZISK"
+    },
+    {
+     "place": "6",
+     "name": "Len Speed",
+     "fish": "3",
+     "weight": "5.83",
+     "points": "89",
+     "name_as_written": "LEN SPEED"
+    },
+    {
+     "place": "7",
+     "name": "Billy Allison",
+     "fish": "3",
+     "weight": "5.25",
+     "points": "88",
+     "name_as_written": "BILLY ALLISON"
+    },
+    {
+     "place": "8",
+     "name": "Dave Curci",
+     "fish": "2",
+     "weight": "5.17",
+     "points": "87",
+     "name_as_written": "DAVE CURCI"
+    },
+    {
+     "place": "9",
+     "name": "George Waeckel",
+     "fish": "5",
+     "weight": "5.12",
+     "points": "86",
+     "name_as_written": "GEORGE WAECKEL"
+    },
+    {
+     "place": "10",
+     "name": "Paul Sirochman",
+     "fish": "3",
+     "weight": "5.06",
+     "points": "85",
+     "name_as_written": "PAUL SIROCHMAN"
+    },
+    {
+     "place": "11",
+     "name": "Rick Mullen",
+     "fish": "4",
+     "weight": "4.57",
+     "points": "84",
+     "name_as_written": "RICK MULLEN"
+    },
+    {
+     "place": "12",
+     "name": "Stephan Sirochman",
+     "fish": "3",
+     "weight": "4.34",
+     "points": "83",
+     "name_as_written": "STEPHAN SIROCHMAN"
+    },
+    {
+     "place": "13",
+     "name": "Steve Manista",
+     "fish": "2",
+     "weight": "4.02",
+     "points": "82",
+     "name_as_written": "STEVE MANISTA"
+    },
+    {
+     "place": "14",
+     "name": "Tom Yaw",
+     "fish": "3",
+     "weight": "3.90",
+     "points": "81",
+     "name_as_written": "TOM YAW"
+    },
+    {
+     "place": "15",
+     "name": "Jimmy Pitcherello",
+     "fish": "2",
+     "weight": "2.43",
+     "points": "80",
+     "name_as_written": "JIMMY PITCHERELLO"
+    },
+    {
+     "place": "16",
+     "name": "Tom Wood",
+     "fish": "1",
+     "weight": "2.35",
+     "points": "79",
+     "name_as_written": "TOM WOOD"
+    },
+    {
+     "place": "17",
+     "name": "Steve Weimar",
+     "fish": "2",
+     "weight": "2.03",
+     "points": "78",
+     "name_as_written": "STEVE WEIMAR"
+    },
+    {
+     "place": "18",
+     "name": "Sean Geerlof",
+     "fish": "2",
+     "weight": "2.00",
+     "points": "77",
+     "name_as_written": "SEAN GEERLOF"
+    },
+    {
+     "place": "19",
+     "name": "Ryan Sweeney",
+     "fish": "1",
+     "weight": "1.39",
+     "points": "76",
+     "name_as_written": "RYAN SWEENEY"
+    },
+    {
+     "place": "20",
+     "name": "Jim (Woo) Hauck",
+     "fish": "1",
+     "weight": "1.03",
+     "points": "75",
+     "name_as_written": "JIM (WOO) HAUCK"
+    },
+    {
+     "place": "21",
+     "name": "JC Henry",
+     "fish": "1",
+     "weight": "0.86",
+     "points": "74",
+     "name_as_written": "JC HENRY"
+    },
+    {
+     "place": "22",
+     "name": "Eli Amilani",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "49",
+     "name_as_written": "ELI AMILANI"
+    },
+    {
+     "place": "22",
+     "name": "JW Wade",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "49",
+     "name_as_written": "JW WADE"
+    },
+    {
+     "place": "22",
+     "name": "Nick Biondi",
+     "fish": "0",
+     "weight": "0.00",
+     "points": "49",
+     "name_as_written": "NICK BIONDI"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Lunker",
+     "value": "KEN JESTER 3.51 lbs"
+    },
+    {
+     "label": "Total Anglers",
+     "value": "24"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "97.68"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "62"
+    },
+    {
+     "label": "Average Fish Weight",
+     "value": "1.58"
+    },
+    {
+     "label": "Average Wgt./Participant",
+     "value": "4.07"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 2,
+    "header": 1,
+    "results": 24,
+    "other": 6,
+    "blank": 0,
+    "table_rows": 33
+   },
+   "title": "CCBM Tx #9 10/10/2020 Nanticoke",
+   "dates": [
+    "2020-10-10"
+   ],
+   "waters": [
+    "Nanticoke"
+   ],
+   "id": "2020-10-10"
+  }
+ ],
+ "standings": [],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "heading",
+   "lines": [
+    "2020 CCBM Tournament Results and Standings"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Tournament Rules"
+   ],
+   "links": [
+    {
+     "text": "​Tournament Rules",
+     "file": "archive/chestercountybassmasters_2019-b_tournament_rules.pdf"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2020-09-27-at-11-34-02-am_1.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2020-11-09-at-9-17-23-am_1.png"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "2020 Club Tournament Results",
+    "CCBM Tournament #1",
+    "May 23, 2020- North East River"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "A long wait to do this little thing we love called Fishing but we finally got our first tx in the books for 2020.",
+    "When you talk about destroying the field it looks like this as the winner beats the nearest finisher by nearly 6 lbs. A new member but not new to the club takes a 2nd place finish in his first club tx while last year's ROY takes a 3rd place finish and other awards."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-0361_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Mark Ely starts the season with a big bag of largemouth. When many other anglers were catching good fish, he was catching fatties! His bag goes 17.65 lbs and takes an early lead in the AOY standings."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-0357_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Paul Sirochman walks in the door and walks out 2nd on the AOY standings leaderboard. Paul just misses his limit and weighs in 11.71 lbs. With 3 other anglers within 1.25 lbs of him, Paul makes it through his first tx in great shape."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-0340_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Steve Manista picks up where he left off in 2019 when he won Rider of the Year and takes 3rd today. His weight of 11.59 lbs included the day's lunker. That Lunker weighs 5.90 lbs and also took the club's rolling lunker pot that was unclaimed since this time last year."
+   ]
+  },
+  {
+   "kind": "tournament",
+   "id": "2020-05-23"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "CCBM Tournament #2",
+    "June 13, 2020- North East River"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "So far 2020 has started out completely different than last year as we have a different winner and completely new top 3 finishers in tx number 2.",
+    "AOY standings so far are very tight going into tx 3."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-1051_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Stan Horne takes advantage of the blown out tide to take the win. He focused on areas that had the deepest water near spawning areas to catch the most and biggest Bass!",
+    "His bag of 16.57 lbs of bass bested the next closest angler by over 2 lbs!"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-1058_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Rick Mullen, after expressing the desire to be more consistent on the Upper Bay, follows up a good day on the bay last week with a 2nd place finish a week later.",
+    "Rick's limit of bass weighs 14.26 lbs as he hopes to continue to improve going forward and make the club's prestigious top 6."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-1067_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Sean Geerlof takes 3rd place after taking advantage of a early bite, getting 3 in the box by 8am.",
+    "His bag of largemouth weighed in at 13.11 lbs with 3 other anglers right behind him within less than 1 lb of him."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-1039_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "In a day when bigger fish were hard to find, George Waeckel lands a Upper Bay Fattie! His 4.77 lb bass gave him Lunker for the day."
+   ]
+  },
+  {
+   "kind": "tournament",
+   "id": "2020-06-13"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "CCBM Tournament #3",
+    "July 11, 2020- Nanticoke River"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Dealing with some high water lead to a tough bite but left our winning angler in a position for some last second heroics.",
+    "Our 2nd place angler also caught a few late fish to jump him into the top 3 while the 2nd runner up takes advantage of an early bite to carry him into the points."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/embedded1595492548725_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Stan Horne makes it two tournaments in a row with another win!! With most anglers having fished one more tx than him, he finds himself in 11th place but, once he fishes his 7th scorable tx, we expect him to be near the top, if not leading the AOY race, if he continues to load the boat.",
+    "With high water and a tide that did not want to go out, Stan waited until the last second to allow the tide to start heading out and ran to some deep water pads where he know the bass would set up perfectly for a late day bite. His bag of largemouth weighs in at 10.78 lbs which was anchored by the day's Lunker that weighed 3.98 lbs!!"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/stephan-2nd_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Another angler that took advantage of a late day bite was Stephan Sirochman. Largemouth went on a late day binge and Stephan found himself on the right spot and got his bait in front of several good-sized largemouth.",
+    "Stephan's bag weighs in at 7.74 lbs and jumps him into 2nd place for the day."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/img957858-1_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Sean Geerlof takes 3rd place again which makes it 3 txs in a row where he finishes in the top 4. This puts him in the lead for AOY for the moment but he realizes he has to turn 3rd place finishes into wins if he hopes to stay atop of the AOY leaderboard.",
+    "Sean's bag weighs in at 6.95 lbs."
+   ]
+  },
+  {
+   "kind": "tournament",
+   "id": "2020-07-11"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "CCBM Tournament #4",
+    "July 25, 2020- Wicomico River",
+    "The day started out with one angler's trailer suffering a tire blow out on the way to the ramp, leading to a late start but all worked out perfectly for our winner.",
+    "A 2nd year boater takes his first top 3 on unfamiliar water, while a new member continues to impress."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2169_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Tom Yaw takes his first win as a member of CCBM. An early bite kept Tom's confidence high throughout the day and paid off big. With 3 big bites weighing in at 9.29 lbs, Tom makes a big jump up the leaderboard with an impressive win."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2165_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Tom Wood takes home a 2nd place finish on a body of water that we don't normally fish. Tom is looking forward to stringing together a few good finishes on a shortened season. Tom weighed in 4 fish for 8.39 lbs and takes 2nd place points."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2161_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "JC Henry takes his 3rd top 4 finish in 4 txs. Finding a small honey hole up river, he ground out his last 3 fish. JC's 4 fish weigh in at 6.76 lbs and take some important 3rd place points in what promises to be a tight race for Rider and Angler of the Year!!!"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Mark Ely did not catch numbers but he did get some size. His one fish weighed 3.68 lbs and was enough for him to claim the lunker and 5th place."
+   ]
+  },
+  {
+   "kind": "tournament",
+   "id": "2020-07-25"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "CCBM Tournament #5",
+    "August 8, 2020- Nanticoke River"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "One angler keeps dominating while riders keep ROLLING!!!",
+    "Once again, on a day where tides were higher than usual after storms rolled through the area during the week, anglers take advantage once the tide rolled out."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2210_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Stan Horne makes it 3 wins in 4 tournaments as he looks to claim another AOY.",
+    "Stan has a record setting day as he lands the largest bag weighed in for our club on the Nanticoke River. His limit of Bass that weighed 12.84 lbs included the day's lunker that goes 4.60 lbs"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2203_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Ryan Sweeney has a hell of a day on the back of the boat. He caught 4 fish on a day when bites where hard to come by. Those 4 fish weighed 6.01 lbs. This is his 2nd top 3 finish and looking for #3."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2214_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Jim Pro is having a sneaky good year. Finishing in 3rd today gives him 2 top 4 finishes in 4 tournaments. His bag weighs in at 4.68 lbs giving him 93 points going into the next tx on the Conowingo."
+   ]
+  },
+  {
+   "kind": "tournament",
+   "id": "2020-08-08"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "CCBM Tournament #6",
+    "August 22, 2020- Conowingo Reservoir"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "One angler keeps dominating while riders keep ROLLING!!!",
+    "Same headline as last tournament as the theme for 2020 stays the same.",
+    "Rolling lunker pot takes a hit as a 3.50 + Smallie hits the scales. Riders take 2 of the 3 top spots as one rider makes it two 2nd place finishes in a row."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2730_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Paul Sirochman joins the club and immediately has an effect AOY Standings . Not only does he come in and take a 2nd place finish in his first tx but follows it up several txs later with a BIG win!!",
+    "Paul takes the Trifecta by winning the day's Lunker, the win and the Rolling Lunker!",
+    "His bag weighs in at 11.10 lb which included a 4 lb SLOB Smallie!!!!"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2727_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Once again Ryan Sweeney has a hell of a day on the back of the boat. He caught 4 fish for 8.43 lbs on a day when bites where hard to come by. Obviously one boat was around the fish. Ryan's boater takes first as he takes a 2nd place and was one decent bite away from a possible win."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2713_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Steve Manista uses his experience as a boater to take a 3rd place finish as a rider. Unfortunately he only had 1 good bite but it was enough to give him important AOY points with only 4 txs left. His thick Smallie weighs in at 2.64 lbs on a tough day."
+   ]
+  },
+  {
+   "kind": "tournament",
+   "id": "2020-08-22"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "CCBM Tournament #7",
+    "September 12, 2020- Nanticoke River"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Yes Tom Yaw.... Riders Keep on Rolling!!!!",
+    "3-time AOY doing well with limited time on the water in a short season . Second-year member making a tough year better with three top 3 finishes.",
+    "Great day overall as well, as almost 70 fish brought to the scales with an AFCPA(Average Fish Caught per Angler) at the 3 fish mark."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2758_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Tom Yaw is having a career year and looking to add to his domination with eyes not only on the Rider of the Year but also the Angler of the Year as well.",
+    "Tom's limit of bass weigh in at 11.13 lbs and was anchored by the day's Lunker that weighed in at 3.61 lbs. This gives him 2 wins as a rider which has not been done in the History of the Chester County Bass Masters! He also has himself a top 6 bag in the club on the Nanticoke River.",
+    "Congrats!"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2746_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Mark Ely has fished this season in a limited fashion but is making the most of his time on the water. The 3-time AOY ends the day with a second place finish to add to an early season win. Mark's bag weighs in at 9.96 lbs and gives him good points that he will carry into his AOY point total for the 2020 season."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2764_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "To say Tom Wood was on the fish is an understatement. He and his rider take 1st and 3rd place on this day, culling multiple times. They were obviously around them and throwing the right baits.",
+    "This 3rd place finish gives him his 2nd top 3 of the year. His bag weighs in at 8.90 lbs."
+   ]
+  },
+  {
+   "kind": "tournament",
+   "id": "2020-09-12"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "CCBM Tournament #8",
+    "September 26, 2020- Conowingo Reservoir"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "On a day that looked to be so promising due to weather conditions (foggy and rainy weather and clear water ), most found out how tough the Conowingo can be. Usually you have to deal with debris or fast moving water but this time stable weather caused the tough condition. Due to no rain for weeks the water level was low and they were not running any water.",
+    "This did not stop one of our guys from finding some good fish, one angler breaks his new boat in right and another makes it 2 in a row in the top 3."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2878_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Paul Sirochman joins the club and is given the name \"Mr Conowingo\" and for good reason. He makes it back-to-back wins on this body of water.",
+    "He took advantage of a late bite to take the win. His bag of 4 Smallies weigh in at 8.16 lbs and moves him into 2nd place in the AOY race with 2 tx's to go."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/ken_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Ken Jester uses his new boat to land a nice limit on the Conowingo. Ken's 2nd place bag weighs in at 7.27lbs. Ken will be looking to add to his winning streak at our next tx on the Nanticoke River!"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2867_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Tom Wood is on a roll with back-to-back top 3 finishes, showing all that he can catch Smallies as well as Nanticoke Bass. Tom's limit weighed in at 7.25 lbs. That's just.02 lbs behind Ken for 2nd. Tom may have missed out on 2nd place money but pockets Lunker cash for a 3 lb Smallie he weighed in."
+   ]
+  },
+  {
+   "kind": "tournament",
+   "id": "2020-09-26"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "CCBM Tournament #9",
+    "October 10, 2020- Nanticoke River"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "After our next to last tx for the crazy 2020 season, we have almost nothing settled. We know the top 2 anglers(Stan Horne, and Paul Sirochman) are in play for AOY, with Stan holding a 17 point lead. Sean Geerlof, in 3rd right now, can move up to 2nd with a good showing in the Club Classic Tx but can also be knocked to 4th with a big move from Tom Yaw. Tom can move up to a 2nd place finish in AOY standings with a win if Paul and Sean do not upgrade their points. 12 AOY points separate 4th place through 9th place. We also have 16 anglers that have a shot to find themselves in the top 6.",
+    "Rider of the year is a tight race as well; 5 anglers in the hunt. Right now Steve Manista (last year's ROY) has the edge with a 7 pt lead over Tom Yaw and his 2 Tx wins. Behind them are 3 other anglers (JC Henry, Ryan Sweeney, and Jim Pitcherello) who are looking to play spoiler. It is very possible that we get not 1, not 2, but possibly 3 riders in the top 6!!!!",
+    "Rookie of the year is a Lock for Paul Sirochman who has joined as a boater and taken 2 wins and a 2nd place finish this year.",
+    "Now, on to the results of the 9th tx of the season where one angler continues to bless his new boat with top 3 finishes. Another angler locks up a top 2 finish in the AOY race with a 2nd place finish. The 2019 AOY is on his way to finish strong after taking 3rd place."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2932_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Ken Jester has been on the fish ever since upgrading to a New to him Bass Cat Lynx!! This is his 2nd top 3 finish with a WIN this time as a kicker. Kens bag weighs in at 10.29 lbs which included a 3.51 lb Lunker fish!"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2926_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Stan Horne continues his great season and puts himself in great position to take home his 2nd AOY award in CCBM. Stan's bag of Nanticoke Largemouth weigh in at 8.30 lbs which included a 2.25 lb kicker fish which gives Stan 2nd place over the 3rd place angler that weighed the same exact weight. Tiebreaker rules on same weight bags are broken using number of fish and biggest fish.",
+    "If Stan comes in 14th place or better in our 2 day Club Classic he will be our 2020 AOY !!!"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2884_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Our 2019 AOY Lou Croce was not having the year he wanted but is finishing strong on the leadup to our Club Classic where he has himself 6 wins in the last 11 years and won the last 2 in a row. Louie's bag weighs in at the same weight as 2nd place but lacked a big fish. His limit weighs in at 8.30 lbs."
+   ]
+  },
+  {
+   "kind": "tournament",
+   "id": "2020-10-10"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "CCBM Tournament #10",
+    "November 7-8th, 2020",
+    "Nanticoke River Day 1",
+    "Sassafras River Day 2"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Chester County Bass Masters held their 10th and final club tournament of the shortened season November 7th and 8th on the Nanticoke River out of Seaford, Delaware and the Sassafras River out of Georgetown , Maryland.",
+    "It was a 2-day, combined weight tournament.",
+    "Weather was more like spring than late fall with a low around 50, bright sunshine and a high for both days around 72.",
+    "No wind, the only drawback was dense fog with about 100 yards visibility both mornings until around 8:00. Launch was on time, but idle speed only until the fog lifted.",
+    "22 club members fished the tournament. The club launched at 6:00 and the TX ended at 2:00 both days. 19 members weighed in fish.",
+    "Only 1 angler was able to weigh in a 5 fish limit each day."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-3232_orig.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Sean Geerlof won the CCBM 2 day Classic TX with a limit of bass each day.",
+    "Day 1, Saturday, he was able to find 5 keepers on the Nanticoke. His bag weighed in at 6.43 lbs putting him in 4th place heading into day 2.",
+    "Sean had located some decent fish in practice on the Sassafras and for Day 2 they showed up for him as he brought in a 5 fish limit for 17.23 Lbs..",
+    "Sean's 2-day total weight came in at 23.66 Lbs.",
+    "Included in that sack was the Tournament Lunker, an impressive 5.89 Sass warthog that also won him the club's Rolling Lunker pot.",
+    "The win vaulted Sean into the # 2 spot in the final CCBM Angler of the Year standings for the 6 man team.",
+    "Congrats to Sean on fantastic day !"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-3210_orig.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Second place went to Mark Ely. He weighed in 2 fish for 3.80 pounds on day 1 on the Nanticoke putting him in the 11 hole going to the Sass for Day 2.",
+    "Mark had located some nice bass in practice on the Sass and he was able to put them in the boat to the tune of 17.51 lbs on Sunday.",
+    "The top Sass bag pushed his total weight for the TX to 21.31 Lbs.",
+    "Mark also took the TX's 3rd Lunker with a 5.22 Trash Panda.",
+    "Congrats on a nice comeback for day 2 !"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-3220_orig.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Third place was taken by Steve Weimar. He had 3 fish for 5.02 Lbs. on Saturday on the Nanticoke, putting him in 9th position heading into day 2.",
+    "Sunday on the Sass saw Steve and his co angler Steve Manista on a load of fish, with Steve Weimar bringing",
+    "in a nice limit of bass pushing the scales to 14.39 pounds.",
+    "Stephen's limit brought his total TX weight to 19.41 Pounds.",
+    "The Third place Classic finish pushed Steve up the final CCBM AOY standings to the 5th spot on the 6 man team.",
+    "Congrats on a great finish !"
+   ]
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "Classic Lunker winners!!!"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-3232-2_orig.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Sean Geerlof - 5.89 Lbs",
+    "Sassafras River Lunker"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-3213_orig.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Mark Ely - 5.22 Lbs",
+    "3rd Lunker Sassafras River"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/d50-3197.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Paul Sirochman- 4.72 Lbs",
+    "4th Lunker Sassafras River"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/d50-3181.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Woo Hauck- 3.03 Lbs",
+    "Nanticoke River Lunker"
+   ]
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "Final Results"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/classic-1_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/classic-day-1_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/classic-day-2_orig.jpg"
+  }
+ ],
+ "results_form": "tables",
+ "note": "Nine tournaments are tables. The result of the two-day Classic (November 7 and 8) is three pictures on the old page, shown here as they are.",
+ "pictures": [
+  "archive/published/screen-shot-2020-09-27-at-11-34-02-am_1.png",
+  "archive/published/screen-shot-2020-11-09-at-9-17-23-am_1.png",
+  "archive/d50-0361_1.jpg",
+  "archive/d50-0357_1.jpg",
+  "archive/d50-0340_1.jpg",
+  "archive/d50-1051_1.jpg",
+  "archive/d50-1058_1.jpg",
+  "archive/d50-1067_1.jpg",
+  "archive/d50-1039_1.jpg",
+  "archive/embedded1595492548725_1.png",
+  "archive/published/stephan-2nd_1.jpg",
+  "archive/published/img957858-1_1.jpg",
+  "archive/d50-2169_1.jpg",
+  "archive/d50-2165_1.jpg",
+  "archive/d50-2161_1.jpg",
+  "archive/d50-2210_1.jpg",
+  "archive/d50-2203_1.jpg",
+  "archive/d50-2214_1.jpg",
+  "archive/d50-2730_1.jpg",
+  "archive/d50-2727_1.jpg",
+  "archive/d50-2713_1.jpg",
+  "archive/d50-2758_1.jpg",
+  "archive/d50-2746_1.jpg",
+  "archive/d50-2764_1.jpg",
+  "archive/d50-2878_1.jpg",
+  "archive/ken_1.jpg",
+  "archive/d50-2867_1.jpg",
+  "archive/d50-2932_1.jpg",
+  "archive/d50-2926_1.jpg",
+  "archive/d50-2884_1.jpg",
+  "archive/d50-3232_orig.jpg",
+  "archive/d50-3210_orig.jpg",
+  "archive/d50-3220_orig.jpg",
+  "archive/d50-3232-2_orig.jpg",
+  "archive/d50-3213_orig.jpg",
+  "archive/published/d50-3197.jpg",
+  "archive/published/d50-3181.jpg",
+  "archive/classic-1_orig.jpg",
+  "archive/classic-day-1_orig.jpg",
+  "archive/classic-day-2_orig.jpg"
+ ]
+}

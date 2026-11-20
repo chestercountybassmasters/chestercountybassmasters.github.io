@@ -1,0 +1,89 @@
+{
+ "series": "club",
+ "year": 2005,
+ "source": {
+  "page": "2005-club-results.html",
+  "copied": "2026-11-20",
+  "sha256": "0db04697429db482031afd62e656abc6eb51f6d3f695e493814ea40b8d133142",
+  "rows": {
+   "table_rows": 0,
+   "tournament_rows": 0,
+   "standings_rows": 0,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 0,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [],
+ "standings": [],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "image",
+   "file": "archive/5363747_orig.jpg"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "Results"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/7981133_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/9294707_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/190582_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/1940657_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/3133129_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/7876350_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/6742186_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/3673799_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/3502717_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/101352_orig.jpg"
+  }
+ ],
+ "results_form": "pictures",
+ "pictures": [
+  "archive/5363747_orig.jpg",
+  "archive/7981133_orig.jpg",
+  "archive/9294707_orig.jpg",
+  "archive/190582_orig.jpg",
+  "archive/1940657_orig.jpg",
+  "archive/3133129_orig.jpg",
+  "archive/7876350_orig.jpg",
+  "archive/6742186_orig.jpg",
+  "archive/3673799_orig.jpg",
+  "archive/3502717_orig.jpg",
+  "archive/101352_orig.jpg"
+ ]
+}

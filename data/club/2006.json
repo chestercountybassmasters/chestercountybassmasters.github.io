@@ -1,0 +1,121 @@
+{
+ "series": "club",
+ "year": 2006,
+ "source": {
+  "page": "2006-club-results.html",
+  "copied": "2026-11-20",
+  "sha256": "70ec69f063c86ff4e2f55db1fc80c71027250c384ab99368119b2b928ee96f55",
+  "rows": {
+   "table_rows": 0,
+   "tournament_rows": 0,
+   "standings_rows": 0,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 0,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [],
+ "standings": [],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "image",
+   "file": "archive/9929177_orig.jpg"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "Results"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/5505057_orig.jpg"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "Potomac"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/9587446_orig.jpg"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "Havre De Grace"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/2556267_orig.jpg"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "Potomac"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/6624914_orig.jpg"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "Elk River"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/4121529_orig.jpg"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "Octorara"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/5541765_orig.jpg"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "Blue Marsh"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/7599763_orig.jpg"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "Elk River Classic"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/8333962_orig.jpg"
+  }
+ ],
+ "results_form": "pictures",
+ "pictures": [
+  "archive/9929177_orig.jpg",
+  "archive/5505057_orig.jpg",
+  "archive/9587446_orig.jpg",
+  "archive/2556267_orig.jpg",
+  "archive/6624914_orig.jpg",
+  "archive/4121529_orig.jpg",
+  "archive/5541765_orig.jpg",
+  "archive/7599763_orig.jpg",
+  "archive/8333962_orig.jpg"
+ ]
+}

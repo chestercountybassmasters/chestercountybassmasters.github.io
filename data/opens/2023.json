@@ -1,0 +1,1473 @@
+{
+ "series": "opens",
+ "year": 2023,
+ "source": {
+  "page": "2023-open-results.html",
+  "copied": "2026-11-20",
+  "sha256": "ee0ed58b45b98ac837c244cc2e0ced0970af113395acc33bdebc4614584fbaf7",
+  "rows": {
+   "table_rows": 147,
+   "tournament_rows": 0,
+   "standings_rows": 141,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 6,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [],
+ "standings": [
+  {
+   "title_lines": [
+    "CCBM Open 2023 Final Team Standings"
+   ],
+   "columns": [
+    "Place",
+    "Team",
+    "Tournament Scores 1",
+    "Tournament Scores 2",
+    "Tournament Scores 3",
+    "Tournament Scores 4",
+    "Tournament Scores 5",
+    "Best 4"
+   ],
+   "rows": [
+    [
+     "1",
+     "Tom Bavaro/Brian Dyson",
+     "94",
+     "100",
+     "100",
+     "96",
+     "84",
+     "390"
+    ],
+    [
+     "2",
+     "Mike Piccolo/Scott Mcanulty",
+     "95",
+     "99",
+     "94",
+     "90",
+     "96",
+     "384"
+    ],
+    [
+     "3",
+     "Conor Cahill/Satanoff/Leadbeater",
+     "96",
+     "96",
+     "77",
+     "93",
+     "97",
+     "382"
+    ],
+    [
+     "4",
+     "Mike Sentore/Sean Mckee",
+     "98",
+     "95",
+     "82",
+     "79",
+     "98",
+     "373"
+    ],
+    [
+     "5",
+     "Harry Nurk/Nick Canestra",
+     "72",
+     "89",
+     "92",
+     "88",
+     "99",
+     "368"
+    ],
+    [
+     "6",
+     "Paul Badders/Nate Brown/Lang",
+     "73",
+     "",
+     "91",
+     "98",
+     "95",
+     "357"
+    ],
+    [
+     "7",
+     "Pablo Velazquez/Mike Phillips",
+     "87",
+     "93",
+     "99",
+     "73",
+     "75",
+     "354"
+    ],
+    [
+     "8",
+     "Ken Cassella/Bruce Riechert",
+     "65",
+     "11",
+     "89",
+     "100",
+     "94",
+     "348"
+    ],
+    [
+     "9",
+     "Tim Reams/Joey Murphy/Griffin",
+     "92",
+     "79",
+     "87",
+     "84",
+     "78",
+     "342"
+    ],
+    [
+     "10",
+     "Derick Olson/Cody Barry",
+     "97",
+     "59",
+     "68",
+     "89",
+     "83",
+     "337"
+    ],
+    [
+     "11",
+     "Corey Ellis/Paul Brown",
+     "70",
+     "82",
+     "88",
+     "95",
+     "",
+     "335"
+    ],
+    [
+     "12",
+     "Duke Nave/Allender/Heivly",
+     "60",
+     "50",
+     "86",
+     "99",
+     "89",
+     "334"
+    ],
+    [
+     "13",
+     "Jerry Gerlach/Mark Ely",
+     "89",
+     "94",
+     "76",
+     "72",
+     "",
+     "331"
+    ],
+    [
+     "14",
+     "Ricky Ewing/Tim Brown",
+     "90",
+     "65",
+     "74",
+     "",
+     "86",
+     "315"
+    ],
+    [
+     "15",
+     "Carl Walker/John Sellers",
+     "25",
+     "64",
+     "81",
+     "70",
+     "87",
+     "302"
+    ],
+    [
+     "16",
+     "Steve Weimar/Zach Weimar",
+     "54",
+     "54",
+     "72",
+     "86",
+     "88",
+     "300"
+    ],
+    [
+     "17",
+     "Michael Rea/Clark/Riccio",
+     "79",
+     "68",
+     "26",
+     "76",
+     "77",
+     "300"
+    ],
+    [
+     "18",
+     "Jimmy Ivy/John Hinkle",
+     "76",
+     "74",
+     "",
+     "74",
+     "68",
+     "292"
+    ],
+    [
+     "19",
+     "Greg Arrowood/Clark/Biondi/Wade",
+     "64",
+     "70",
+     "",
+     "71",
+     "85",
+     "290"
+    ],
+    [
+     "20",
+     "Rick Ungham/Eric Flutka",
+     "57",
+     "40",
+     "79",
+     "77",
+     "74",
+     "287"
+    ],
+    [
+     "21",
+     "Jason Burger/Josh Burger",
+     "100",
+     "98",
+     "84",
+     "",
+     "",
+     "282"
+    ],
+    [
+     "22",
+     "Sean Geerlof/Stan Horne",
+     "71",
+     "72",
+     "66",
+     "67",
+     "71",
+     "281"
+    ],
+    [
+     "23",
+     "Rick Orlando/Al Pavone",
+     "45",
+     "63",
+     "58",
+     "68",
+     "90",
+     "279"
+    ],
+    [
+     "24",
+     "Dom Parisi/Stephen Milosh",
+     "84",
+     "69",
+     "26",
+     "78",
+     "48",
+     "279"
+    ],
+    [
+     "25",
+     "Matt Goudie/Benard/Faust",
+     "75",
+     "38",
+     "26",
+     "92",
+     "73",
+     "278"
+    ],
+    [
+     "26",
+     "Jim Shinn/John Dell",
+     "55",
+     "62",
+     "61",
+     "83",
+     "",
+     "261"
+    ],
+    [
+     "27",
+     "Steven Hannah/Russ Wright",
+     "81",
+     "84",
+     "93",
+     "",
+     "",
+     "258"
+    ],
+    [
+     "28",
+     "Paul Sirochman/Wesley/Sirochman",
+     "",
+     "11",
+     "90",
+     "75",
+     "80",
+     "256"
+    ],
+    [
+     "29",
+     "Jack Rinkers/Dane Collins",
+     "99",
+     "78",
+     "75",
+     "",
+     "",
+     "252"
+    ],
+    [
+     "30",
+     "Steve Staley/Alvin Kirby",
+     "25",
+     "75",
+     "57",
+     "66",
+     "48",
+     "246"
+    ],
+    [
+     "31",
+     "Daniel Henson/Justin Henson/Owens",
+     "",
+     "47",
+     "47",
+     "69",
+     "73",
+     "236"
+    ],
+    [
+     "32",
+     "Dave Williams/Donnie Diggs",
+     "93",
+     "57",
+     "",
+     "",
+     "82",
+     "232"
+    ],
+    [
+     "33",
+     "Victor Auriemma/Logan Kuhrmann",
+     "88",
+     "",
+     "95",
+     "45",
+     "",
+     "228"
+    ],
+    [
+     "34",
+     "Nick Biondi/Ryan Sweeney",
+     "78",
+     "11",
+     "52",
+     "",
+     "76",
+     "217"
+    ],
+    [
+     "35",
+     "Travis Nale/Chuck Nale",
+     "25",
+     "61",
+     "59",
+     "",
+     "72",
+     "217"
+    ],
+    [
+     "36",
+     "Tommy Riccio/Brandon Riccio",
+     "77",
+     "36",
+     "26",
+     "",
+     "77",
+     "216"
+    ],
+    [
+     "37",
+     "Mason Bell/Mike Bell",
+     "47",
+     "58",
+     "26",
+     "",
+     "82",
+     "213"
+    ],
+    [
+     "38",
+     "Vinny Pastizzi/Joe Merker",
+     "",
+     "88",
+     "78",
+     "45",
+     "",
+     "211"
+    ],
+    [
+     "39",
+     "Vince Meyer/Grady Elkins",
+     "25",
+     "51",
+     "70",
+     "65",
+     "",
+     "211"
+    ],
+    [
+     "40",
+     "Brandon Jones/Anthony Opechoskie",
+     "25",
+     "",
+     "80",
+     "97",
+     "",
+     "202"
+    ],
+    [
+     "41",
+     "Glenn Kmecz/Bob Horning",
+     "25",
+     "34",
+     "63",
+     "",
+     "79",
+     "201"
+    ],
+    [
+     "42",
+     "Mike Machmer/Denny Bianco",
+     "59",
+     "43",
+     "97",
+     "",
+     "",
+     "199"
+    ],
+    [
+     "43",
+     "Joey Rose/Peter Fiore",
+     "",
+     "11",
+     "98",
+     "87",
+     "",
+     "196"
+    ],
+    [
+     "44",
+     "Joseph Dellavalle/Dan Hawley",
+     "74",
+     "66",
+     "",
+     "",
+     "48",
+     "188"
+    ],
+    [
+     "45",
+     "Connor Mann/Braden Atkinson",
+     "86",
+     "31",
+     "69",
+     "",
+     "",
+     "186"
+    ],
+    [
+     "46",
+     "JC Henry/Vic Main",
+     "50",
+     "39",
+     "49",
+     "45",
+     "",
+     "183"
+    ],
+    [
+     "47",
+     "Keith Cowan/Zach Cowan",
+     "25",
+     "92",
+     "64",
+     "",
+     "",
+     "181"
+    ],
+    [
+     "48",
+     "Duane Essick/Pirollo/Mandes",
+     "61",
+     "49",
+     "26",
+     "45",
+     "",
+     "181"
+    ],
+    [
+     "49",
+     "Jackson Staib/Dave Andrews",
+     "",
+     "",
+     "",
+     "85",
+     "91",
+     "176"
+    ],
+    [
+     "50",
+     "Mike Cannon/John Mcgrath",
+     "80",
+     "33",
+     "54",
+     "",
+     "",
+     "167"
+    ],
+    [
+     "51",
+     "Jon Cuccinello/Logan Fitzpatrick",
+     "63",
+     "11",
+     "",
+     "",
+     "92",
+     "166"
+    ],
+    [
+     "52",
+     "Steven Myers/Chris Lang",
+     "25",
+     "",
+     "",
+     "45",
+     "93",
+     "163"
+    ],
+    [
+     "53",
+     "Zachary White/Savidge/Shiles",
+     "82",
+     "",
+     "",
+     "",
+     "81",
+     "163"
+    ],
+    [
+     "54",
+     "Stephan Sirochman/JW Wade",
+     "",
+     "55",
+     "55",
+     "",
+     "48",
+     "158"
+    ],
+    [
+     "55",
+     "Douglas Reed/Trent Cole",
+     "",
+     "87",
+     "",
+     "",
+     "70",
+     "157"
+    ],
+    [
+     "56",
+     "Devynn Brown/Jake Stuckey",
+     "",
+     "73",
+     "83",
+     "",
+     "",
+     "156"
+    ],
+    [
+     "57",
+     "Jason Bailey/Steve Bailey",
+     "25",
+     "35",
+     "46",
+     "",
+     "48",
+     "154"
+    ],
+    [
+     "58",
+     "Richard Leadbeater/Chris Hutchinson",
+     "52",
+     "",
+     "",
+     "",
+     "100",
+     "152"
+    ],
+    [
+     "59",
+     "Joe Morgan/Jason Reid",
+     "51",
+     "71",
+     "26",
+     "",
+     "",
+     "148"
+    ],
+    [
+     "60",
+     "Sam Montalto/Hauck/Jester",
+     "25",
+     "11",
+     "26",
+     "81",
+     "",
+     "143"
+    ],
+    [
+     "61",
+     "Pete Faverio/Ron Galloway",
+     "",
+     "",
+     "",
+     "94",
+     "48",
+     "142"
+    ],
+    [
+     "62",
+     "Rob Willwerth/Jim Valentine",
+     "48",
+     "90",
+     "",
+     "",
+     "",
+     "138"
+    ],
+    [
+     "63",
+     "Sean Mcdevitt/Griffin Ludwig",
+     "62",
+     "",
+     "73",
+     "",
+     "",
+     "135"
+    ],
+    [
+     "64",
+     "John Valdez/Rob Tipton",
+     "25",
+     "83",
+     "26",
+     "",
+     "",
+     "134"
+    ],
+    [
+     "65",
+     "Mike Teti",
+     "",
+     "",
+     "",
+     "80",
+     "48",
+     "128"
+    ],
+    [
+     "66",
+     "Jim Miller/Mark Edmeads",
+     "25",
+     "53",
+     "50",
+     "",
+     "",
+     "128"
+    ],
+    [
+     "67",
+     "Mike Sirochman/Mikailo Schofield",
+     "",
+     "",
+     "",
+     "45",
+     "80",
+     "125"
+    ],
+    [
+     "68",
+     "Greg Zinni/Andrea Zinni",
+     "25",
+     "",
+     "96",
+     "",
+     "",
+     "121"
+    ],
+    [
+     "69",
+     "Travis Bello/Bj Bello",
+     "25",
+     "",
+     "26",
+     "",
+     "69",
+     "120"
+    ],
+    [
+     "70",
+     "Lou Croce/Jimmy Pitcherello",
+     "58",
+     "56",
+     "",
+     "",
+     "",
+     "114"
+    ],
+    [
+     "71",
+     "Dan Cornelius/Craig Cornelius",
+     "",
+     "85",
+     "26",
+     "",
+     "",
+     "111"
+    ],
+    [
+     "72",
+     "Pablo Velazquez, Sr/Gary Brandt",
+     "25",
+     "",
+     "",
+     "82",
+     "",
+     "107"
+    ],
+    [
+     "73",
+     "Steve Jagodzinski/Brandon Jagodzinski",
+     "",
+     "81",
+     "26",
+     "",
+     "",
+     "107"
+    ],
+    [
+     "74",
+     "Joe Hunt/Braden Hunt",
+     "25",
+     "",
+     "26",
+     "",
+     "48",
+     "99"
+    ],
+    [
+     "75",
+     "Tim Nichols/Troy Burger",
+     "",
+     "97",
+     "",
+     "",
+     "",
+     "97"
+    ],
+    [
+     "76",
+     "Eli Amilani/Aaron Turner",
+     "49",
+     "",
+     "",
+     "",
+     "48",
+     "97"
+    ],
+    [
+     "77",
+     "Steve Welden",
+     "25",
+     "",
+     "71",
+     "",
+     "",
+     "96"
+    ],
+    [
+     "78",
+     "Cody Edmunds/Brian Edmunds",
+     "25",
+     "11",
+     "60",
+     "",
+     "",
+     "96"
+    ],
+    [
+     "79",
+     "Bradley Sterner",
+     "",
+     "",
+     "51",
+     "45",
+     "",
+     "96"
+    ],
+    [
+     "80",
+     "Terry Roberson/Andrew Chianese",
+     "56",
+     "11",
+     "26",
+     "",
+     "",
+     "93"
+    ],
+    [
+     "81",
+     "Dave Piscopo/John Mallow",
+     "91",
+     "",
+     "",
+     "",
+     "",
+     "91"
+    ],
+    [
+     "81",
+     "Tejmohan Sawhney/Dave Wilt",
+     "",
+     "91",
+     "",
+     "",
+     "",
+     "91"
+    ],
+    [
+     "81",
+     "Pete Gluszek/Jake Gluszek",
+     "",
+     "",
+     "",
+     "91",
+     "",
+     "91"
+    ],
+    [
+     "84",
+     "Barry Moore/Jessie Moore",
+     "25",
+     "",
+     "65",
+     "",
+     "",
+     "90"
+    ],
+    [
+     "85",
+     "Tyler Hawthorne/Hope Gelvin",
+     "",
+     "86",
+     "",
+     "",
+     "",
+     "86"
+    ],
+    [
+     "86",
+     "Aaron Majors/Josh Rhoades",
+     "",
+     "",
+     "85",
+     "",
+     "",
+     "85"
+    ],
+    [
+     "86",
+     "Zack Page/Griffin Ludwig",
+     "85",
+     "",
+     "",
+     "",
+     "",
+     "85"
+    ],
+    [
+     "88",
+     "Jonathan Werner/Jody Werner",
+     "83",
+     "",
+     "",
+     "",
+     "",
+     "83"
+    ],
+    [
+     "89",
+     "Jesse Alexander/Sean Mcdevitt",
+     "",
+     "80",
+     "",
+     "",
+     "",
+     "80"
+    ],
+    [
+     "90",
+     "Andrew Heivly/Marc Heivly",
+     "67",
+     "11",
+     "",
+     "",
+     "",
+     "78"
+    ],
+    [
+     "91",
+     "Alex Mckenzie/Scott Minch",
+     "",
+     "77",
+     "",
+     "",
+     "",
+     "77"
+    ],
+    [
+     "92",
+     "Dylan Allen",
+     "25",
+     "52",
+     "",
+     "",
+     "",
+     "77"
+    ],
+    [
+     "93",
+     "Barry Potteinger/Jim Tyson",
+     "",
+     "76",
+     "",
+     "",
+     "",
+     "76"
+    ],
+    [
+     "94",
+     "Steven Dimatteo/Jeremy Boyd",
+     "25",
+     "48",
+     "",
+     "",
+     "",
+     "73"
+    ],
+    [
+     "95",
+     "Alex Kliesh",
+     "46",
+     "",
+     "26",
+     "",
+     "",
+     "72"
+    ],
+    [
+     "96",
+     "John Baranik",
+     "25",
+     "",
+     "",
+     "45",
+     "",
+     "70"
+    ],
+    [
+     "97",
+     "Herb Weichmann/Marcus Griffin",
+     "69",
+     "",
+     "",
+     "",
+     "",
+     "69"
+    ],
+    [
+     "98",
+     "Charles Hannah/Chad Everwine",
+     "68",
+     "",
+     "",
+     "",
+     "",
+     "68"
+    ],
+    [
+     "99",
+     "John Erickson/Finn Erickson",
+     "",
+     "",
+     "67",
+     "",
+     "",
+     "67"
+    ],
+    [
+     "99",
+     "Richard Harding/Ginny Harding",
+     "",
+     "67",
+     "",
+     "",
+     "",
+     "67"
+    ],
+    [
+     "101",
+     "Dylan Missimer/Rob Huffman",
+     "66",
+     "",
+     "",
+     "",
+     "",
+     "66"
+    ],
+    [
+     "102",
+     "Shawn Weil/Kevin Simpson",
+     "",
+     "",
+     "62",
+     "",
+     "",
+     "62"
+    ],
+    [
+     "103",
+     "Bryan Giran/Amanda Giran",
+     "25",
+     "37",
+     "",
+     "",
+     "",
+     "62"
+    ],
+    [
+     "104",
+     "Lance Thompson/Greg Zinni",
+     "",
+     "60",
+     "",
+     "",
+     "",
+     "60"
+    ],
+    [
+     "105",
+     "Greg Radenbush/Christy Radenbush",
+     "",
+     "",
+     "56",
+     "",
+     "",
+     "56"
+    ],
+    [
+     "106",
+     "Jeff Choi/Max Agasa",
+     "53",
+     "",
+     "",
+     "",
+     "",
+     "53"
+    ],
+    [
+     "106",
+     "Jon Bredbenner/Taylor Bredbenner",
+     "",
+     "",
+     "53",
+     "",
+     "",
+     "53"
+    ],
+    [
+     "108",
+     "Mike Reilly/Scott Reilly",
+     "25",
+     "",
+     "26",
+     "",
+     "",
+     "51"
+    ],
+    [
+     "109",
+     "Bill Pursley/Jan Shields",
+     "",
+     "",
+     "48",
+     "",
+     "",
+     "48"
+    ],
+    [
+     "109",
+     "Paul Steiner/Brian Hughes",
+     "",
+     "",
+     "",
+     "",
+     "48",
+     "48"
+    ],
+    [
+     "109",
+     "Rob Griers/Randy Burns",
+     "",
+     "",
+     "",
+     "",
+     "48",
+     "48"
+    ],
+    [
+     "112",
+     "Wayne Perry sr./wayne Perry Jr.",
+     "",
+     "46",
+     "",
+     "",
+     "",
+     "46"
+    ],
+    [
+     "113",
+     "Bob Brennan/Dave Hass",
+     "",
+     "45",
+     "",
+     "",
+     "",
+     "45"
+    ],
+    [
+     "114",
+     "Ray Saganich/Mike Saganich",
+     "",
+     "44",
+     "",
+     "",
+     "",
+     "44"
+    ],
+    [
+     "115",
+     "Michael Zampella/Sam Maisano",
+     "",
+     "42",
+     "",
+     "",
+     "",
+     "42"
+    ],
+    [
+     "116",
+     "Michael Ortel/Joe Hoffman",
+     "",
+     "41",
+     "",
+     "",
+     "",
+     "41"
+    ],
+    [
+     "117",
+     "Mark Schafer/Bob Soley",
+     "",
+     "11",
+     "26",
+     "",
+     "",
+     "37"
+    ],
+    [
+     "117",
+     "Ryan Smith/Brad Brandt",
+     "",
+     "11",
+     "26",
+     "",
+     "",
+     "37"
+    ],
+    [
+     "119",
+     "Ernest Leiphart/Charles Leiphart",
+     "25",
+     "11",
+     "",
+     "",
+     "",
+     "36"
+    ],
+    [
+     "119",
+     "Troy Rosenzweig/Brian Krout",
+     "25",
+     "11",
+     "",
+     "",
+     "",
+     "36"
+    ],
+    [
+     "121",
+     "Pavlo Fenik",
+     "",
+     "32",
+     "",
+     "",
+     "",
+     "32"
+    ],
+    [
+     "122",
+     "Christopher Trovinger",
+     "",
+     "",
+     "26",
+     "",
+     "",
+     "26"
+    ],
+    [
+     "122",
+     "Loren Meckle",
+     "",
+     "",
+     "26",
+     "",
+     "",
+     "26"
+    ],
+    [
+     "122",
+     "Matt Weber/Billy Bradshaw",
+     "",
+     "",
+     "26",
+     "",
+     "",
+     "26"
+    ],
+    [
+     "122",
+     "Melvin Smitson/Tom _Partner_",
+     "",
+     "",
+     "26",
+     "",
+     "",
+     "26"
+    ],
+    [
+     "126",
+     "Conway Hayden/Jee Mccormack",
+     "25",
+     "",
+     "",
+     "",
+     "",
+     "25"
+    ],
+    [
+     "126",
+     "Daniel Jensen/Kevin Jensen",
+     "25",
+     "",
+     "",
+     "",
+     "",
+     "25"
+    ],
+    [
+     "126",
+     "Dean Bligh/Mark Weber",
+     "25",
+     "",
+     "",
+     "",
+     "",
+     "25"
+    ],
+    [
+     "126",
+     "Eric Sollenberger/Andrew Pisano",
+     "25",
+     "",
+     "",
+     "",
+     "",
+     "25"
+    ],
+    [
+     "126",
+     "Jim Tyson/Barry Potteinger",
+     "25",
+     "",
+     "",
+     "",
+     "",
+     "25"
+    ],
+    [
+     "126",
+     "Kevin Hoffman/Jason Mitch",
+     "25",
+     "",
+     "",
+     "",
+     "",
+     "25"
+    ],
+    [
+     "126",
+     "Mark Hogan/Jason Muir",
+     "25",
+     "",
+     "",
+     "",
+     "",
+     "25"
+    ],
+    [
+     "126",
+     "Nick Costello/Kevin Long",
+     "25",
+     "",
+     "",
+     "",
+     "",
+     "25"
+    ],
+    [
+     "126",
+     "Paul Harrison/Rob Steiner",
+     "25",
+     "",
+     "",
+     "",
+     "",
+     "25"
+    ],
+    [
+     "126",
+     "Todd Cory/Dave Burket",
+     "25",
+     "",
+     "",
+     "",
+     "",
+     "25"
+    ],
+    [
+     "136",
+     "John Shumate/Don Haskins",
+     "",
+     "11",
+     "",
+     "",
+     "",
+     "11"
+    ],
+    [
+     "136",
+     "Russ Awad/Manuel Cruz",
+     "",
+     "11",
+     "",
+     "",
+     "",
+     "11"
+    ],
+    [
+     "136",
+     "Steve Baillargeon/Sean Weil",
+     "",
+     "11",
+     "",
+     "",
+     "",
+     "11"
+    ]
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 1,
+    "header": 1,
+    "rows": 138,
+    "other": 0,
+    "blank": 1
+   }
+  }
+ ],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "text",
+   "lines": [
+    "2023 Schedule",
+    "April 1st (postponed to 9/23)",
+    "May 6th",
+    "June 3rd",
+    "July 15th",
+    "September 23rd (rescheduled for Oct. 21)",
+    "October 14th",
+    "October 21st (rescheduled for Oct 29)",
+    "October 29th",
+    "November 11th (cash prizes only/no points)",
+    "( 2022 Opens averaged 80 boats per tournament )"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "North East River, Anchor Marina",
+    "Upper Chesapeake Bay"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "(For the full write-up and photos of the Open txs see the Facebook page)"
+   ],
+   "links": [
+    {
+     "text": "Facebook page)",
+     "href": "https://www.facebook.com/groups/881394538591363"
+    }
+   ]
+  },
+  {
+   "kind": "standings",
+   "index": 0
+  }
+ ],
+ "results_form": "standings table only",
+ "note": "Only the season standings are on the old page for 2023. The result of each Open was posted on the Opens Facebook group.",
+ "pictures": []
+}

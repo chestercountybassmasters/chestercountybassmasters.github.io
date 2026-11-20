@@ -1,0 +1,120 @@
+/* Chester County Bass Masters. One stylesheet for every page.
+   The six front pages carry the design's own styles on each element; this file
+   holds the header, the footer and the pages the build writes from data. */
+:root {
+  --navy: #0C2340; --page: #F5F7FA; --card: #FFFFFF; --line: #DCE3EA; --link: #1565A8;
+  --amber: #F5A524; --ink: #13202E; --soft: #4A5B6C; --on-navy: #D5DEE8; --on-navy-soft: #B7C6D6;
+  --navy-line: #3A5573; --cream: #FFF6E3;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; }
+.page { font-family: Inter, system-ui, sans-serif; color: var(--ink); background: var(--page); line-height: 1.5; font-size: 16px; overflow-x: clip; }
+a { color: var(--link); }
+a:hover { color: var(--navy); }
+table { border-collapse: collapse; }
+img { max-width: 100%; }
+h1, h2, h3 { overflow-wrap: anywhere; }
+.skip { position: absolute; left: -9999px; }
+.skip:focus { left: 8px; top: 8px; background: #FFFFFF; color: var(--navy); padding: 12px 16px; z-index: 5; }
+
+/* header */
+.site-header { background: var(--navy); }
+.site-header-in { max-width: 1180px; margin: 0 auto; padding: 14px 24px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 28px; }
+.brand { display: flex; align-items: center; gap: 12px; text-decoration: none; color: #FFFFFF; min-height: 48px; }
+.brand:hover { color: #FFFFFF; }
+.brand img { width: 48px; height: 48px; border-radius: 8px; object-fit: cover; }
+.brand span { font-family: 'Barlow Condensed', Inter, sans-serif; font-weight: 700; font-size: 24px; letter-spacing: 0.02em; text-transform: uppercase; line-height: 1; }
+.site-header nav { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 6px; }
+.site-header nav a { color: #FFFFFF; text-decoration: none; font-weight: 600; font-size: 15px; padding: 12px 10px; min-height: 44px; display: inline-flex; align-items: center; }
+.site-header nav a:hover { color: var(--amber); }
+.site-header nav a[aria-current="page"] { color: var(--amber); font-weight: 700; }
+.site-header nav a.join { background: var(--amber); color: var(--navy); font-weight: 700; padding: 12px 18px; border-radius: 8px; margin-left: 6px; }
+.site-header nav a.join:hover { color: var(--navy); background: #FFB93F; }
+
+/* footer */
+.site-footer { background: var(--navy); color: var(--on-navy); }
+.site-footer-in { max-width: 1180px; margin: 0 auto; padding: 44px 24px; display: flex; flex-wrap: wrap; gap: 32px 48px; font-size: 15px; }
+.site-footer-in > div { flex: 1 1 180px; min-width: 0; display: flex; flex-direction: column; gap: 0; }
+.site-footer-in > div.wide { flex: 2 1 260px; display: block; }
+.site-footer p { margin: 8px 0 0; }
+.site-footer p.name { margin: 0; font-family: 'Barlow Condensed', Inter, sans-serif; font-weight: 700; font-size: 22px; text-transform: uppercase; color: #FFFFFF; }
+.site-footer p.head { margin: 0 0 4px; font-weight: 700; color: #FFFFFF; }
+.site-footer a { color: var(--on-navy); min-height: 44px; display: inline-flex; align-items: center; }
+.site-footer .wide a { color: #FFFFFF; }
+.site-footer a:hover { color: #FFFFFF; }
+
+/* front pages: links that stand alone get a full-height tap target */
+main a[style*="padding: 8px 0"], main a[style*="padding: 10px 0"] { display: inline-flex; align-items: center; min-height: 44px; }
+main td a, main li > a:first-child, main dd a { display: inline-flex; align-items: center; min-height: 44px; min-width: 44px; white-space: nowrap; }
+main p a { padding: 2px 0; }
+
+/* pages written by the build */
+.band { background: var(--navy); color: #FFFFFF; }
+.band-in, .wrap { max-width: 1180px; margin: 0 auto; padding: 36px 24px; }
+.wrap { padding: 32px 24px 56px; }
+.band h1 { margin: 0; font-family: 'Barlow Condensed', Inter, sans-serif; font-weight: 700; font-size: clamp(38px, 6vw, 56px); line-height: 1; text-transform: uppercase; letter-spacing: 0.01em; }
+.band p { margin: 12px 0 0; color: var(--on-navy); max-width: 760px; }
+.band a { color: #FFFFFF; }
+.eyebrow { margin: 0 0 8px; font-size: 13px; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase; color: var(--link); }
+.band .eyebrow { color: var(--amber); }
+.tabs, .picker { margin-top: 20px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.tabs a { color: #FFFFFF; text-decoration: none; font-weight: 600; padding: 10px 18px; border-radius: 8px; border: 1px solid var(--navy-line); min-height: 44px; display: inline-flex; align-items: center; }
+.tabs a[aria-current="page"] { color: var(--navy); background: #FFFFFF; font-weight: 700; border-color: #FFFFFF; }
+.picker span { font-size: 14px; color: var(--on-navy-soft); margin-right: 4px; }
+.picker a, .chips a { color: #FFFFFF; text-decoration: none; font-weight: 600; padding: 10px 14px; border-radius: 8px; border: 1px solid var(--navy-line); min-height: 44px; min-width: 44px; display: inline-flex; align-items: center; justify-content: center; }
+.picker a[aria-current="true"], .chips a[aria-current="true"] { color: var(--navy); background: var(--amber); font-weight: 700; border-color: var(--amber); }
+.picker a:hover, .tabs a:hover { border-color: #FFFFFF; color: #FFFFFF; }
+.picker a[aria-current="true"]:hover { color: var(--navy); }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 0; }
+.chips.light a { color: var(--navy); border-color: var(--line); background: #FFFFFF; }
+.chips.light a:hover { border-color: var(--navy); }
+
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 22px; margin: 0 0 20px; min-width: 0; }
+.card h2 { margin: 0 0 4px; font-size: 22px; line-height: 1.25; }
+.card h3 { margin: 0 0 4px; font-size: 19px; line-height: 1.25; }
+.card .sub { margin: 0 0 14px; font-size: 15px; color: var(--soft); }
+.note { background: var(--cream); border: 1px solid #F0D9A6; border-radius: 10px; padding: 12px 16px; margin: 0 0 20px; font-size: 15px; }
+.scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+table.data { width: 100%; font-size: 15px; }
+table.data th { text-align: left; color: var(--soft); font-size: 13px; font-weight: 600; padding: 6px 8px; vertical-align: bottom; white-space: nowrap; }
+table.data td { padding: 9px 8px; border-top: 1px solid var(--line); vertical-align: top; }
+table.data th:first-child, table.data td:first-child { padding-left: 0; }
+table.data th.num, table.data td.num { text-align: right; white-space: nowrap; }
+table.data td.name { font-weight: 600; min-width: 150px; }
+table.data tr.first td { font-weight: 700; }
+table.data th.grp { text-align: center; border-bottom: 1px solid var(--line); color: var(--ink); }
+table.data td.small, .small { font-size: 13px; color: var(--soft); }
+table.data td a { min-height: 44px; min-width: 44px; white-space: nowrap; display: inline-flex; align-items: center; font-weight: 600; }
+.summary { margin: 14px 0 0; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: 6px 22px; font-size: 14px; color: var(--soft); }
+.summary strong { color: var(--ink); font-weight: 600; }
+.notes { margin: 10px 0 0; font-size: 14px; color: var(--soft); }
+.writeup p { margin: 0 0 12px; max-width: 820px; overflow-wrap: anywhere; }
+.pic a, .pics a { min-height: 44px; }
+.writeup h3 { margin: 22px 0 8px; font-size: 19px; }
+.pics { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; margin: 0 0 16px; }
+.pics a, .pic a { display: block; }
+.pics img { display: block; width: 100%; height: auto; border-radius: 10px; border: 1px solid var(--line); background: #FFFFFF; }
+.pic { margin: 0 0 16px; }
+.pic img { display: block; max-width: 100%; height: auto; border-radius: 10px; border: 1px solid var(--line); background: #FFFFFF; }
+.sep { border: 0; border-top: 1px solid var(--line); margin: 28px 0; }
+.cols { display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; }
+.cols > .main { flex: 3 1 560px; min-width: 0; }
+.cols > .side { flex: 1 1 300px; min-width: 0; }
+.toc { margin: 0; padding: 0; list-style: none; }
+.toc li { border-top: 1px solid var(--line); }
+.toc a { display: flex; align-items: center; min-height: 44px; font-weight: 600; }
+.added td { background: var(--cream); }
+.tag { display: inline-block; font-size: 12px; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: #7A4B00; background: #FFE3A8; border-radius: 6px; padding: 2px 8px; }
+.linklist a { display: flex; align-items: center; min-height: 44px; font-weight: 600; }
+.gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
+.gallery img { display: block; width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; }
+@media (max-width: 600px) {
+  .site-header-in { padding: 12px 16px; }
+  .brand span { font-size: 21px; }
+  .band-in { padding: 28px 16px; }
+  .wrap { padding: 24px 16px 44px; }
+  .card { padding: 16px; }
+  /* the design pads its sections 24px a side; keep that, and stop two-column grids crowding */
+  main ul[style*="grid-template-columns: repeat(2"] { grid-template-columns: 1fr !important; }
+}

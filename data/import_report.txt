@@ -1,0 +1,59 @@
+Import of 2026-11-20, run 2026-11-20
+
+series year  form      tournaments  result rows  standings tables/rows  pictures
+club   2004  pictures       0            0          0 / 0             4
+club   2005  pictures       0            0          0 / 0            11
+club   2006  pictures       0            0          0 / 0             9
+club   2007  pictures       0            0          0 / 0             6
+club   2008  pictures       0            0          0 / 0             9
+club   2009  pictures       0            0          0 / 0            11
+club   2010  pictures       0            0          0 / 0            11
+club   2011  pictures       0            0          0 / 0            14
+club   2012  pictures       0            0          0 / 0            14
+club   2013  pictures       0            0          0 / 0            54
+club   2014  pictures       0            0          0 / 0            54
+club   2015  pictures       0            0          0 / 0            52
+club   2016  pictures       0            0          0 / 0            50
+club   2017  pictures       0            0          0 / 0            50
+club   2018  pictures       0            0          0 / 0            55
+club   2019  pictures       0            0          0 / 0            31
+club   2020  tables         9          194          0 / 0            40
+club   2021  tables        12          270          1 / 35           36
+club   2022  tables        12          286          1 / 41            6
+club   2023  tables        11          312          1 / 47            0
+club   2024  tables        12          289          1 / 45           63
+club   2025  tables        12          234          1 / 38            1
+club   2026  tables        12          207          2 / 43            0
+opens  2013  pictures       0            0          0 / 0            21
+opens  2014  pictures       0            0          0 / 0            31
+opens  2015  pictures       0            0          0 / 0            35
+opens  2016  pictures       0            0          0 / 0             8
+opens  2017  pictures       0            0          0 / 0            10
+opens  2018  pictures       0            0          0 / 0            10
+opens  2019  pictures       0            0          0 / 0             6
+opens  2020  standings table only      0            0          1 / 180           0
+opens  2021  tables         5          388          1 / 180           0
+opens  2022  tables         6          393          1 / 171           0
+opens  2023  standings table only      0            0          1 / 138           0
+opens  2024  tables         6          349          1 / 142           0
+opens  2025  tables         7          333          1 / 115           0
+opens  2026  tables         5          303          1 / 119           0
+
+Warnings (0):
+
+Files the pages name that are in neither copy of the old site (15):
+  2011-club-results.html: uploads/1/1/3/6/11368969/544948.png
+  2011-club-results.html: uploads/1/1/3/6/11368969/4649096_orig.jpg
+  2011-club-results.html: uploads/1/1/3/6/11368969/4677399_orig.jpg
+  2011-club-results.html: uploads/1/1/3/6/11368969/109459_orig.jpg
+  2011-club-results.html: uploads/1/1/3/6/11368969/2621489_orig.jpg
+  2011-club-results.html: uploads/1/1/3/6/11368969/4515166_orig.jpg
+  2011-club-results.html: uploads/1/1/3/6/11368969/5823335_orig.jpg
+  2011-club-results.html: uploads/1/1/3/6/11368969/1214917_orig.jpg
+  2011-club-results.html: uploads/1/1/3/6/11368969/1557034_orig.jpg
+  2011-club-results.html: uploads/1/1/3/6/11368969/8649612_orig.jpg
+  2011-club-results.html: uploads/1/1/3/6/11368969/3216259_orig.jpg
+  2011-club-results.html: uploads/1/1/3/6/11368969/3715134_orig.jpg
+  2011-club-results.html: uploads/1/1/3/6/11368969/6467194_orig.jpg
+  2011-club-results.html: uploads/1/1/3/6/11368969/8187077_orig.jpg
+  2013-club-results.html: uploads/1/1/3/6/11368969/_1682451.jpg

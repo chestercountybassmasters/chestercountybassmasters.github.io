@@ -1,0 +1,481 @@
+{
+ "series": "club",
+ "year": 2019,
+ "source": {
+  "page": "2019-club-results.html",
+  "copied": "2026-11-20",
+  "sha256": "cf62167e3b3a933c7db943896c95670d7a20dfd884289df749a273d7672fe526",
+  "rows": {
+   "table_rows": 0,
+   "tournament_rows": 0,
+   "standings_rows": 0,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 0,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [],
+ "standings": [],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "heading",
+   "lines": [
+    "2019 CCBM Tournament Results and Standings"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Tournament Rules"
+   ],
+   "links": [
+    {
+     "text": "​Tournament Rules",
+     "file": "archive/chestercountybassmasters_2019-b_tournament_rules.pdf"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2019-08-15-at-5-52-15-pm_1.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2019-11-03-at-6-30-53-pm_1.png"
+  },
+  {
+   "kind": "external",
+   "href": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQjC5lk9x4G_OpEnQF4aa7DljdHAMhKhrbyqwIPhkeE8bhPNMZuVlk0Wk6iKnMfYRwhS-XBPpXnb-VU/pubhtml?gid=892255126&single=true&widget=false&headers=false&chrome=false",
+   "text": "Result sheet on Google Sheets (outside this site)"
+  },
+  {
+   "kind": "external",
+   "href": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTlZ8yWKLIxZCDPbpwQXptfFoijbYThJREmEiRfHplERyWFmL_pRUlgFKoO4TVj798bMn2l9dkNAJIq/pubhtml?gid=1478471902&single=true&widget=false&headers=false&chrome=false",
+   "text": "Result sheet on Google Sheets (outside this site)"
+  },
+  {
+   "kind": "external",
+   "href": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZHxr9caGslh_bYIFDWFh1p8slx3oru-IB40Z6K-C08g2PxyPBI3eRsLwlCi382O3qew49XEGF2TwM/pubhtml?gid=1478471902&single=true&widget=false&headers=false&chrome=false",
+   "text": "Result sheet on Google Sheets (outside this site)"
+  },
+  {
+   "kind": "external",
+   "href": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRyFNvLtySV3-NWD6Z1eAD8HSXfGbB-JpKxP6yGy_krOd41tMGKcJm87a9nGWGmMsnR8IblGd90RJnM/pubhtml?gid=1478471902&single=true&widget=false&headers=false&chrome=false",
+   "text": "Result sheet on Google Sheets (outside this site)"
+  },
+  {
+   "kind": "external",
+   "href": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQNOvyONwytRbTnBbPtAXt-u-rMN5K7EETMDZw-e3GDpgQhFx8pSqRsnmRUMPlD5oMTbwIyhck2N03v/pubhtml?gid=1478471902&single=true&widget=false&headers=false&chrome=false",
+   "text": "Result sheet on Google Sheets (outside this site)"
+  },
+  {
+   "kind": "external",
+   "href": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVxQylDhcNsFBBhJpGI9UMUTxyOr2axN0R_6REd6rMnCmJgJncozjYPqDnKNq2U-Dn1ex8AR79jRf8/pubhtml?gid=1478471902&single=true&widget=false&headers=false&chrome=false",
+   "text": "Result sheet on Google Sheets (outside this site)"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "At a breezy and boat packed Conowingo Lake one angler makes a big penultimate move with a win in hopes to move into the top 3 or better.",
+    "Our Tournament Director is heading in the right direction after winning the last tournament and taking a top 3 here.",
+    "Last minute boat change pays off big as one rider teams up with the tournament winner and cashes in."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/dsc-4575_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Stan Horne takes a big win on a tough day for sure. His limit of Smallies weigh in at 5.31 lbs which is just .02 lbs more then our 2nd place finisher.",
+    "CCBM keeps anglers top 7 finishes to assemble a Angler Of the Year list. This was our 7th tx of the year but Stan had mechanical issues at one point leaving him with no points for that event. With this win landing himself in 7th place in the AOY race and has him only 52 points out of top 3, he is in great shape going into our next tx on the North East River on September 21st."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-4174_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Steve Weimar is now in mid season form after following up a win on the Nanticoke River with a 2nd place finish here on the Conowingo. He falls just shy of the win with only 4 fish going onto the scales. With that 5th fish he takes the win but it is tough to complain when most guys only weighed in 1 or 2 fish.",
+    "Steve's weight goes 5.29 lbs as he hopes to keep up the good fortune after a slow spring fishing spring."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-4186_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Tom Yaw started the day unsure who he would be fishing with after his boater had to back out. Fortunately he landed himself in Stan Hornes boat who generally does really well on this body of water. Now Stan could not catch his fish for him so that is all on Tom. For a tough day Tom really had a strong day.",
+    "Tom weighs in 4 fish that go for 4.71 lbs to take 3rd place and 1 keeper away from his first win!"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-4178_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Will Warren did not have a huge day but his one fish was huge compared to the others on the day. He takes the Lunker title with this 2.10 lb Smallie."
+   ]
+  },
+  {
+   "kind": "external",
+   "href": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTefAqNCQ7owLKs2Lu2fIOq_hW16A8AiYyGgZ6sFxHxt09vZB05w8g8QPsk2-x16r4cB8rdN6K3kv7j/pubhtml?gid=1478471902&single=true&widget=false&headers=false&chrome=false",
+   "text": "Result sheet on Google Sheets (outside this site)"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "With our TD having tough start to the season he comes in with a big win.",
+    "One angler is making the Nanticoke River a place where you have to really watch out for.",
+    "Another angler follows up a Lunker award with a top 3 finish"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-3712_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Steve Weimar comes in cold but leaves on fire. He weighs in a limit of Bass that go 9. 54 lbs which included a 2.39 lb kicker.",
+    "Other seasons Steve was always in the hunt for a top 3 finish but not this year until this event. He is hoping to take this big win to help leapfrog himself up the AOY leaderboard and with a good finish on the Conowingo he should do just that."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-3702_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "After bumping Sean Geerlof out of the top 3 at the last Nanticoke event he was not able to knock off the TX winner. His bag weigh in at 9.43 lb which was just .11 lbs out of the lead. He is proving to the others that he is really picking up ow to fish this place based on recent tx results!!"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-3700_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "After taking home Lunker honors in the last Nanticoke tx James (WOO) Hauck puts together a nice bag to take home a 3rd place finish."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2019-07-28-at-1-43-17-pm_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Current AOY Leader is on a tear like we have only seen by 4 other anglers in club history, while another angler is having a career season but it will be cut short due to an injury.",
+    "Another angler squeaks into 3rd place and top 6 overall."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-3458_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Lou Croce makes it 4 wins in 5 tournaments!!",
+    "We have had 4 or more wins in a season by only 5 other anglers(Mark Ely(3times-17, 15,13), Stan Horne(12), Sean Geerlof(11), Dave Bolesta(05), and also Lou Croce(2 times- 16,10)). 4 of them winning 5 tournaments in 1 season(Mark Ely 2013, Sean Geerlof 2011, Lou Croce 2010, and Dave Bolesta 2005).",
+    "No one has ever had 2 seasons with 5 wins. You can bet Lou will be going for that record on the Nanticoke come August 24th .",
+    "On this day Louie did not have a killer day on the water but it was enough for the win! His limit of bass weighed in at 7.69 lbs"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-3468_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Sam Montalto had a tough start to his day and it was before even leaving the garage in the morning. After suffering a Achilles injury first thing he fought through the pain and had himself a day!!! Taking ANOTHER top 3!!!",
+    "Sam's bag weighs in at 7.56 lbs just shy of Lou Croce in first place.",
+    "Sam will miss a several tournaments but may be able to fish the season nd try and secure a top 3 position."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-3448_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Steve Zisk squeaks into the top 6 in the AOY race but only BARELY squeaks into the top 3 on the Nanticoke on this day. Steve's 6.35 lb bag knocks Sean Geerlof out of the top 3 by .01 lbs."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-3453-2_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "James \"WOO\" Hauck may had had a tough time on the water due to mechanical issues but made the most out of it by catching the Lunker of the day!!",
+    "His 2.55lb Largemouth was enough to pocket the Lunker pot."
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "CCBM Tournament #4",
+    "June 8, 2019-North East River"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2019-06-20-at-12-33-51-pm_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "One angler plays spoiler in record attempt while other 2 anglers keep rolling in their big season during this super busy day on the water."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/mark-ne_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Mark Ely swipes Lou Croces chance at entering the record books as only the 3rd angler to win 4 tournaments in a row by taking a big win on a very busy North East River.",
+    "Mark weighs in 13.84 lbs which included a 4.33 lb Kicker! Mark is having a good season finishing in the top 3 in 3 of the last 4 tournaments."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2210_3.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Lou Croce takes a top 3 finish for the 4th straight time this year. He is really staring to put some room between himself and the rest of the field in the AOY race!!",
+    "Lous bag of 4 bass weigh in at 11.88 lbs and have him chomping at the bit to get to the next tx to try to get back to the top of the results page."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2193_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Once again Sam Montalto takes a top 4 finish for the 4th time this season as he takes 3rd this time around. Sam is really having a great year and is looking to make himself a angler that you have to worry about when it is time to weigh some fish.",
+    "Sams bag weighs 8.23 lbs which include a 4.28 lb kicker fish."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/ken-jester-small_2.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "New member Ken Jester brings home Lunker honors on this stingy day weighing in a 4.78 lb SLOB!!"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "CCBM Tournament #3",
+    "May 11, 2019-North East River"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2019-05-12-at-12-44-33-pm_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "For only the 4th time in club history a angler wins 3 in a row. After a late day drop the 2018 AOY has to settle for a 2nd place finish while one angler makes it 2-3rd place finishes in a row"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2210_2.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Lou Croce follows back to back wins with another big win making it hard to catch him in the AOY with the current run he is on. This is the 4th time in club history a angler has won 3 times in a row. The top 3 finishers in this tx are actually the only ones to do it with Lou actually doing it 2 times. He will be trying for a 4 in a row like Sean did in 2011.",
+    "Louie catches a late day 4lber to seal the deal on this busy day on the water. His bag weighs in at 17.58 lbs. Pressures on now to try and keep up the pace."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2212_2.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Sean Geerlof starts the day out with 3 fish in the first few hrs. Thinking he had plenty of time to round out his limit he continues to fish slow and methodically. This resulted in a handful of short fish until hooking into a 5.41 lb pig that is good enough for Lunker of the day.",
+    "Fishing in the way he was catching them all day(3/8 oz GRT Jig) he gets the hook into a 4+ lb fish but lost him near the boat.",
+    "Usually this would have been a painful loss but Sean's son came to watch the weigh in took some photos with his good fish which made it special. His 4 fish go 15.48 lbs gives him a 2nd place finish and moves him into 3rd in AOY standings after 3 tournaments."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2198_2.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Mark Ely makes it 2 3rd place finishes in a row showing he is here to compete. He weighs in a solid 14.04 lb bag of 5 fish which included a 5.11 lb pig. June 8th will be the next tx and trust he will be ready to compete as he is looking to fight for that top spot in the AOY race."
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "CCBM Tournament #2",
+    "May 4, 2019-Sassafras River"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2019-05-06-at-2-39-47-pm_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Records... Records... and MORE Records..",
+    "Current AOY sets several records on way to a big win on the Sassafras River.",
+    "Other anglers positioning themselves for a long season with some top 3 points."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2125_2.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Lou Croce follows up his opening day win on the Nanticoke with a big win on the Sassafras River.",
+    "Louie now holds the record for Largest bag ever weighed in on the Sassafras River during a CCBM club tx, Largest fish ever weighed in on the Sassafras, the 7th largest bag ever weighed in in club history, and the 6th largest fish ever weighed in on the Sassafras River",
+    "Lou's bag of 18.82 lbs tops the closest angler by almost 8 lbs which is not far off from the weight of his kicker fish that takes lunker honors at 6.21 lbs."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/sam-fp_1.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Sam Montalto is having a strong start to his season after finishing in the top 4 last year for the first time proving last year was not a fluke.",
+    "His limit of bass weigh in at 10.98 lbs which includes a 4+ pound kicker was enough to slip into 2nd place."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-2130_2.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Mark Ely is also having a strong start to his year after having a tough 2018 and a beautiful new baby as a distraction for most of the year.",
+    "Mark Weighs in 4 fish that go 10.83 lbs and looks forward to next week on the North East River in hopes of moving up into the top 3."
+   ]
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "CCBM Tournament #1",
+    "April 13, 2019-Nanticoke River"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2019-05-05-at-11-44-14-am_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "The first tournament of the year starts out the way it ended in 2018. A former member comes back to show us what he has learned during his time away by taking a 2nd place finish and a young gun rounds out the top 3!!"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-1169_2.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Lou Croce follows up his Classic win last year with another win to start the 2019 season. Louie catches a new record bag. He weighs in the largest bag in the history of the club on the Nanticoke River.",
+    "His limit of bass weigh in at 12.61 lbs, which beats the next closest angler by 2.5 lbs for the win!"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-1166_3.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Rick Mullen takes a year off to do some exploring and comes back to have his best day on the Nanticoke River.",
+    "He was catching fish all day but had a hard time trying to replace one 12\" fish and it cost him a shot at the win. The good news for Rick was that it did give him a 2nd place finish and brings in the Lunker of the day to boot. Rick's bag weighs in at 10.11 lbs which was anchored by a 4.06 lb slob."
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/d50-1188_2.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Stephan Sirochman finds himself for the 2nd time as a CCBM in the top 3. He is hoping to carry some momentum into the next tournament on the Sassafras River on May 4th.",
+    "His bag of 8.61 lbs puts him comfortably into 3rd place which earned him 93 points towards the AOY standings."
+   ]
+  }
+ ],
+ "results_form": "pictures",
+ "note": "The results of this season are pictures and Google Sheets that the old page showed in frames. The pictures are shown as they are; the sheets are linked and are outside this site.",
+ "pictures": [
+  "archive/published/screen-shot-2019-08-15-at-5-52-15-pm_1.png",
+  "archive/published/screen-shot-2019-11-03-at-6-30-53-pm_1.png",
+  "archive/dsc-4575_1.jpg",
+  "archive/d50-4174_1.jpg",
+  "archive/d50-4186_1.jpg",
+  "archive/d50-4178_1.jpg",
+  "archive/d50-3712_1.jpg",
+  "archive/d50-3702_1.jpg",
+  "archive/d50-3700_1.jpg",
+  "archive/published/screen-shot-2019-07-28-at-1-43-17-pm_1.png",
+  "archive/d50-3458_1.jpg",
+  "archive/d50-3468_1.jpg",
+  "archive/d50-3448_1.jpg",
+  "archive/d50-3453-2_1.jpg",
+  "archive/published/screen-shot-2019-06-20-at-12-33-51-pm_1.png",
+  "archive/mark-ne_1.jpg",
+  "archive/d50-2210_3.jpg",
+  "archive/d50-2193_1.jpg",
+  "archive/ken-jester-small_2.jpg",
+  "archive/published/screen-shot-2019-05-12-at-12-44-33-pm_1.png",
+  "archive/d50-2210_2.jpg",
+  "archive/d50-2212_2.jpg",
+  "archive/d50-2198_2.jpg",
+  "archive/published/screen-shot-2019-05-06-at-2-39-47-pm_1.png",
+  "archive/d50-2125_2.jpg",
+  "archive/sam-fp_1.jpg",
+  "archive/d50-2130_2.jpg",
+  "archive/published/screen-shot-2019-05-05-at-11-44-14-am_1.png",
+  "archive/d50-1169_2.jpg",
+  "archive/d50-1166_3.jpg",
+  "archive/d50-1188_2.jpg"
+ ]
+}

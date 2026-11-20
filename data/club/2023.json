@@ -1,0 +1,4185 @@
+{
+ "series": "club",
+ "year": 2023,
+ "source": {
+  "page": "2023-club-results.html",
+  "copied": "2026-11-20",
+  "sha256": "2de3a5e0e8e69f7497581e29f0734111d6e22540c8ffadd74ca636aca36ee6f7",
+  "rows": {
+   "table_rows": 505,
+   "tournament_rows": 440,
+   "standings_rows": 51,
+   "schedule_rows": 14,
+   "summary_table_rows": 0,
+   "file_table_rows": 0,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "4/22/2023 Nanticoke River"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Stephan Sirochman",
+     "fish": "5",
+     "weight": "11.60",
+     "big_fish": ""
+    },
+    {
+     "place": "2",
+     "name": "Travis Nale",
+     "fish": "5",
+     "weight": "10.23",
+     "big_fish": "3.11"
+    },
+    {
+     "place": "3",
+     "name": "Paul Sirochman",
+     "fish": "3",
+     "weight": "8.79",
+     "big_fish": "4.61"
+    },
+    {
+     "place": "4",
+     "name": "Adam Harkness",
+     "fish": "5",
+     "weight": "8.30",
+     "big_fish": ""
+    },
+    {
+     "place": "4",
+     "name": "Glenn Kmecz",
+     "fish": "5",
+     "weight": "8.30",
+     "big_fish": ""
+    },
+    {
+     "place": "6",
+     "name": "Lou Croce",
+     "fish": "5",
+     "weight": "6.88",
+     "big_fish": ""
+    },
+    {
+     "place": "7",
+     "name": "Stan Horne",
+     "fish": "3",
+     "weight": "6.59",
+     "big_fish": "3.44"
+    },
+    {
+     "place": "8",
+     "name": "Steve Weimar",
+     "fish": "4",
+     "weight": "5.69",
+     "big_fish": ""
+    },
+    {
+     "place": "9",
+     "name": "Nick Biondi",
+     "fish": "2",
+     "weight": "5.33",
+     "big_fish": "2.66"
+    },
+    {
+     "place": "10",
+     "name": "Sean Geerlof",
+     "fish": "3",
+     "weight": "4.76",
+     "big_fish": ""
+    },
+    {
+     "place": "11",
+     "name": "Eli Amilani",
+     "fish": "2",
+     "weight": "3.85",
+     "big_fish": ""
+    },
+    {
+     "place": "12",
+     "name": "Zach Weimar",
+     "fish": "3",
+     "weight": "3.29",
+     "big_fish": ""
+    },
+    {
+     "place": "13",
+     "name": "Rich Martinelli",
+     "fish": "3",
+     "weight": "3.25",
+     "big_fish": ""
+    },
+    {
+     "place": "14",
+     "name": "Tom Yaw",
+     "fish": "2",
+     "weight": "3.13",
+     "big_fish": ""
+    },
+    {
+     "place": "15",
+     "name": "Sean Clark",
+     "fish": "1",
+     "weight": "2.28",
+     "big_fish": ""
+    },
+    {
+     "place": "16",
+     "name": "Jason Bailey",
+     "fish": "1",
+     "weight": "2.11",
+     "big_fish": ""
+    },
+    {
+     "place": "17",
+     "name": "JC Henry",
+     "fish": "1",
+     "weight": "1.81",
+     "big_fish": ""
+    },
+    {
+     "place": "18",
+     "name": "Sam Montalto",
+     "fish": "1",
+     "weight": "1.40",
+     "big_fish": ""
+    },
+    {
+     "place": "19",
+     "name": "Ryan Sweeney",
+     "fish": "1",
+     "weight": "1.38",
+     "big_fish": ""
+    },
+    {
+     "place": "19",
+     "name": "Aaron Turner",
+     "fish": "1",
+     "weight": "1.38",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Bob Donaldson",
+     "fish": "1",
+     "weight": "1.15",
+     "big_fish": ""
+    },
+    {
+     "place": "22",
+     "name": "JW Wade",
+     "fish": "1",
+     "weight": "0.86",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Bill Allison",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Bob Horning",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Cliff Ruck",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Greg Arrowood",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Jimmy Pitcherello",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Joe Wesley",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Pavlo Fenik",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Rick Orlando",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Steve Zisk",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "32",
+     "name": "James (Woo) Hauck",
+     "fish": "dnw",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "32",
+     "name": "Ken Jester",
+     "fish": "dnw",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "32",
+     "name": "Tom Wood",
+     "fish": "dnw",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "1",
+     "name": "Ken Robinson",
+     "fish": "5",
+     "weight": "11.98",
+     "big_fish": "(cash winner)",
+     "guest": true
+    },
+    {
+     "place": "6",
+     "name": "Chuck Nale",
+     "fish": "5",
+     "weight": "8.14",
+     "big_fish": "",
+     "guest": true
+    },
+    {
+     "place": "11",
+     "name": "Kevin Pownall",
+     "fish": "2",
+     "weight": "5.01",
+     "big_fish": "",
+     "guest": true
+    }
+   ],
+   "summary": [
+    {
+     "label": "Participants",
+     "value": "37"
+    },
+    {
+     "label": "Fish Weight",
+     "value": "127.49"
+    },
+    {
+     "label": "Fish Weighed",
+     "value": "70"
+    },
+    {
+     "label": "#Fish/Participant",
+     "value": "1.89"
+    },
+    {
+     "label": "Average Fish Wt",
+     "value": "1.82"
+    },
+    {
+     "label": "Weight / Angler w/fish",
+     "value": "3.45"
+    }
+   ],
+   "notes": [
+    "Total",
+    "Total",
+    "Total",
+    "Average",
+    "Average"
+   ],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 37,
+    "other": 7,
+    "blank": 1,
+    "table_rows": 49
+   },
+   "title": "4/22/2023 Nanticoke River",
+   "dates": [
+    "2023-04-22"
+   ],
+   "waters": [
+    "Nanticoke"
+   ],
+   "id": "2023-04-22"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "5/13/2023 Sassafras River"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Greg Arrowood",
+     "fish": "4",
+     "weight": "14.84",
+     "big_fish": "4.95"
+    },
+    {
+     "place": "2",
+     "name": "Rich Martinelli",
+     "fish": "5",
+     "weight": "13.16",
+     "big_fish": ""
+    },
+    {
+     "place": "3",
+     "name": "Steve Manista",
+     "fish": "3",
+     "weight": "8.91",
+     "big_fish": "3.94"
+    },
+    {
+     "place": "4",
+     "name": "JW Wade",
+     "fish": "2",
+     "weight": "7.84",
+     "big_fish": "4.39"
+    },
+    {
+     "place": "5",
+     "name": "Sean Geerlof",
+     "fish": "3",
+     "weight": "7.19",
+     "big_fish": ""
+    },
+    {
+     "place": "6",
+     "name": "Jason Bailey",
+     "fish": "3",
+     "weight": "7.16",
+     "big_fish": ""
+    },
+    {
+     "place": "7",
+     "name": "Lou Croce",
+     "fish": "2",
+     "weight": "5.34",
+     "big_fish": ""
+    },
+    {
+     "place": "8",
+     "name": "Tom Wood",
+     "fish": "2",
+     "weight": "5.28",
+     "big_fish": ""
+    },
+    {
+     "place": "9",
+     "name": "Rick Orlando",
+     "fish": "2",
+     "weight": "5.20",
+     "big_fish": ""
+    },
+    {
+     "place": "10",
+     "name": "Stan Horne",
+     "fish": "2",
+     "weight": "4.70",
+     "big_fish": ""
+    },
+    {
+     "place": "11",
+     "name": "Steve Weimar",
+     "fish": "2",
+     "weight": "4.15",
+     "big_fish": ""
+    },
+    {
+     "place": "12",
+     "name": "Tom Yaw",
+     "fish": "1",
+     "weight": "3.22",
+     "big_fish": ""
+    },
+    {
+     "place": "13",
+     "name": "Ryan Sweeney",
+     "fish": "1",
+     "weight": "3.11",
+     "big_fish": ""
+    },
+    {
+     "place": "14",
+     "name": "Sam Montalto",
+     "fish": "1",
+     "weight": "3.02",
+     "big_fish": ""
+    },
+    {
+     "place": "15",
+     "name": "Broc Termini",
+     "fish": "1",
+     "weight": "2.80",
+     "big_fish": ""
+    },
+    {
+     "place": "16",
+     "name": "JC Henry",
+     "fish": "1",
+     "weight": "2.41",
+     "big_fish": ""
+    },
+    {
+     "place": "17",
+     "name": "Mike Towber",
+     "fish": "1",
+     "weight": "2.36",
+     "big_fish": ""
+    },
+    {
+     "place": "17",
+     "name": "Travis Nale",
+     "fish": "1",
+     "weight": "2.36",
+     "big_fish": ""
+    },
+    {
+     "place": "19",
+     "name": "Pavlo Fenik",
+     "fish": "1",
+     "weight": "2.19",
+     "big_fish": ""
+    },
+    {
+     "place": "20",
+     "name": "Jim (Woo) Hauck",
+     "fish": "1",
+     "weight": "1.69",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Bob Donaldson",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Zach Weimar",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Bill Allison",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Bob Horning",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Cliff Ruck",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Glenn Kmecz",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Aaron Turner",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Joe Wesley",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Dave Curci",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "30",
+     "name": "Paul Sirochman",
+     "fish": "dnw",
+     "weight": "",
+     "big_fish": ""
+    }
+   ],
+   "summary": [
+    {
+     "label": "Participants",
+     "value": "30"
+    },
+    {
+     "label": "Fish Weight",
+     "value": "106.93"
+    },
+    {
+     "label": "Fish Weighed",
+     "value": "39"
+    },
+    {
+     "label": "#Fish/Participant",
+     "value": "1.30"
+    },
+    {
+     "label": "Average Fish Wt",
+     "value": "2.74"
+    },
+    {
+     "label": "Weight / Angler w/fish",
+     "value": "3.56"
+    }
+   ],
+   "notes": [
+    "Total",
+    "Total",
+    "Total",
+    "Average",
+    "Average"
+   ],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 30,
+    "other": 6,
+    "blank": 1,
+    "table_rows": 41
+   },
+   "title": "5/13/2023 Sassafras River",
+   "dates": [
+    "2023-05-13"
+   ],
+   "waters": [
+    "Sassafras"
+   ],
+   "id": "2023-05-13"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "5/20/2023 North East River"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Steve Weimar",
+     "fish": "5",
+     "weight": "13.98",
+     "big_fish": ""
+    },
+    {
+     "place": "2",
+     "name": "Pavlo Fenik",
+     "fish": "5",
+     "weight": "13.59",
+     "big_fish": "3.78"
+    },
+    {
+     "place": "3",
+     "name": "Rick Orlando",
+     "fish": "5",
+     "weight": "11.42",
+     "big_fish": ""
+    },
+    {
+     "place": "4",
+     "name": "Travis Nale",
+     "fish": "4",
+     "weight": "9.98",
+     "big_fish": ""
+    },
+    {
+     "place": "5",
+     "name": "JC Henry",
+     "fish": "3",
+     "weight": "9.93",
+     "big_fish": "4.32"
+    },
+    {
+     "place": "6",
+     "name": "Stan Horne",
+     "fish": "4",
+     "weight": "9.36",
+     "big_fish": ""
+    },
+    {
+     "place": "7",
+     "name": "Paul Sirochman",
+     "fish": "3",
+     "weight": "8.19",
+     "big_fish": ""
+    },
+    {
+     "place": "8",
+     "name": "Lou Croce",
+     "fish": "2",
+     "weight": "6.97",
+     "big_fish": "4.77"
+    },
+    {
+     "place": "9",
+     "name": "Zach Weimar",
+     "fish": "2",
+     "weight": "6.36",
+     "big_fish": "3.89"
+    },
+    {
+     "place": "10",
+     "name": "Steve Manista",
+     "fish": "2",
+     "weight": "5.62",
+     "big_fish": ""
+    },
+    {
+     "place": "11",
+     "name": "Sean Geerlof",
+     "fish": "2",
+     "weight": "4.96",
+     "big_fish": ""
+    },
+    {
+     "place": "12",
+     "name": "Cliff Ruck",
+     "fish": "1",
+     "weight": "2.69",
+     "big_fish": ""
+    },
+    {
+     "place": "13",
+     "name": "Joe Wesley",
+     "fish": "1",
+     "weight": "2.66",
+     "big_fish": ""
+    },
+    {
+     "place": "13",
+     "name": "Adam Harkness",
+     "fish": "1",
+     "weight": "2.66",
+     "big_fish": ""
+    },
+    {
+     "place": "15",
+     "name": "Aaron Turner",
+     "fish": "1",
+     "weight": "2.54",
+     "big_fish": ""
+    },
+    {
+     "place": "16",
+     "name": "Jim (Woo) Hauck",
+     "fish": "1",
+     "weight": "2.49",
+     "big_fish": ""
+    },
+    {
+     "place": "17",
+     "name": "Greg Arrowood",
+     "fish": "1",
+     "weight": "2.35",
+     "big_fish": ""
+    },
+    {
+     "place": "18",
+     "name": "Eli Amilani",
+     "fish": "1",
+     "weight": "2.13",
+     "big_fish": ""
+    },
+    {
+     "place": "19",
+     "name": "Ryan Sweeney",
+     "fish": "1",
+     "weight": "2.13",
+     "big_fish": ""
+    },
+    {
+     "place": "20",
+     "name": "Sam Montalto",
+     "fish": "1",
+     "weight": "1.97",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Glenn Kmecz",
+     "fish": "1",
+     "weight": "1.31",
+     "big_fish": ""
+    },
+    {
+     "place": "22",
+     "name": "Bob Donaldson",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "22",
+     "name": "Dave Curci",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "22",
+     "name": "Jason Bailey",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "22",
+     "name": "Bob Horning",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "22",
+     "name": "JW Wade",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "22",
+     "name": "Nick Biondi",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "22",
+     "name": "Jimmy Pitcherello",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "29",
+     "name": "Tom Wood",
+     "fish": "dnw",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "29",
+     "name": "Steve Zisk",
+     "fish": "dnw",
+     "weight": "",
+     "big_fish": ""
+    }
+   ],
+   "summary": [
+    {
+     "label": "Participants",
+     "value": "30"
+    },
+    {
+     "label": "Fish Weight",
+     "value": "123.29"
+    },
+    {
+     "label": "Fish Weighed",
+     "value": "47"
+    },
+    {
+     "label": "#Fish/Participant",
+     "value": "1.57"
+    },
+    {
+     "label": "Average Fish Wt",
+     "value": "2.62"
+    },
+    {
+     "label": "Weight / Angler w/fish",
+     "value": "4.11"
+    }
+   ],
+   "notes": [
+    "Total",
+    "Total",
+    "Total",
+    "Average",
+    "Average"
+   ],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 30,
+    "other": 6,
+    "blank": 1,
+    "table_rows": 41
+   },
+   "title": "5/20/2023 North East River",
+   "dates": [
+    "2023-05-20"
+   ],
+   "waters": [
+    "North East"
+   ],
+   "id": "2023-05-20"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "6/11/2023 North East"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Rick Orlando",
+     "fish": "5",
+     "weight": "11.51",
+     "big_fish": "3.48"
+    },
+    {
+     "place": "2",
+     "name": "Lou Croce",
+     "fish": "4",
+     "weight": "11.17",
+     "big_fish": ""
+    },
+    {
+     "place": "3",
+     "name": "Stan Horne",
+     "fish": "3",
+     "weight": "8.70",
+     "big_fish": ""
+    },
+    {
+     "place": "4",
+     "name": "Steve Weimar",
+     "fish": "3",
+     "weight": "8.48",
+     "big_fish": "3.90"
+    },
+    {
+     "place": "5",
+     "name": "Travis Nale",
+     "fish": "3",
+     "weight": "8.48",
+     "big_fish": "4.38",
+     "extra": [
+      "*"
+     ]
+    },
+    {
+     "place": "6",
+     "name": "Rich Martinelli",
+     "fish": "3",
+     "weight": "6.13",
+     "big_fish": ""
+    },
+    {
+     "place": "7",
+     "name": "Jason Bailey",
+     "fish": "2",
+     "weight": "5.90",
+     "big_fish": "3.31"
+    },
+    {
+     "place": "8",
+     "name": "Dave Curci",
+     "fish": "2",
+     "weight": "5.75",
+     "big_fish": "3.07"
+    },
+    {
+     "place": "9",
+     "name": "Sean Geerlof",
+     "fish": "2",
+     "weight": "5.49",
+     "big_fish": ""
+    },
+    {
+     "place": "10",
+     "name": "Eli Amilani",
+     "fish": "2",
+     "weight": "5.36",
+     "big_fish": "3.57"
+    },
+    {
+     "place": "11",
+     "name": "Cliff Ruck",
+     "fish": "2",
+     "weight": "4.82",
+     "big_fish": ""
+    },
+    {
+     "place": "12",
+     "name": "Aaron Turner",
+     "fish": "2",
+     "weight": "4.55",
+     "big_fish": ""
+    },
+    {
+     "place": "13",
+     "name": "Ryan Sweeney",
+     "fish": "1",
+     "weight": "4.19",
+     "big_fish": ""
+    },
+    {
+     "place": "14",
+     "name": "Paul Sirochman",
+     "fish": "1",
+     "weight": "3.89",
+     "big_fish": ""
+    },
+    {
+     "place": "15",
+     "name": "Greg Arrowood",
+     "fish": "1",
+     "weight": "3.51",
+     "big_fish": ""
+    },
+    {
+     "place": "15",
+     "name": "Jw Wade",
+     "fish": "1",
+     "weight": "3.51",
+     "big_fish": ""
+    },
+    {
+     "place": "17",
+     "name": "Mike Towber",
+     "fish": "1",
+     "weight": "3.14",
+     "big_fish": ""
+    },
+    {
+     "place": "18",
+     "name": "Jim (Woo) Hauck",
+     "fish": "1",
+     "weight": "2.67",
+     "big_fish": ""
+    },
+    {
+     "place": "19",
+     "name": "Pavlo Fenik",
+     "fish": "1",
+     "weight": "2.33",
+     "big_fish": ""
+    },
+    {
+     "place": "20",
+     "name": "Jc Henry",
+     "fish": "1",
+     "weight": "2.03",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Loren Meckle",
+     "fish": "1",
+     "weight": "1.82",
+     "big_fish": ""
+    },
+    {
+     "place": "24",
+     "name": "Bob Donaldson",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "25",
+     "name": "Nick Biondi",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "26",
+     "name": "Sean Clark",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    }
+   ],
+   "summary": [
+    {
+     "label": "Participants",
+     "value": "24"
+    },
+    {
+     "label": "Fish Weight",
+     "value": "113.43"
+    },
+    {
+     "label": "Fish Weighed",
+     "value": "42"
+    },
+    {
+     "label": "#Fish/Participant",
+     "value": "1.75"
+    },
+    {
+     "label": "Average Fish Weight",
+     "value": "2.70"
+    },
+    {
+     "label": "Average",
+     "value": "Weight / Angler w/fish"
+    },
+    {
+     "label": "Average, #Fish",
+     "value": "4.73"
+    }
+   ],
+   "notes": [
+    "Total",
+    "Total",
+    "Total",
+    "Average",
+    "* dead fish"
+   ],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 24,
+    "other": 7,
+    "blank": 1,
+    "table_rows": 36
+   },
+   "title": "6/11/2023 North East",
+   "dates": [
+    "2023-06-11"
+   ],
+   "waters": [
+    "North East"
+   ],
+   "id": "2023-06-11"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "7/8/2023 Potomac River"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Steve Weimar",
+     "fish": "5",
+     "weight": "15.48",
+     "big_fish": "3.34"
+    },
+    {
+     "place": "2",
+     "name": "Travis Nale",
+     "fish": "5",
+     "weight": "14.27",
+     "big_fish": "4.69",
+     "extra": [
+      "*"
+     ]
+    },
+    {
+     "place": "3",
+     "name": "Jim (Woo) Hauck",
+     "fish": "5",
+     "weight": "13.16",
+     "big_fish": "4"
+    },
+    {
+     "place": "4",
+     "name": "Pavlo Fenik",
+     "fish": "5",
+     "weight": "11.12",
+     "big_fish": "3.8"
+    },
+    {
+     "place": "5",
+     "name": "Lou Croce",
+     "fish": "5",
+     "weight": "11.09",
+     "big_fish": "2.53"
+    },
+    {
+     "place": "6",
+     "name": "Rick Orlando",
+     "fish": "5",
+     "weight": "10.77",
+     "big_fish": "2.55"
+    },
+    {
+     "place": "7",
+     "name": "Paul Sirochman",
+     "fish": "5",
+     "weight": "10.17",
+     "big_fish": ""
+    },
+    {
+     "place": "8",
+     "name": "Joe Wesley",
+     "fish": "5",
+     "weight": "8.77",
+     "big_fish": "3.18"
+    },
+    {
+     "place": "9",
+     "name": "Tom Yaw",
+     "fish": "5",
+     "weight": "8.72",
+     "big_fish": "2.41",
+     "extra": [
+      "*"
+     ]
+    },
+    {
+     "place": "10",
+     "name": "Bob Horning",
+     "fish": "5",
+     "weight": "8.41",
+     "big_fish": ""
+    },
+    {
+     "place": "11",
+     "name": "Bob Donaldson",
+     "fish": "4",
+     "weight": "6.18",
+     "big_fish": ""
+    },
+    {
+     "place": "12",
+     "name": "Zach Weimar",
+     "fish": "3",
+     "weight": "5.14",
+     "big_fish": ""
+    },
+    {
+     "place": "13",
+     "name": "Nick Biondi",
+     "fish": "3",
+     "weight": "4.68",
+     "big_fish": ""
+    },
+    {
+     "place": "14",
+     "name": "Stephan Sirochman",
+     "fish": "2",
+     "weight": "4.63",
+     "big_fish": ""
+    },
+    {
+     "place": "15",
+     "name": "Ken Jester",
+     "fish": "3",
+     "weight": "3.73",
+     "big_fish": ""
+    },
+    {
+     "place": "16",
+     "name": "Al Pavone",
+     "fish": "2",
+     "weight": "3.56",
+     "big_fish": ""
+    },
+    {
+     "place": "17",
+     "name": "Aaron Turner",
+     "fish": "4",
+     "weight": "3.49",
+     "big_fish": ""
+    },
+    {
+     "place": "18",
+     "name": "Rich Martinelli",
+     "fish": "2",
+     "weight": "3.27",
+     "big_fish": ""
+    },
+    {
+     "place": "19",
+     "name": "Eli Amilani",
+     "fish": "2",
+     "weight": "2.18",
+     "big_fish": ""
+    },
+    {
+     "place": "20",
+     "name": "Mike Towber",
+     "fish": "2",
+     "weight": "2.14",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Sean Geerlof",
+     "fish": "1",
+     "weight": "2.11",
+     "big_fish": "2.11"
+    },
+    {
+     "place": "22",
+     "name": "Sam Montalto",
+     "fish": "1",
+     "weight": "1.28",
+     "big_fish": "1.28"
+    },
+    {
+     "place": "23",
+     "name": "Stan Horne",
+     "fish": "",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Jason Bailey",
+     "fish": "",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Jw Wade",
+     "fish": "",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Jimmy Pitcherello",
+     "fish": "",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Cliff Ruck",
+     "fish": "",
+     "weight": "",
+     "big_fish": ""
+    }
+   ],
+   "summary": [
+    {
+     "label": "Participants",
+     "value": "27"
+    },
+    {
+     "label": "Fish Weight",
+     "value": "154.35"
+    },
+    {
+     "label": "Fish Weighed",
+     "value": "79"
+    },
+    {
+     "label": "#Fish/Participant",
+     "value": "2.93"
+    },
+    {
+     "label": "Fish Weight",
+     "value": "1.95"
+    },
+    {
+     "label": "Average",
+     "value": "Weight / Angler w/fish"
+    },
+    {
+     "label": "Average, #Fish",
+     "value": "5.72"
+    }
+   ],
+   "notes": [
+    "Total",
+    "Total",
+    "Total",
+    "Average",
+    "Average",
+    "* dead fish"
+   ],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 27,
+    "other": 7,
+    "blank": 1,
+    "table_rows": 39
+   },
+   "title": "7/8/2023 Potomac River",
+   "dates": [
+    "2023-07-08"
+   ],
+   "waters": [
+    "Potomac"
+   ],
+   "id": "2023-07-08"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "8/12/2023 Nanticoke River"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Paul Sirochman",
+     "fish": "5",
+     "weight": "10.88",
+     "big_fish": "2.68"
+    },
+    {
+     "place": "2",
+     "name": "Steve Manista",
+     "fish": "5",
+     "weight": "8.52",
+     "big_fish": ""
+    },
+    {
+     "place": "3",
+     "name": "Ryan Sweeney",
+     "fish": "5",
+     "weight": "7.85",
+     "big_fish": ""
+    },
+    {
+     "place": "4",
+     "name": "Stan Horne",
+     "fish": "5",
+     "weight": "6.90",
+     "big_fish": "2.11"
+    },
+    {
+     "place": "5",
+     "name": "Bob Donaldson",
+     "fish": "4",
+     "weight": "5.85",
+     "big_fish": ""
+    },
+    {
+     "place": "6",
+     "name": "Steve Zisk",
+     "fish": "4",
+     "weight": "5.73",
+     "big_fish": ""
+    },
+    {
+     "place": "7",
+     "name": "JC Henry",
+     "fish": "4",
+     "weight": "5.66",
+     "big_fish": ""
+    },
+    {
+     "place": "8",
+     "name": "Zach Weimar",
+     "fish": "4",
+     "weight": "4.61",
+     "big_fish": ""
+    },
+    {
+     "place": "9",
+     "name": "Sean Geerlof",
+     "fish": "4",
+     "weight": "4.58",
+     "big_fish": ""
+    },
+    {
+     "place": "10",
+     "name": "Loren Meckle",
+     "fish": "4",
+     "weight": "4.46",
+     "big_fish": ""
+    },
+    {
+     "place": "11",
+     "name": "Jimmy Pitcherello",
+     "fish": "4",
+     "weight": "4.41",
+     "big_fish": ""
+    },
+    {
+     "place": "12",
+     "name": "Rob Betchley",
+     "fish": "3",
+     "weight": "4.31",
+     "big_fish": ""
+    },
+    {
+     "place": "13",
+     "name": "Sam Montalto",
+     "fish": "3",
+     "weight": "4.29",
+     "big_fish": "2.48"
+    },
+    {
+     "place": "14",
+     "name": "Travis Nale",
+     "fish": "2",
+     "weight": "3.64",
+     "big_fish": ""
+    },
+    {
+     "place": "15",
+     "name": "Greg Arrowood",
+     "fish": "2",
+     "weight": "3.14",
+     "big_fish": ""
+    },
+    {
+     "place": "16",
+     "name": "Lou Croce",
+     "fish": "2",
+     "weight": "2.70",
+     "big_fish": ""
+    },
+    {
+     "place": "17",
+     "name": "Jason Bailey",
+     "fish": "2",
+     "weight": "2.12",
+     "big_fish": ""
+    },
+    {
+     "place": "18",
+     "name": "Steve Weimar",
+     "fish": "2",
+     "weight": "1.93",
+     "big_fish": ""
+    },
+    {
+     "place": "19",
+     "name": "Rick Orlando",
+     "fish": "1",
+     "weight": "1.55",
+     "big_fish": ""
+    },
+    {
+     "place": "20",
+     "name": "Derek Dunmeyer",
+     "fish": "1",
+     "weight": "1.32",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Mike Towber",
+     "fish": "1",
+     "weight": "1.08",
+     "big_fish": ""
+    },
+    {
+     "place": "22",
+     "name": "JW Wade",
+     "fish": "",
+     "weight": "0.00",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Joe Wesley",
+     "fish": "",
+     "weight": "0.00",
+     "big_fish": ""
+    },
+    {
+     "place": "25",
+     "name": "Pavlo Fenik",
+     "fish": "",
+     "weight": "0.00",
+     "big_fish": ""
+    },
+    {
+     "place": "26",
+     "name": "Jim (Woo) Hauck",
+     "fish": "",
+     "weight": "0.00",
+     "big_fish": ""
+    },
+    {
+     "place": "27",
+     "name": "Glenn Kmecz",
+     "fish": "",
+     "weight": "0.00",
+     "big_fish": ""
+    },
+    {
+     "place": "28",
+     "name": "Mike Martinelli",
+     "fish": "",
+     "weight": "0.00",
+     "big_fish": ""
+    }
+   ],
+   "summary": [
+    {
+     "label": "Participants",
+     "value": "27"
+    },
+    {
+     "label": "Fish Weight",
+     "value": "95.53"
+    },
+    {
+     "label": "Fish Weighed",
+     "value": "67"
+    },
+    {
+     "label": "#Fish/Participant",
+     "value": "2.48"
+    },
+    {
+     "label": "Avg. Fish Weight",
+     "value": "1.43"
+    },
+    {
+     "label": "Average",
+     "value": "Weight / Angler w/fish"
+    },
+    {
+     "label": "Average, #Fish",
+     "value": "3.54"
+    }
+   ],
+   "notes": [
+    "Total",
+    "Total",
+    "#",
+    "Average"
+   ],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 27,
+    "other": 6,
+    "blank": 1,
+    "table_rows": 38
+   },
+   "title": "8/12/2023 Nanticoke River",
+   "dates": [
+    "2023-08-12"
+   ],
+   "waters": [
+    "Nanticoke"
+   ],
+   "id": "2023-08-12"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "8/26/2023 North East River"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Joe Wesley",
+     "fish": "5",
+     "weight": "12.65",
+     "big_fish": "3.75"
+    },
+    {
+     "place": "2",
+     "name": "Stan Horne",
+     "fish": "5",
+     "weight": "12.06",
+     "big_fish": "4.75"
+    },
+    {
+     "place": "3",
+     "name": "Jc Henry",
+     "fish": "5",
+     "weight": "11.77",
+     "big_fish": "3.68"
+    },
+    {
+     "place": "4",
+     "name": "Rick Orlando",
+     "fish": "3",
+     "weight": "8.70",
+     "big_fish": "3.76"
+    },
+    {
+     "place": "5",
+     "name": "Jw Wade",
+     "fish": "3",
+     "weight": "8.57",
+     "big_fish": "4.35"
+    },
+    {
+     "place": "6",
+     "name": "Lou Croce",
+     "fish": "4",
+     "weight": "7.89",
+     "big_fish": ""
+    },
+    {
+     "place": "7",
+     "name": "Bob Donaldson",
+     "fish": "2",
+     "weight": "7.42",
+     "big_fish": "5.34"
+    },
+    {
+     "place": "8",
+     "name": "Zach Weimar",
+     "fish": "3",
+     "weight": "7.29",
+     "big_fish": "3.71"
+    },
+    {
+     "place": "9",
+     "name": "Steve Zisk",
+     "fish": "3",
+     "weight": "6.83",
+     "big_fish": ""
+    },
+    {
+     "place": "10",
+     "name": "Jim (Woo) Hauck",
+     "fish": "3",
+     "weight": "6.14",
+     "big_fish": ""
+    },
+    {
+     "place": "11",
+     "name": "Nick Biondi",
+     "fish": "2",
+     "weight": "5.80",
+     "big_fish": "4.18",
+     "extra": [
+      "*"
+     ]
+    },
+    {
+     "place": "12",
+     "name": "Travis Nale",
+     "fish": "3",
+     "weight": "5.76",
+     "big_fish": ""
+    },
+    {
+     "place": "13",
+     "name": "Sam Montalto",
+     "fish": "3",
+     "weight": "5.65",
+     "big_fish": ""
+    },
+    {
+     "place": "14",
+     "name": "Paul Sirochman",
+     "fish": "3",
+     "weight": "5.06",
+     "big_fish": ""
+    },
+    {
+     "place": "15",
+     "name": "Adam Harkness",
+     "fish": "2",
+     "weight": "4.81",
+     "big_fish": ""
+    },
+    {
+     "place": "16",
+     "name": "Bill Allison",
+     "fish": "2",
+     "weight": "4.37",
+     "big_fish": ""
+    },
+    {
+     "place": "17",
+     "name": "Dave Curci",
+     "fish": "2",
+     "weight": "4.23",
+     "big_fish": ""
+    },
+    {
+     "place": "18",
+     "name": "Bob Horning",
+     "fish": "2",
+     "weight": "3.28",
+     "big_fish": ""
+    },
+    {
+     "place": "19",
+     "name": "Mike Martinelli",
+     "fish": "2",
+     "weight": "2.95",
+     "big_fish": ""
+    },
+    {
+     "place": "20",
+     "name": "Tom Yaw",
+     "fish": "1",
+     "weight": "2.34",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Glenn Kmecz",
+     "fish": "1",
+     "weight": "2.16",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Rob Betchley",
+     "fish": "1",
+     "weight": "1.52",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Steve Weimar",
+     "fish": "1",
+     "weight": "0.76",
+     "big_fish": ""
+    },
+    {
+     "place": "24",
+     "name": "Ryan Sweeney",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "24",
+     "name": "Eli Amilani",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "24",
+     "name": "Jason Bailey",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "24",
+     "name": "Pavlo Fenik",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "24",
+     "name": "Sean Geerlof",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "24",
+     "name": "Aaron Turner",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "24",
+     "name": "Rich Martinelli",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "24",
+     "name": "Al Pavone",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "24",
+     "name": "Stephan Sirochman",
+     "fish": "0",
+     "weight": "",
+     "big_fish": ""
+    },
+    {
+     "place": "",
+     "name": "Chuck Nale (guest)",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "guest": true
+    }
+   ],
+   "summary": [
+    {
+     "label": "Participants",
+     "value": "33"
+    },
+    {
+     "label": "Fish Weight",
+     "value": "138.01"
+    },
+    {
+     "label": "Fish Weighed",
+     "value": "61"
+    },
+    {
+     "label": "#Fish/Participant",
+     "value": "1.85"
+    },
+    {
+     "label": "Avg Fish Weight",
+     "value": "2.26"
+    },
+    {
+     "label": "Avg",
+     "value": "Weight / Angler w/fish"
+    },
+    {
+     "label": "Avg, #Fish",
+     "value": "6.00"
+    }
+   ],
+   "notes": [
+    "Total",
+    "Total",
+    "#",
+    "Average",
+    "* dead fish .5lb"
+   ],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 33,
+    "other": 7,
+    "blank": 2,
+    "table_rows": 46
+   },
+   "title": "8/26/2023 North East River",
+   "dates": [
+    "2023-08-26"
+   ],
+   "waters": [
+    "North East"
+   ],
+   "id": "2023-08-26"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "9/16/2023 Nanticoke River"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Zach Weimar",
+     "fish": "5",
+     "weight": "9.12",
+     "big_fish": "2.44"
+    },
+    {
+     "place": "2",
+     "name": "Greg Arrowood",
+     "fish": "5",
+     "weight": "7.16",
+     "big_fish": "2.39"
+    },
+    {
+     "place": "3",
+     "name": "JC Henry",
+     "fish": "5",
+     "weight": "7.06",
+     "big_fish": ""
+    },
+    {
+     "place": "4",
+     "name": "Sean Geerlof",
+     "fish": "3",
+     "weight": "5.42",
+     "big_fish": "2.45"
+    },
+    {
+     "place": "5",
+     "name": "Lou Croce",
+     "fish": "3",
+     "weight": "4.35",
+     "big_fish": ""
+    },
+    {
+     "place": "6",
+     "name": "Chris Herr",
+     "fish": "3",
+     "weight": "3.92",
+     "big_fish": "",
+     "extra": [
+      "Guest"
+     ]
+    },
+    {
+     "place": "7",
+     "name": "Rich Martinelli",
+     "fish": "2",
+     "weight": "3.75",
+     "big_fish": "2.49"
+    },
+    {
+     "place": "8",
+     "name": "Pavlo Fenik",
+     "fish": "2",
+     "weight": "3.35",
+     "big_fish": ""
+    },
+    {
+     "place": "9",
+     "name": "Travis Nale",
+     "fish": "2",
+     "weight": "3.31",
+     "big_fish": ""
+    },
+    {
+     "place": "10",
+     "name": "Rick Orlando",
+     "fish": "3",
+     "weight": "3.30",
+     "big_fish": ""
+    },
+    {
+     "place": "11",
+     "name": "Glenn Kmecz",
+     "fish": "1",
+     "weight": "2.03",
+     "big_fish": ""
+    },
+    {
+     "place": "12",
+     "name": "Steve Weimar",
+     "fish": "1",
+     "weight": "1.90",
+     "big_fish": ""
+    },
+    {
+     "place": "13",
+     "name": "Ryan Sweeney",
+     "fish": "1",
+     "weight": "1.41",
+     "big_fish": ""
+    },
+    {
+     "place": "14",
+     "name": "Steve Zisk",
+     "fish": "1",
+     "weight": "1.34",
+     "big_fish": ""
+    },
+    {
+     "place": "15",
+     "name": "Jason Bailey",
+     "fish": "1",
+     "weight": "1.09",
+     "big_fish": ""
+    },
+    {
+     "place": "16",
+     "name": "Bob Donaldson",
+     "fish": "1",
+     "weight": "0.92",
+     "big_fish": ""
+    },
+    {
+     "place": "17",
+     "name": "Nick Biondi",
+     "fish": "1",
+     "weight": "0.91",
+     "big_fish": ""
+    },
+    {
+     "place": "18",
+     "name": "Eli Amilani",
+     "fish": "",
+     "weight": "0.00",
+     "big_fish": ""
+    },
+    {
+     "place": "18",
+     "name": "Joe Wesley",
+     "fish": "",
+     "weight": "0.00",
+     "big_fish": ""
+    },
+    {
+     "place": "18",
+     "name": "Tom Yaw",
+     "fish": "",
+     "weight": "0.00",
+     "big_fish": ""
+    },
+    {
+     "place": "18",
+     "name": "Stan Horne",
+     "fish": "",
+     "weight": "0.00",
+     "big_fish": ""
+    },
+    {
+     "place": "18",
+     "name": "Jim (Woo) Hauck",
+     "fish": "",
+     "weight": "0.00",
+     "big_fish": ""
+    },
+    {
+     "place": "18",
+     "name": "Jw Wade",
+     "fish": "",
+     "weight": "0.00",
+     "big_fish": ""
+    },
+    {
+     "place": "18",
+     "name": "Steve Bailey",
+     "fish": "",
+     "weight": "0.00",
+     "big_fish": "",
+     "extra": [
+      "Guest"
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "label": "Participants",
+     "value": "24"
+    },
+    {
+     "label": "Fish Weight",
+     "value": "60.34"
+    },
+    {
+     "label": "Fish Weighed",
+     "value": "40"
+    },
+    {
+     "label": "#Fish/Participant",
+     "value": "1.67"
+    },
+    {
+     "label": "Avg Fish Weight",
+     "value": "1.51"
+    },
+    {
+     "label": "Average",
+     "value": "Weight / Angler w/fish"
+    },
+    {
+     "label": "Average, #Fish",
+     "value": "3.55"
+    }
+   ],
+   "notes": [
+    "Total",
+    "Total",
+    "#",
+    "Average"
+   ],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 24,
+    "other": 6,
+    "blank": 2,
+    "table_rows": 36
+   },
+   "title": "9/16/2023 Nanticoke River",
+   "dates": [
+    "2023-09-16"
+   ],
+   "waters": [
+    "Nanticoke"
+   ],
+   "id": "2023-09-16"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "9/30/2023 Marshyhope Creek"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Zach Weimar",
+     "fish": "5",
+     "weight": "10.93",
+     "big_fish": "3.22"
+    },
+    {
+     "place": "2",
+     "name": "Adam Harkness",
+     "fish": "5",
+     "weight": "8.86",
+     "big_fish": ""
+    },
+    {
+     "place": "3",
+     "name": "Paul Sirochman",
+     "fish": "5",
+     "weight": "8.85",
+     "big_fish": ""
+    },
+    {
+     "place": "4",
+     "name": "Travis Nale",
+     "fish": "5",
+     "weight": "8.43",
+     "big_fish": ""
+    },
+    {
+     "place": "5",
+     "name": "Steve Weimar",
+     "fish": "5",
+     "weight": "7.84",
+     "big_fish": ""
+    },
+    {
+     "place": "6",
+     "name": "JC Henry",
+     "fish": "5",
+     "weight": "6.48",
+     "big_fish": ""
+    },
+    {
+     "place": "7",
+     "name": "Rich Martinelli",
+     "fish": "1",
+     "weight": "5.82",
+     "big_fish": "5.82"
+    },
+    {
+     "place": "8",
+     "name": "Ryan Sweeney",
+     "fish": "5",
+     "weight": "5.40",
+     "big_fish": ""
+    },
+    {
+     "place": "9",
+     "name": "Stephan Sirochman",
+     "fish": "3",
+     "weight": "5.17",
+     "big_fish": ""
+    },
+    {
+     "place": "10",
+     "name": "Sam Montalto",
+     "fish": "2",
+     "weight": "4.32",
+     "big_fish": ""
+    },
+    {
+     "place": "11",
+     "name": "Rick Orlando",
+     "fish": "4",
+     "weight": "4.31",
+     "big_fish": ""
+    },
+    {
+     "place": "12",
+     "name": "Tom Yaw",
+     "fish": "3",
+     "weight": "4.26",
+     "big_fish": ""
+    },
+    {
+     "place": "13",
+     "name": "Sean Geerlof",
+     "fish": "3",
+     "weight": "4.03",
+     "big_fish": ""
+    },
+    {
+     "place": "14",
+     "name": "Stan Horne",
+     "fish": "1",
+     "weight": "3.54",
+     "big_fish": "3.54"
+    },
+    {
+     "place": "15",
+     "name": "Ken Jester",
+     "fish": "2",
+     "weight": "2.99",
+     "big_fish": ""
+    },
+    {
+     "place": "16",
+     "name": "Aaron Turner",
+     "fish": "2",
+     "weight": "2.66",
+     "big_fish": ""
+    },
+    {
+     "place": "17",
+     "name": "Steve Zisk",
+     "fish": "1",
+     "weight": "2.14",
+     "big_fish": ""
+    },
+    {
+     "place": "18",
+     "name": "Jim (Woo) Hauck",
+     "fish": "1",
+     "weight": "1.75",
+     "big_fish": ""
+    },
+    {
+     "place": "19",
+     "name": "Pavlo Fenik",
+     "fish": "1",
+     "weight": "1.55",
+     "big_fish": ""
+    },
+    {
+     "place": "20",
+     "name": "Jw Wade",
+     "fish": "",
+     "weight": "0.00",
+     "big_fish": ""
+    },
+    {
+     "place": "Guest",
+     "name": "Gavin",
+     "fish": "2",
+     "weight": "4.37",
+     "big_fish": "",
+     "guest": true
+    }
+   ],
+   "summary": [
+    {
+     "label": "Participants",
+     "value": "21"
+    },
+    {
+     "label": "Fish Weight",
+     "value": "103.70"
+    },
+    {
+     "label": "Fish Weighed",
+     "value": "61"
+    },
+    {
+     "label": "#Fish/Participant",
+     "value": "2.90"
+    },
+    {
+     "label": "Avg Fish Weight",
+     "value": "1.70"
+    },
+    {
+     "label": "Average",
+     "value": "Weight / Angler w/fish"
+    },
+    {
+     "label": "Average, #Fish",
+     "value": "5.19"
+    }
+   ],
+   "notes": [
+    "Total",
+    "Total",
+    "#",
+    "Average"
+   ],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 21,
+    "other": 6,
+    "blank": 0,
+    "table_rows": 31
+   },
+   "title": "9/30/2023 Marshyhope Creek",
+   "dates": [
+    "2023-09-30"
+   ],
+   "waters": [
+    "Marshyhope"
+   ],
+   "id": "2023-09-30"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "10/07/2023 Conowingo Reservoir"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Wgt"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Paul Sirochman",
+     "fish": "5",
+     "weight": "11.44",
+     "big_fish": "3.23"
+    },
+    {
+     "place": "2",
+     "name": "Travis Nale",
+     "fish": "5",
+     "weight": "11.18",
+     "big_fish": "3.53"
+    },
+    {
+     "place": "3",
+     "name": "Lou Croce",
+     "fish": "5",
+     "weight": "9.00",
+     "big_fish": "2.88"
+    },
+    {
+     "place": "4",
+     "name": "Ken Jester",
+     "fish": "5",
+     "weight": "7.56",
+     "big_fish": ""
+    },
+    {
+     "place": "5",
+     "name": "Adam Harkness",
+     "fish": "4",
+     "weight": "6.83",
+     "big_fish": ""
+    },
+    {
+     "place": "6",
+     "name": "Pavlo Fenik",
+     "fish": "5",
+     "weight": "6.07",
+     "big_fish": ""
+    },
+    {
+     "place": "7",
+     "name": "Stan Horne",
+     "fish": "4",
+     "weight": "5.49",
+     "big_fish": ""
+    },
+    {
+     "place": "8",
+     "name": "Steve Zisk",
+     "fish": "4",
+     "weight": "5.40",
+     "big_fish": ""
+    },
+    {
+     "place": "9",
+     "name": "Stephan Sirochman",
+     "fish": "4",
+     "weight": "4.80",
+     "big_fish": ""
+    },
+    {
+     "place": "10",
+     "name": "Joe Wesley",
+     "fish": "3",
+     "weight": "4.43",
+     "big_fish": ""
+    },
+    {
+     "place": "11",
+     "name": "Rick Orlando",
+     "fish": "4",
+     "weight": "4.17",
+     "big_fish": ""
+    },
+    {
+     "place": "12",
+     "name": "JC Henry",
+     "fish": "2",
+     "weight": "4.11",
+     "big_fish": "2.97"
+    },
+    {
+     "place": "13",
+     "name": "Rob Betchley",
+     "fish": "3",
+     "weight": "3.67",
+     "big_fish": ""
+    },
+    {
+     "place": "14",
+     "name": "Steve Weimar",
+     "fish": "3",
+     "weight": "3.54",
+     "big_fish": ""
+    },
+    {
+     "place": "15",
+     "name": "Greg Arrowood",
+     "fish": "3",
+     "weight": "3.18",
+     "big_fish": ""
+    },
+    {
+     "place": "16",
+     "name": "Sean Geerlof",
+     "fish": "3",
+     "weight": "3.13",
+     "big_fish": ""
+    },
+    {
+     "place": "17",
+     "name": "Glenn Kmecz",
+     "fish": "3",
+     "weight": "3.12",
+     "big_fish": ""
+    },
+    {
+     "place": "18",
+     "name": "JW Wade",
+     "fish": "3",
+     "weight": "3.07",
+     "big_fish": ""
+    },
+    {
+     "place": "19",
+     "name": "Tom Yaw",
+     "fish": "1",
+     "weight": "2.62",
+     "big_fish": ""
+    },
+    {
+     "place": "20",
+     "name": "Bob Horning",
+     "fish": "2",
+     "weight": "2.58",
+     "big_fish": ""
+    },
+    {
+     "place": "21",
+     "name": "Rich Martinelli",
+     "fish": "2",
+     "weight": "2.21",
+     "big_fish": ""
+    },
+    {
+     "place": "22",
+     "name": "Jim (Woo) Hauck",
+     "fish": "2",
+     "weight": "2.12",
+     "big_fish": ""
+    },
+    {
+     "place": "23",
+     "name": "Eli Amilani",
+     "fish": "1",
+     "weight": "1.80",
+     "big_fish": ""
+    },
+    {
+     "place": "24",
+     "name": "Aaron Turner",
+     "fish": "1",
+     "weight": "1.45",
+     "big_fish": ""
+    },
+    {
+     "place": "25",
+     "name": "Bob Donaldson",
+     "fish": "1",
+     "weight": "1.28",
+     "big_fish": ""
+    },
+    {
+     "place": "Guest",
+     "name": "Lisa MacDavid",
+     "fish": "2",
+     "weight": "2.18",
+     "big_fish": "",
+     "guest": true
+    },
+    {
+     "place": "Guest",
+     "name": "*Scott Eastman",
+     "fish": "dnw",
+     "weight": "",
+     "big_fish": "",
+     "guest": true
+    }
+   ],
+   "summary": [
+    {
+     "label": "Participants",
+     "value": "27"
+    },
+    {
+     "label": "Fish Weight",
+     "value": "116.43"
+    },
+    {
+     "label": "Fish Weighed",
+     "value": "80"
+    },
+    {
+     "label": "#Fish/Participant",
+     "value": "2.96"
+    },
+    {
+     "label": "Avg Fish Weight",
+     "value": "1.46"
+    },
+    {
+     "label": "Average",
+     "value": "Weight / Angler w/fish"
+    },
+    {
+     "label": "Average, #Fish",
+     "value": "4.48"
+    }
+   ],
+   "notes": [
+    "Total",
+    "Total",
+    "#",
+    "Average"
+   ],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 27,
+    "other": 6,
+    "blank": 1,
+    "table_rows": 38
+   },
+   "title": "10/07/2023 Conowingo Reservoir",
+   "dates": [
+    "2023-10-07"
+   ],
+   "waters": [
+    "Conowingo"
+   ],
+   "id": "2023-10-07"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "2023 Classic: 11/04 - 11/05"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "d1_fish",
+     "label": "Day 1: Nanticoke River #Fish"
+    },
+    {
+     "role": "d1_weight",
+     "label": "Day 1: Nanticoke River Weight"
+    },
+    {
+     "role": "d1_big_fish",
+     "label": "Day 1: Nanticoke River B/F"
+    },
+    {
+     "role": "d2_fish",
+     "label": "Day 2: North East River #Fish"
+    },
+    {
+     "role": "d2_weight",
+     "label": "Day 2: North East River Weight"
+    },
+    {
+     "role": "d2_big_fish",
+     "label": "Day 2: North East River B/F"
+    },
+    {
+     "role": "total_fish",
+     "label": "Total #Fish"
+    },
+    {
+     "role": "total_weight",
+     "label": "Total Weight"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Paul Sirochman",
+     "d1_fish": "4",
+     "d1_weight": "8.68",
+     "d1_big_fish": "2.82",
+     "d2_fish": "5",
+     "d2_weight": "19.41",
+     "d2_big_fish": "5.12",
+     "total_fish": "9",
+     "total_weight": "28.09",
+     "name_as_written": "PAUL SIROCHMAN"
+    },
+    {
+     "place": "2",
+     "name": "Al Pavone",
+     "d1_fish": "5",
+     "d1_weight": "8.53",
+     "d1_big_fish": "2.01",
+     "d2_fish": "5",
+     "d2_weight": "14.63",
+     "d2_big_fish": "3.81",
+     "total_fish": "10",
+     "total_weight": "23.16",
+     "name_as_written": "AL PAVONE"
+    },
+    {
+     "place": "3",
+     "name": "Steve Weimar",
+     "d1_fish": "4",
+     "d1_weight": "6.62",
+     "d1_big_fish": "1.96",
+     "d2_fish": "5",
+     "d2_weight": "6.84",
+     "d2_big_fish": "",
+     "total_fish": "9",
+     "total_weight": "13.46",
+     "name_as_written": "STEVE WEIMAR"
+    },
+    {
+     "place": "4",
+     "name": "Stephan Sirochman",
+     "d1_fish": "4",
+     "d1_weight": "8.21",
+     "d1_big_fish": "3.28",
+     "d2_fish": "1",
+     "d2_weight": "4.72",
+     "d2_big_fish": "4.72",
+     "total_fish": "5",
+     "total_weight": "12.93",
+     "name_as_written": "STEPHAN SIROCHMAN"
+    },
+    {
+     "place": "5",
+     "name": "Glenn Kmecz",
+     "d1_fish": "2",
+     "d1_weight": "2.47",
+     "d1_big_fish": "",
+     "d2_fish": "5",
+     "d2_weight": "10.01",
+     "d2_big_fish": "4.71",
+     "total_fish": "7",
+     "total_weight": "12.48",
+     "name_as_written": "GLENN KMECZ"
+    },
+    {
+     "place": "6",
+     "name": "Zach Weimar",
+     "d1_fish": "dnf",
+     "d1_weight": "",
+     "d1_big_fish": "",
+     "d2_fish": "5",
+     "d2_weight": "11.98",
+     "d2_big_fish": "4.28",
+     "total_fish": "5",
+     "total_weight": "11.98",
+     "name_as_written": "ZACH WEIMAR"
+    },
+    {
+     "place": "7",
+     "name": "Sean Geerlof",
+     "d1_fish": "5",
+     "d1_weight": "8.92",
+     "d1_big_fish": "",
+     "d2_fish": "2",
+     "d2_weight": "2.28",
+     "d2_big_fish": "",
+     "total_fish": "7",
+     "total_weight": "11.20",
+     "name_as_written": "SEAN GEERLOF"
+    },
+    {
+     "place": "8",
+     "name": "Jim (Woo) Hauck",
+     "d1_fish": "3",
+     "d1_weight": "6.67",
+     "d1_big_fish": "",
+     "d2_fish": "3",
+     "d2_weight": "3.59",
+     "d2_big_fish": "",
+     "total_fish": "6",
+     "total_weight": "10.26",
+     "name_as_written": "JIM (WOO) HAUCK"
+    },
+    {
+     "place": "9",
+     "name": "Greg Arrowood",
+     "d1_fish": "2",
+     "d1_weight": "1.98",
+     "d1_big_fish": "",
+     "d2_fish": "4",
+     "d2_weight": "7.85",
+     "d2_big_fish": "3.41",
+     "total_fish": "6",
+     "total_weight": "9.83",
+     "name_as_written": "GREG ARROWOOD"
+    },
+    {
+     "place": "10",
+     "name": "Pavlo Fenik",
+     "d1_fish": "2",
+     "d1_weight": "2.55",
+     "d1_big_fish": "",
+     "d2_fish": "3",
+     "d2_weight": "7.08",
+     "d2_big_fish": "4.77",
+     "total_fish": "5",
+     "total_weight": "9.63",
+     "name_as_written": "PAVLO FENIK"
+    },
+    {
+     "place": "11",
+     "name": "Lou Croce",
+     "d1_fish": "4",
+     "d1_weight": "7.39",
+     "d1_big_fish": "2.25",
+     "d2_fish": "2",
+     "d2_weight": "2.08",
+     "d2_big_fish": "",
+     "total_fish": "6",
+     "total_weight": "9.47",
+     "name_as_written": "LOU CROCE"
+    },
+    {
+     "place": "12",
+     "name": "JC Henry",
+     "d1_fish": "2",
+     "d1_weight": "3.14",
+     "d1_big_fish": "",
+     "d2_fish": "4",
+     "d2_weight": "5.84",
+     "d2_big_fish": "",
+     "total_fish": "6",
+     "total_weight": "8.98",
+     "name_as_written": "JC HENRY"
+    },
+    {
+     "place": "13",
+     "name": "Ken Jester",
+     "d1_fish": "2",
+     "d1_weight": "2.21",
+     "d1_big_fish": "",
+     "d2_fish": "2",
+     "d2_weight": "6.60",
+     "d2_big_fish": "3.95",
+     "total_fish": "4",
+     "total_weight": "8.81",
+     "name_as_written": "KEN JESTER"
+    },
+    {
+     "place": "14",
+     "name": "Travis Nale",
+     "d1_fish": "4",
+     "d1_weight": "4.64",
+     "d1_big_fish": "",
+     "d2_fish": "1",
+     "d2_weight": "3.73",
+     "d2_big_fish": "3.73",
+     "total_fish": "5",
+     "total_weight": "8.37",
+     "name_as_written": "TRAVIS NALE"
+    },
+    {
+     "place": "15",
+     "name": "Rick Orlando",
+     "d1_fish": "3",
+     "d1_weight": "3.93",
+     "d1_big_fish": "1.94",
+     "d2_fish": "1",
+     "d2_weight": "4.32",
+     "d2_big_fish": "4.32",
+     "total_fish": "4",
+     "total_weight": "8.25",
+     "name_as_written": "RICK ORLANDO"
+    },
+    {
+     "place": "16",
+     "name": "Steve Zisk",
+     "d1_fish": "2",
+     "d1_weight": "5.61",
+     "d1_big_fish": "4.00",
+     "d2_fish": "1",
+     "d2_weight": "1.62",
+     "d2_big_fish": "1.62",
+     "total_fish": "3",
+     "total_weight": "7.23",
+     "name_as_written": "STEVE ZISK"
+    },
+    {
+     "place": "17",
+     "name": "Tom Yaw",
+     "d1_fish": "3",
+     "d1_weight": "4.52",
+     "d1_big_fish": "",
+     "d2_fish": "2",
+     "d2_weight": "2.34",
+     "d2_big_fish": "",
+     "total_fish": "5",
+     "total_weight": "6.86",
+     "name_as_written": "TOM YAW"
+    },
+    {
+     "place": "18",
+     "name": "Bob Horning",
+     "d1_fish": "2",
+     "d1_weight": "3.38",
+     "d1_big_fish": "",
+     "d2_fish": "1",
+     "d2_weight": "3.40",
+     "d2_big_fish": "3.40",
+     "total_fish": "3",
+     "total_weight": "6.78",
+     "name_as_written": "BOB HORNING"
+    },
+    {
+     "place": "19",
+     "name": "Joe Wesley",
+     "d1_fish": "2",
+     "d1_weight": "2.07",
+     "d1_big_fish": "",
+     "d2_fish": "2",
+     "d2_weight": "4.19",
+     "d2_big_fish": "",
+     "total_fish": "4",
+     "total_weight": "6.26",
+     "name_as_written": "JOE WESLEY"
+    },
+    {
+     "place": "20",
+     "name": "Aaron Turner",
+     "d1_fish": "2",
+     "d1_weight": "4.19",
+     "d1_big_fish": "2.75",
+     "d2_fish": "1",
+     "d2_weight": "1.72",
+     "d2_big_fish": "1.72",
+     "total_fish": "3",
+     "total_weight": "5.91",
+     "name_as_written": "AARON TURNER"
+    },
+    {
+     "place": "21",
+     "name": "Jason Bailey",
+     "d1_fish": "3",
+     "d1_weight": "5.23",
+     "d1_big_fish": "2.80",
+     "d2_fish": "0",
+     "d2_weight": "",
+     "d2_big_fish": "",
+     "total_fish": "3",
+     "total_weight": "5.23",
+     "name_as_written": "JASON BAILEY"
+    },
+    {
+     "place": "22",
+     "name": "Rich Martinelli",
+     "d1_fish": "0",
+     "d1_weight": "",
+     "d1_big_fish": "",
+     "d2_fish": "2",
+     "d2_weight": "3.95",
+     "d2_big_fish": "2.84",
+     "total_fish": "2",
+     "total_weight": "3.95",
+     "name_as_written": "RICH MARTINELLI"
+    },
+    {
+     "place": "23",
+     "name": "JW Wade",
+     "d1_fish": "2",
+     "d1_weight": "2.45",
+     "d1_big_fish": "",
+     "d2_fish": "1",
+     "d2_weight": "1.35",
+     "d2_big_fish": "1.35",
+     "total_fish": "3",
+     "total_weight": "3.80",
+     "name_as_written": "JW WADE"
+    },
+    {
+     "place": "24",
+     "name": "Mike Towber",
+     "d1_fish": "1",
+     "d1_weight": "1.03",
+     "d1_big_fish": "1.03",
+     "d2_fish": "2",
+     "d2_weight": "2.23",
+     "d2_big_fish": "",
+     "total_fish": "3",
+     "total_weight": "3.26",
+     "name_as_written": "MIKE TOWBER"
+    },
+    {
+     "place": "25",
+     "name": "Stan Horne",
+     "d1_fish": "1",
+     "d1_weight": "1.34",
+     "d1_big_fish": "1.34",
+     "d2_fish": "1",
+     "d2_weight": "1.45",
+     "d2_big_fish": "1.45",
+     "total_fish": "2",
+     "total_weight": "2.79",
+     "name_as_written": "STAN HORNE"
+    },
+    {
+     "place": "26",
+     "name": "Jimmy Pitcherello",
+     "d1_fish": "0",
+     "d1_weight": "",
+     "d1_big_fish": "",
+     "d2_fish": "2",
+     "d2_weight": "2.08",
+     "d2_big_fish": "",
+     "total_fish": "2",
+     "total_weight": "2.08",
+     "name_as_written": "JIMMY PITCHERELLO"
+    },
+    {
+     "place": "27",
+     "name": "Bob Donaldson",
+     "d1_fish": "1",
+     "d1_weight": "0.88",
+     "d1_big_fish": "0.88",
+     "d2_fish": "0",
+     "d2_weight": "",
+     "d2_big_fish": "",
+     "total_fish": "1",
+     "total_weight": "0.88",
+     "name_as_written": "BOB DONALDSON"
+    },
+    {
+     "place": "28",
+     "name": "Adam Harkness",
+     "d1_fish": "0",
+     "d1_weight": "",
+     "d1_big_fish": "",
+     "d2_fish": "0",
+     "d2_weight": "",
+     "d2_big_fish": "",
+     "total_fish": "0",
+     "total_weight": "",
+     "name_as_written": "ADAM HARKNESS"
+    },
+    {
+     "place": "28",
+     "name": "Bill Allison",
+     "d1_fish": "0",
+     "d1_weight": "",
+     "d1_big_fish": "",
+     "d2_fish": "0",
+     "d2_weight": "",
+     "d2_big_fish": "",
+     "total_fish": "0",
+     "total_weight": "",
+     "name_as_written": "BILL ALLISON"
+    },
+    {
+     "place": "28",
+     "name": "Eli Amilani",
+     "d1_fish": "0",
+     "d1_weight": "",
+     "d1_big_fish": "",
+     "d2_fish": "0",
+     "d2_weight": "",
+     "d2_big_fish": "",
+     "total_fish": "0",
+     "total_weight": "",
+     "name_as_written": "ELI AMILANI"
+    },
+    {
+     "place": "28",
+     "name": "Loren Meckle",
+     "d1_fish": "0",
+     "d1_weight": "",
+     "d1_big_fish": "",
+     "d2_fish": "0",
+     "d2_weight": "",
+     "d2_big_fish": "",
+     "total_fish": "0",
+     "total_weight": "",
+     "name_as_written": "LOREN MECKLE"
+    },
+    {
+     "place": "28",
+     "name": "Sam Montalto",
+     "d1_fish": "dnw",
+     "d1_weight": "",
+     "d1_big_fish": "",
+     "d2_fish": "dnf",
+     "d2_weight": "",
+     "d2_big_fish": "",
+     "total_fish": "0",
+     "total_weight": "",
+     "name_as_written": "SAM MONTALTO"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Anglers",
+     "value": "32"
+    },
+    {
+     "label": "Anglers, Day 1: Nanticoke River #Fish",
+     "value": "65"
+    },
+    {
+     "label": "Anglers, Day 1: Nanticoke River Weight",
+     "value": "106.64"
+    },
+    {
+     "label": "Anglers, Day 2: North East River #Fish",
+     "value": "63"
+    },
+    {
+     "label": "Anglers, Day 2: North East River Weight",
+     "value": "135.29"
+    },
+    {
+     "label": "Day 1 Avg #Fish/Angler",
+     "value": "2.17"
+    },
+    {
+     "label": "Day 2 Avg #Fish/Angler",
+     "value": "2.03"
+    },
+    {
+     "label": "Day 1 Lunker",
+     "value": "Steve"
+    },
+    {
+     "label": "Zisk",
+     "value": "4 lb"
+    },
+    {
+     "label": "Day 1 Avg Wgt/Angler",
+     "value": "3.55"
+    },
+    {
+     "label": "Day 2 Avg Wgt/Angler",
+     "value": "4.36"
+    },
+    {
+     "label": "Day 2 Lunker",
+     "value": "Paul Sirochman: 5.12 lb"
+    },
+    {
+     "label": "Day 1 Avg Fish Wgt",
+     "value": "1.64"
+    },
+    {
+     "label": "Day 2 Avg Fish Wgt",
+     "value": "2.15"
+    },
+    {
+     "label": "3rd Lunker: Pavlo Fenik",
+     "value": "4.77 lb"
+    },
+    {
+     "label": "4th Lunker",
+     "value": "Stephan Sirochman: 4.72 lb"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 3,
+    "header": 2,
+    "results": 32,
+    "other": 5,
+    "blank": 3,
+    "table_rows": 45
+   },
+   "title": "2023 Classic: 11/04 - 11/05",
+   "dates": [
+    "2023-11-04",
+    "2023-11-05"
+   ],
+   "two_day": true,
+   "waters": [
+    "Nanticoke",
+    "North East"
+   ],
+   "classic": true,
+   "id": "2023-11-04"
+  }
+ ],
+ "standings": [
+  {
+   "title_lines": [
+    "2023 AOY STANDINGS",
+    "BEST 7 TOURNAMENT RESULTS SHOWN"
+   ],
+   "columns": [
+    "Place",
+    "Angler",
+    "TOTAL",
+    "#1",
+    "#2",
+    "# 3",
+    "#4",
+    "#5",
+    "",
+    "",
+    "Mbr Pts"
+   ],
+   "rows": [
+    [
+     "",
+     "Paul*",
+     "682",
+     "100",
+     "100",
+     "100",
+     "93",
+     "93",
+     "88",
+     "88",
+     "20"
+    ],
+    [
+     "",
+     "Travis",
+     "667",
+     "96",
+     "96",
+     "96",
+     "91",
+     "91",
+     "90",
+     "87",
+     "20"
+    ],
+    [
+     "",
+     "Steve W",
+     "665",
+     "100",
+     "100",
+     "93",
+     "91",
+     "90",
+     "87",
+     "84",
+     "20"
+    ],
+    [
+     "",
+     "Lou",
+     "655",
+     "96",
+     "93",
+     "90",
+     "90",
+     "89",
+     "89",
+     "88",
+     "20"
+    ],
+    [
+     "",
+     "Zach",
+     "652",
+     "100",
+     "100",
+     "89",
+     "87",
+     "87",
+     "86",
+     "83",
+     "20"
+    ],
+    [
+     "",
+     "Stan",
+     "650",
+     "96",
+     "93",
+     "91",
+     "89",
+     "88",
+     "88",
+     "85",
+     "20"
+    ],
+    [
+     "",
+     "Rick O",
+     "649",
+     "100",
+     "93",
+     "91",
+     "89",
+     "86",
+     "86",
+     "84",
+     "20"
+    ],
+    [
+     "",
+     "JC Henry",
+     "639",
+     "93",
+     "93",
+     "90",
+     "89",
+     "88",
+     "83",
+     "83",
+     "20"
+    ],
+    [
+     "",
+     "Sean G",
+     "630",
+     "91",
+     "90",
+     "88",
+     "86",
+     "86",
+     "85",
+     "84",
+     "20"
+    ],
+    [
+     "",
+     "Greg",
+     "620",
+     "100",
+     "96",
+     "86",
+     "80",
+     "80",
+     "80",
+     "78",
+     "20"
+    ],
+    [
+     "",
+     "Pavlo",
+     "615",
+     "96",
+     "91",
+     "89",
+     "88",
+     "85",
+     "76",
+     "76",
+     "14"
+    ],
+    [
+     "",
+     "Rich M",
+     "607",
+     "96",
+     "89",
+     "89",
+     "88",
+     "82",
+     "77",
+     "74",
+     "12"
+    ],
+    [
+     "",
+     "Woo",
+     "593",
+     "93",
+     "87",
+     "85",
+     "79",
+     "77",
+     "77",
+     "75",
+     "20"
+    ],
+    [
+     "",
+     "Ryan",
+     "592",
+     "93",
+     "87",
+     "83",
+     "82",
+     "82",
+     "77",
+     "76",
+     "12"
+    ],
+    [
+     "",
+     "Tom Y",
+     "579",
+     "86",
+     "83",
+     "83",
+     "81",
+     "78",
+     "76",
+     "75",
+     "17"
+    ],
+    [
+     "",
+     "Sam",
+     "575",
+     "85",
+     "82",
+     "82",
+     "81",
+     "77",
+     "75",
+     "73",
+     "20"
+    ],
+    [
+     "",
+     "Bob D",
+     "573",
+     "90",
+     "88",
+     "84",
+     "80",
+     "74",
+     "70",
+     "68",
+     "19"
+    ],
+    [
+     "",
+     "Glenn",
+     "562",
+     "91",
+     "90",
+     "85",
+     "78",
+     "74",
+     "74",
+     "50",
+     "20"
+    ],
+    [
+     "",
+     "Steve Z",
+     "559",
+     "89",
+     "87",
+     "86",
+     "82",
+     "79",
+     "78",
+     "48",
+     "10"
+    ],
+    [
+     "",
+     "Jason",
+     "558",
+     "89",
+     "88",
+     "81",
+     "79",
+     "78",
+     "74",
+     "49",
+     "20"
+    ],
+    [
+     "",
+     "JW Wade",
+     "557",
+     "91",
+     "90",
+     "80",
+     "77",
+     "73",
+     "72",
+     "54",
+     "20"
+    ],
+    [
+     "",
+     "Joe",
+     "554",
+     "100",
+     "87",
+     "85",
+     "82",
+     "76",
+     "54",
+     "50",
+     "20"
+    ],
+    [
+     "",
+     "Aaron",
+     "554",
+     "83",
+     "80",
+     "79",
+     "78",
+     "76",
+     "75",
+     "71",
+     "12"
+    ],
+    [
+     "",
+     "Eli",
+     "515",
+     "85",
+     "84",
+     "77",
+     "76",
+     "72",
+     "54",
+     "47",
+     "20"
+    ],
+    [
+     "",
+     "Stephan",
+     "505",
+     "100",
+     "91",
+     "86",
+     "86",
+     "81",
+     "47",
+     "",
+     "14"
+    ],
+    [
+     "",
+     "Adam",
+     "489",
+     "96",
+     "91",
+     "90",
+     "82",
+     "80",
+     "43",
+     "",
+     "7"
+    ],
+    [
+     "",
+     "Bob H",
+     "481",
+     "85",
+     "77",
+     "77",
+     "75",
+     "50",
+     "49",
+     "48",
+     "20"
+    ],
+    [
+     "",
+     "Nick",
+     "443",
+     "86",
+     "84",
+     "82",
+     "79",
+     "49",
+     "49",
+     "",
+     "14"
+    ],
+    [
+     "",
+     "Mike T.",
+     "381",
+     "78",
+     "78",
+     "75",
+     "74",
+     "71",
+     "",
+     "",
+     "5"
+    ],
+    [
+     "",
+     "Ken",
+     "343",
+     "91",
+     "82",
+     "80",
+     "80",
+     "0",
+     "",
+     "",
+     "10"
+    ],
+    [
+     "",
+     "Cliff",
+     "324",
+     "84",
+     "83",
+     "50",
+     "48",
+     "48",
+     "",
+     "",
+     "11"
+    ],
+    [
+     "",
+     "Jimmy P",
+     "312",
+     "84",
+     "69",
+     "49",
+     "48",
+     "48",
+     "",
+     "",
+     "14"
+    ],
+    [
+     "",
+     "Steve M",
+     "279",
+     "96",
+     "93",
+     "85",
+     "",
+     "",
+     "",
+     "",
+     "5"
+    ],
+    [
+     "",
+     "Dave Curci",
+     "268",
+     "87",
+     "78",
+     "50",
+     "49",
+     "",
+     "",
+     "",
+     "4"
+    ],
+    [
+     "",
+     "Rob B.",
+     "242",
+     "83",
+     "82",
+     "73",
+     "",
+     "",
+     "",
+     "",
+     "4"
+    ],
+    [
+     "",
+     "Al",
+     "232",
+     "96",
+     "79",
+     "47",
+     "",
+     "",
+     "",
+     "",
+     "10"
+    ],
+    [
+     "",
+     "Bill",
+     "232",
+     "79",
+     "50",
+     "48",
+     "43",
+     "",
+     "",
+     "",
+     "12"
+    ],
+    [
+     "",
+     "Loren",
+     "214",
+     "85",
+     "74",
+     "43",
+     "",
+     "",
+     "",
+     "",
+     "12"
+    ],
+    [
+     "",
+     "Sean C",
+     "135",
+     "80",
+     "49",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "6"
+    ],
+    [
+     "",
+     "Mike M.",
+     "128",
+     "76",
+     "49",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "3"
+    ],
+    [
+     "",
+     "Tom W",
+     "94",
+     "87",
+     "0",
+     "0",
+     "",
+     "",
+     "",
+     "",
+     "7"
+    ],
+    [
+     "",
+     "Broc",
+     "87",
+     "80",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "7"
+    ],
+    [
+     "",
+     "Derek",
+     "76",
+     "75",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "1"
+    ],
+    [
+     "",
+     "George",
+     "4",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "4"
+    ],
+    [
+     "",
+     "Dave Covell",
+     "0",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "0"
+    ],
+    [
+     "",
+     "Eric",
+     "0",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "0"
+    ],
+    [
+     "",
+     "Russell",
+     "0",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "0"
+    ]
+   ],
+   "notes": [
+    "* 2022 Angler of the Year!!!"
+   ],
+   "source_rows": {
+    "title": 2,
+    "header": 1,
+    "rows": 47,
+    "other": 1,
+    "blank": 0
+   }
+  }
+ ],
+ "schedule": [
+  "2023 Tournament Schedule",
+  "April 22 - Nanticoke River",
+  "May 13 - Sassafras River",
+  "May 20 - North East River",
+  "June 11 - North East River",
+  "July 8 - Potomac River",
+  "July 29 - Conowingo Reservoir",
+  "August 12 - Nanticoke River",
+  "August 26 - North East River",
+  "September 16 - Nanticoke River",
+  "September 30 - Marshyhope Creek",
+  "October 7 - Conowingo Reservoir",
+  "CCBM Classic: November 4, Nanticoke River November 5, North East River",
+  "November 18 - Conowingo Reservoir"
+ ],
+ "flow": [
+  {
+   "kind": "heading",
+   "lines": [
+    "2023 CCBM Tournament Results and Standings"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Tournament Rules"
+   ],
+   "links": [
+    {
+     "text": "Tournament Rules",
+     "file": "archive/chestercountybassmasters_2024_tournament_rules.pdf"
+    }
+   ]
+  },
+  {
+   "kind": "schedule"
+  },
+  {
+   "kind": "standings",
+   "index": 0
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "2023 Club Tournament Results"
+   ]
+  },
+  {
+   "kind": "rule"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "CCBM Tournament #1",
+    "Nanticoke River",
+    "April 22, 2023"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "The season opener on the Nanticoke saw some blustery weather, 24 boats and 37 participants making it the largest field ever to fish a CCBM club event. It was tough day for most as there were only 7 total limits caught, but a few people were able to figure out the bite and catch some big Nanticoke fish.",
+    "First place money went to Adam Harkness’ guest Ken Robinson with an impressive 11.98 lb. bag. Second place and first place club points went to Stephan Sirochman with 11.60 lb., just missing out on the first place money as well. Stephan showing that hard work and time on the water pays off! Second place club points went to another young gun Travis Nale who boated another good bag of 10.23 lb. Travis is becoming a main contender on any Nanticoke event. Taking 3rd place points no stranger to top of the CCBM leader board and making it a family affair was Paul Sirochman with just three fish but the right ones for 8.79 lb. including the Tournament lunker of 4.61 lb. Congratulations to all three guys for making the best out of a tough day.",
+    "A total of 70 fish were caught with a total weight of 114.34 lb."
+   ]
+  },
+  {
+   "kind": "tournament",
+   "id": "2023-04-22"
+  },
+  {
+   "kind": "rule"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "CCBM Tournament #2",
+    "Sassafras River",
+    "May 13, 2023"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "The Sassafras River was another tough tournament in what we are hoping to not be a recurring theme for the young season. A tough bite, a group of anglers who have some other notion of what no wake means and then throw in some rain for good measure. A 30-man field took on the tough conditions with a first time winner, an angler who was at the top of the leaderboard for the first time and a steady Sassafras veteran rounding out the top 3.",
+    "First place went to Greg “Big Sexy” Arrowood with 4 fish for 14.84 lb. including a tournament lunker Fatty of 4.95 lb., just missing out on the elusive rolling lunker pot by ounces. Big Sexy said his only regret of the day was that Eli was not there to share in his victory. Second place went to Rich Martinelli who had the tournament’s only limit of 13.61 lb. Even more impressive was he did it from the back of the boat. Just the first of many top finishes to come for Rich. Third place went to savvy and wily Sassafras veteran Steve Manista with 3 fish for 8.91 lb. Steve averaging just under 3lb. a fish. Congratulations to the top 3 on a really tough day.",
+    "There was a total of just 39 fish caught for a total weight of 106.93 lb."
+   ]
+  },
+  {
+   "kind": "tournament",
+   "id": "2023-05-13"
+  },
+  {
+   "kind": "rule"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "CCBM Tournament #3",
+    "North East River",
+    "May 20, 2023"
+   ]
+  },
+  {
+   "kind": "tournament",
+   "id": "2023-05-20"
+  },
+  {
+   "kind": "rule"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "CCBM Tournament #4",
+    "North East River",
+    "June 11, 2023"
+   ]
+  },
+  {
+   "kind": "tournament",
+   "id": "2023-06-11"
+  },
+  {
+   "kind": "tournament",
+   "id": "2023-07-08"
+  },
+  {
+   "kind": "tournament",
+   "id": "2023-08-12"
+  },
+  {
+   "kind": "tournament",
+   "id": "2023-08-26"
+  },
+  {
+   "kind": "tournament",
+   "id": "2023-09-16"
+  },
+  {
+   "kind": "tournament",
+   "id": "2023-09-30"
+  },
+  {
+   "kind": "tournament",
+   "id": "2023-10-07"
+  },
+  {
+   "kind": "tournament",
+   "id": "2023-11-04"
+  }
+ ],
+ "results_form": "tables",
+ "pictures": []
+}

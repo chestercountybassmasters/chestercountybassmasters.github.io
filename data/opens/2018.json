@@ -1,0 +1,159 @@
+{
+ "series": "opens",
+ "year": 2018,
+ "source": {
+  "page": "2018-open-results.html",
+  "copied": "2026-11-20",
+  "sha256": "dfefc4867f4e2c069dd45497052dcc1867d5822480a778e8403688b20772037f",
+  "rows": {
+   "table_rows": 6,
+   "tournament_rows": 0,
+   "standings_rows": 0,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 6,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [],
+ "standings": [],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "text",
+   "lines": [
+    "2018 Schedule",
+    "May 12",
+    "June 9",
+    "August 4",
+    "October 20",
+    "November 17",
+    "Special tx: Big Bass, September 1"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "2018 Open Results",
+    "North East River, Anchor Marina",
+    "Upper Chesapeake Bay"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/2108-champs-1-orig_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2018-11-18-at-10-51-23-am_1.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2018-11-18-at-10-41-47-am_1.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2018-11-18-at-10-41-59-am_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "November 17, 2018 - Results",
+    "See the CCBM Opens Forum page where the full write will be posted."
+   ],
+   "links": [
+    {
+     "text": "CCBM Opens Forum page",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?board=6.0"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2018-11-18-at-11-13-16-am_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "October 20, 2018: see the CCBM Opens Forum page for the full write-up and photos"
+   ],
+   "links": [
+    {
+     "text": "CCBM Opens Forum",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=5555.0"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2018-10-26-at-11-14-44-pm_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "August 4, 2018: see the CCBM Opens Forum page for the full write-up and photos"
+   ],
+   "links": [
+    {
+     "text": "CCBM Opens Forum",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=5481.0"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2018-08-14-at-1-39-09-pm_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "June 9, 2018: see the CCBM Opens Forum page for the full write-up and photos"
+   ],
+   "links": [
+    {
+     "text": "CCBM Opens Forum",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=5439.0"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2018-08-14-at-1-02-49-pm_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "May 12, 2018: see the CCBM Opens Facebook page for the full write-up and photos"
+   ],
+   "links": [
+    {
+     "text": "CCBM Opens Facebook",
+     "href": "https://www.facebook.com/groups/881394538591363/permalink/1820050934725714/"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2018-05-17-at-5-16-56-pm_1.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2018-05-17-at-5-09-12-pm_1.png"
+  }
+ ],
+ "results_form": "pictures",
+ "pictures": [
+  "archive/2108-champs-1-orig_orig.jpg",
+  "archive/screen-shot-2018-11-18-at-10-51-23-am_1.png",
+  "archive/screen-shot-2018-11-18-at-10-41-47-am_1.png",
+  "archive/screen-shot-2018-11-18-at-10-41-59-am_1.png",
+  "archive/screen-shot-2018-11-18-at-11-13-16-am_1.png",
+  "archive/screen-shot-2018-10-26-at-11-14-44-pm_1.png",
+  "archive/screen-shot-2018-08-14-at-1-39-09-pm_1.png",
+  "archive/published/screen-shot-2018-08-14-at-1-02-49-pm_1.png",
+  "archive/published/screen-shot-2018-05-17-at-5-16-56-pm_1.png",
+  "archive/published/screen-shot-2018-05-17-at-5-09-12-pm_1.png"
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "series": "club",
+ "year": 2009,
+ "source": {
+  "page": "2009-club-results.html",
+  "copied": "2026-11-20",
+  "sha256": "d941e285864190b7c5e21e721833f0b8a8ff1768a30703069d4d231a40efe959",
+  "rows": {
+   "table_rows": 0,
+   "tournament_rows": 0,
+   "standings_rows": 0,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 0,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [],
+ "standings": [],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "heading",
+   "lines": [
+    "2009 Final Standings"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/9295449_orig.jpg"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "Results",
+    "Click on results to enlarge"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/4150303_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/7609451_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/9623049_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/5420112_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/6336956_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/1129779_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/7587821_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/5315850_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/7194493_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/558928_orig.jpg"
+  }
+ ],
+ "results_form": "pictures",
+ "pictures": [
+  "archive/9295449_orig.jpg",
+  "archive/4150303_orig.jpg",
+  "archive/7609451_orig.jpg",
+  "archive/9623049_orig.jpg",
+  "archive/5420112_orig.jpg",
+  "archive/6336956_orig.jpg",
+  "archive/1129779_orig.jpg",
+  "archive/7587821_orig.jpg",
+  "archive/5315850_orig.jpg",
+  "archive/7194493_orig.jpg",
+  "archive/558928_orig.jpg"
+ ]
+}

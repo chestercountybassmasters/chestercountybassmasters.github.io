@@ -1,0 +1,54 @@
+{
+ "series": "club",
+ "year": 2004,
+ "source": {
+  "page": "2004-club-results.html",
+  "copied": "2026-11-20",
+  "sha256": "04708139f1713cf03d0f76e2120ddfb613e80483f5cb0e27b19ce7b06d40fd2c",
+  "rows": {
+   "table_rows": 0,
+   "tournament_rows": 0,
+   "standings_rows": 0,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 0,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [],
+ "standings": [],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "image",
+   "file": "archive/8771684_orig.jpg"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "Results"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/1776053.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/1380573.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/5491022_orig.jpg"
+  }
+ ],
+ "results_form": "pictures",
+ "pictures": [
+  "archive/8771684_orig.jpg",
+  "archive/1776053.jpg",
+  "archive/1380573.jpg",
+  "archive/5491022_orig.jpg"
+ ]
+}

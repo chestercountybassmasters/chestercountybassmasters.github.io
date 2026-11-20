@@ -1,0 +1,211 @@
+{
+ "series": "opens",
+ "year": 2017,
+ "source": {
+  "page": "2017-open-results.html",
+  "copied": "2026-11-20",
+  "sha256": "cbcc3d24ff65bcd08ceefc3d1c3a72b9033debcc7713bef31c3a90ccd829903d",
+  "rows": {
+   "table_rows": 6,
+   "tournament_rows": 0,
+   "standings_rows": 0,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 6,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [],
+ "standings": [],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2017-11-02-at-9-09-17-pm_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "2017 Open Schedule",
+    "North East River",
+    "Upper Chesapeake Bay"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "April 1",
+    "June 10",
+    "September 16",
+    "October 7",
+    "November 11",
+    "Special tx: Big Bass, August 19"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "2017 Results"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "November 11"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "See the CCBM Opens Facebook page for the full write-up and photos"
+   ],
+   "links": [
+    {
+     "text": "CCBM Opens Facebook",
+     "href": "https://www.facebook.com/groups/881394538591363/permalink/1632807573450052/"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2018-03-14-at-3-44-19-pm.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "October 7"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "See the CCBM Opens Facebook page for the full write-up and photos"
+   ],
+   "links": [
+    {
+     "text": "CCBM Opens Facebook",
+     "href": "https://www.facebook.com/groups/881394538591363/permalink/1600380866692723/"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2017-10-29-at-8-26-01-pm_1.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2017-10-29-at-8-26-28-pm_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "September 16, 2017"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "See the CCBM Opens message board for the full write-up and pictures"
+   ],
+   "links": [
+    {
+     "text": "CCBM Opens message board",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=5217.0"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2017-10-29-at-6-44-31-pm_1.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2017-10-29-at-6-45-45-pm_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Big Bass Tx - August 19, 2017"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "See the CCBM Opens message board for the full write-up and pictures"
+   ],
+   "links": [
+    {
+     "text": "CCBM Opens message board",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=5206.0"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2018-03-16-at-4-31-12-pm.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "June 10, 2017"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "See the CCBM Opens message board for the full write-up and pictures"
+   ],
+   "links": [
+    {
+     "text": "CCBM Opens message board",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=5156.0"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2017-10-29-at-3-42-22-pm_1.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2017-10-29-at-3-53-39-pm_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "April 1, 2017"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "See the CCBM Opens message board for the full write-up and pictures"
+   ],
+   "links": [
+    {
+     "text": "CCBM Opens message board",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=5112.0"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/published/screen-shot-2017-04-23-at-1-52-57-pm_1.png"
+  }
+ ],
+ "results_form": "pictures",
+ "pictures": [
+  "archive/published/screen-shot-2017-11-02-at-9-09-17-pm_1.png",
+  "archive/published/screen-shot-2018-03-14-at-3-44-19-pm.png",
+  "archive/published/screen-shot-2017-10-29-at-8-26-01-pm_1.png",
+  "archive/published/screen-shot-2017-10-29-at-8-26-28-pm_1.png",
+  "archive/published/screen-shot-2017-10-29-at-6-44-31-pm_1.png",
+  "archive/published/screen-shot-2017-10-29-at-6-45-45-pm_1.png",
+  "archive/published/screen-shot-2018-03-16-at-4-31-12-pm.png",
+  "archive/screen-shot-2017-10-29-at-3-42-22-pm_1.png",
+  "archive/screen-shot-2017-10-29-at-3-53-39-pm_1.png",
+  "archive/published/screen-shot-2017-04-23-at-1-52-57-pm_1.png"
+ ]
+}

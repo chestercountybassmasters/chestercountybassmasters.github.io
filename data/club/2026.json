@@ -1,0 +1,3758 @@
+{
+ "series": "club",
+ "year": 2026,
+ "source": {
+  "page": "2026-club-results.html",
+  "copied": "2026-11-20",
+  "sha256": "5ef594db14e6bc1ae29412430f336f8b6e86db3e0c48648b48be215f63356c13",
+  "rows": {
+   "table_rows": 403,
+   "tournament_rows": 256,
+   "standings_rows": 49,
+   "schedule_rows": 16,
+   "summary_table_rows": 82,
+   "file_table_rows": 0,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "4/11/2026-North East"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Weight"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    },
+    {
+     "role": "penalty",
+     "label": "Penalty"
+    },
+    {
+     "role": "total_weight",
+     "label": "Total Weight"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Travis Nale",
+     "fish": "5",
+     "weight": "17.42",
+     "big_fish": "4.97",
+     "penalty": "",
+     "total_weight": "17.42"
+    },
+    {
+     "place": "2",
+     "name": "Pavlo Fenik",
+     "fish": "5",
+     "weight": "15.25",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "15.25"
+    },
+    {
+     "place": "3",
+     "name": "Greg Arrowood",
+     "fish": "5",
+     "weight": "14.99",
+     "big_fish": "5.03",
+     "penalty": "",
+     "total_weight": "14.99"
+    },
+    {
+     "place": "4",
+     "name": "Tom Wood",
+     "fish": "5",
+     "weight": "14.12",
+     "big_fish": "4.67",
+     "penalty": "",
+     "total_weight": "14.12"
+    },
+    {
+     "place": "5",
+     "name": "Sean Clark",
+     "fish": "5",
+     "weight": "13.79",
+     "big_fish": "4.32",
+     "penalty": "",
+     "total_weight": "13.79"
+    },
+    {
+     "place": "6",
+     "name": "Sam Montalto",
+     "fish": "5",
+     "weight": "13.07",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "13.07"
+    },
+    {
+     "place": "7",
+     "name": "Eli Amilani",
+     "fish": "5",
+     "weight": "12.38",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "12.38"
+    },
+    {
+     "place": "8",
+     "name": "Joe Wesley",
+     "fish": "4",
+     "weight": "10.65",
+     "big_fish": "5.00",
+     "penalty": "",
+     "total_weight": "10.65"
+    },
+    {
+     "place": "9",
+     "name": "Stephan Sirochman",
+     "fish": "4",
+     "weight": "9.78",
+     "big_fish": "2.66",
+     "penalty": "",
+     "total_weight": "9.78"
+    },
+    {
+     "place": "10",
+     "name": "Glenn Kmecz",
+     "fish": "3",
+     "weight": "7.56",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "7.56"
+    },
+    {
+     "place": "11",
+     "name": "Jim (Woo) Hauck",
+     "fish": "2",
+     "weight": "6.76",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "6.76"
+    },
+    {
+     "place": "12",
+     "name": "Loren Meckle",
+     "fish": "3",
+     "weight": "6.72",
+     "big_fish": "2.81",
+     "penalty": "",
+     "total_weight": "6.72"
+    },
+    {
+     "place": "13",
+     "name": "Paul Sirochman",
+     "fish": "2",
+     "weight": "5.81",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "5.81"
+    },
+    {
+     "place": "14",
+     "name": "Bob Horning",
+     "fish": "2",
+     "weight": "5.78",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "5.78"
+    },
+    {
+     "place": "15",
+     "name": "Rob Betchley",
+     "fish": "2",
+     "weight": "5.08",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "5.08"
+    },
+    {
+     "place": "16",
+     "name": "Paul Gray",
+     "fish": "2",
+     "weight": "4.81",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "4.81"
+    },
+    {
+     "place": "17",
+     "name": "Lou Croce",
+     "fish": "2",
+     "weight": "4.40",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "4.40"
+    },
+    {
+     "place": "18",
+     "name": "Ryan Sweeney",
+     "fish": "2",
+     "weight": "4.04",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "4.04"
+    },
+    {
+     "place": "19",
+     "name": "Steve Manista",
+     "fish": "2",
+     "weight": "3.94",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "3.94"
+    },
+    {
+     "place": "20",
+     "name": "Sean Geerlof",
+     "fish": "1",
+     "weight": "3.00",
+     "big_fish": "3.00",
+     "penalty": "",
+     "total_weight": "3.00"
+    },
+    {
+     "place": "21",
+     "name": "Chuck Nale",
+     "fish": "1",
+     "weight": "2.27",
+     "big_fish": "2.27",
+     "penalty": "",
+     "total_weight": "2.27"
+    },
+    {
+     "place": "22",
+     "name": "Adam Harkness",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "22",
+     "name": "JC Henry",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "22",
+     "name": "Steve Weimar",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "22",
+     "name": "Austin Smith (Guest)",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "",
+     "guest": true
+    },
+    {
+     "place": "22",
+     "name": "Dave Curci",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "27",
+     "name": "Nick Biondi",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "DNW"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Total Participants",
+     "value": "27"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "181.62"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "67"
+    },
+    {
+     "label": "Average #Fish/Participant",
+     "value": "2.48"
+    },
+    {
+     "label": "Average Fish Wt",
+     "value": "2.71"
+    },
+    {
+     "label": "Average Weight/Participant",
+     "value": "6.73"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 27,
+    "other": 0,
+    "blank": 0,
+    "table_rows": 31,
+    "summary_tables": 6
+   },
+   "title": "4/11/2026-North East",
+   "dates": [
+    "2026-04-11"
+   ],
+   "waters": [
+    "North East"
+   ],
+   "id": "2026-04-11"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "4/25/2026-Nanticoke"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Weight"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    },
+    {
+     "role": "penalty",
+     "label": "Penalty"
+    },
+    {
+     "role": "total_weight",
+     "label": "Total Weight"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Ryan Sweeney",
+     "fish": "5",
+     "weight": "12.15",
+     "big_fish": "2.56",
+     "penalty": "",
+     "total_weight": "12.15"
+    },
+    {
+     "place": "2",
+     "name": "Paul Sirochman",
+     "fish": "5",
+     "weight": "11.86",
+     "big_fish": "2.74",
+     "penalty": "",
+     "total_weight": "11.86"
+    },
+    {
+     "place": "3",
+     "name": "Travis Nale",
+     "fish": "5",
+     "weight": "11.64",
+     "big_fish": "2.61",
+     "penalty": "",
+     "total_weight": "11.64"
+    },
+    {
+     "place": "4",
+     "name": "Steve Manista",
+     "fish": "5",
+     "weight": "9.37",
+     "big_fish": "3.10",
+     "penalty": "",
+     "total_weight": "9.37"
+    },
+    {
+     "place": "5",
+     "name": "Stephan Sirochman",
+     "fish": "5",
+     "weight": "9.00",
+     "big_fish": "2.24",
+     "penalty": "",
+     "total_weight": "9.00"
+    },
+    {
+     "place": "6",
+     "name": "Sam Montalto",
+     "fish": "5",
+     "weight": "7.95",
+     "big_fish": "2.53",
+     "penalty": "",
+     "total_weight": "7.95"
+    },
+    {
+     "place": "7",
+     "name": "Glenn Kmecz",
+     "fish": "5",
+     "weight": "7.84",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "7.84"
+    },
+    {
+     "place": "8",
+     "name": "Joe Wesley",
+     "fish": "5",
+     "weight": "7.37",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "7.37"
+    },
+    {
+     "place": "9",
+     "name": "Bob Horning",
+     "fish": "5",
+     "weight": "7.24",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "7.24"
+    },
+    {
+     "place": "10",
+     "name": "Steve Weimar",
+     "fish": "5",
+     "weight": "5.14",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "5.14"
+    },
+    {
+     "place": "11",
+     "name": "Rob Galusha",
+     "fish": "3",
+     "weight": "4.65",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "4.65"
+    },
+    {
+     "place": "12",
+     "name": "Jim (Woo) Hauck",
+     "fish": "3",
+     "weight": "3.54",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "3.54"
+    },
+    {
+     "place": "13",
+     "name": "Eli Amilani",
+     "fish": "3",
+     "weight": "3.45",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "3.45"
+    },
+    {
+     "place": "14",
+     "name": "Chuck Nale",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "15",
+     "name": "Rob Betchley",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "DNW"
+    },
+    {
+     "place": "15",
+     "name": "Lou Croce",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "DNW"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Total Participants",
+     "value": "16"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "101.2"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "59"
+    },
+    {
+     "label": "Average #Fish/Participant",
+     "value": "3.69"
+    },
+    {
+     "label": "Average Fish Wt",
+     "value": "1.72"
+    },
+    {
+     "label": "Average Weight/Participant",
+     "value": "6.33"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 16,
+    "other": 0,
+    "blank": 0,
+    "table_rows": 20,
+    "summary_tables": 6
+   },
+   "title": "4/25/2026-Nanticoke",
+   "dates": [
+    "2026-04-25"
+   ],
+   "waters": [
+    "Nanticoke"
+   ],
+   "id": "2026-04-25"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "5/9/2026-North East"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Weight"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    },
+    {
+     "role": "penalty",
+     "label": "Penalty"
+    },
+    {
+     "role": "total_weight",
+     "label": "Total Weight"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Greg Arrowood",
+     "fish": "5",
+     "weight": "16.27",
+     "big_fish": "4.28",
+     "penalty": "",
+     "total_weight": "16.27"
+    },
+    {
+     "place": "2",
+     "name": "Travis Nale",
+     "fish": "5",
+     "weight": "15.19",
+     "big_fish": "3.72",
+     "penalty": "",
+     "total_weight": "15.19"
+    },
+    {
+     "place": "3",
+     "name": "Bob Horning",
+     "fish": "5",
+     "weight": "14.55",
+     "big_fish": "3.99",
+     "penalty": "",
+     "total_weight": "14.55"
+    },
+    {
+     "place": "4",
+     "name": "Ryan Sweeney",
+     "fish": "5",
+     "weight": "14.55",
+     "big_fish": "3.89",
+     "penalty": "",
+     "total_weight": "14.55"
+    },
+    {
+     "place": "5",
+     "name": "Paul Sirochman",
+     "fish": "5",
+     "weight": "14.54",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "14.54"
+    },
+    {
+     "place": "6",
+     "name": "Stephan Sirochman",
+     "fish": "5",
+     "weight": "14.43",
+     "big_fish": "3.78",
+     "penalty": "",
+     "total_weight": "14.43"
+    },
+    {
+     "place": "7",
+     "name": "Dubi Mejia (Guest)",
+     "fish": "5",
+     "weight": "14.35",
+     "big_fish": "4.72",
+     "penalty": "",
+     "total_weight": "14.35",
+     "guest": true
+    },
+    {
+     "place": "8",
+     "name": "Rob Betchley",
+     "fish": "5",
+     "weight": "14.25",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "14.25"
+    },
+    {
+     "place": "9",
+     "name": "Pavlo Fenik",
+     "fish": "5",
+     "weight": "14.10",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "14.10"
+    },
+    {
+     "place": "10",
+     "name": "Sean Geerlof",
+     "fish": "4",
+     "weight": "12.71",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "12.71"
+    },
+    {
+     "place": "11",
+     "name": "Jim (Woo) Hauck",
+     "fish": "4",
+     "weight": "12.60",
+     "big_fish": "5.40",
+     "penalty": "",
+     "total_weight": "12.60"
+    },
+    {
+     "place": "12",
+     "name": "Sam Montalto",
+     "fish": "5",
+     "weight": "11.41",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "11.41"
+    },
+    {
+     "place": "13",
+     "name": "Tom Wood",
+     "fish": "5",
+     "weight": "11.22",
+     "big_fish": "3.61",
+     "penalty": "",
+     "total_weight": "11.22"
+    },
+    {
+     "place": "14",
+     "name": "Glenn Kmecz",
+     "fish": "4",
+     "weight": "10.68",
+     "big_fish": "3.48",
+     "penalty": "",
+     "total_weight": "10.68"
+    },
+    {
+     "place": "15",
+     "name": "Lou Croce",
+     "fish": "4",
+     "weight": "9.99",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "9.99"
+    },
+    {
+     "place": "16",
+     "name": "Chuck Nale",
+     "fish": "4",
+     "weight": "9.58",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "9.58"
+    },
+    {
+     "place": "17",
+     "name": "JC Henry",
+     "fish": "4",
+     "weight": "9.57",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "9.57"
+    },
+    {
+     "place": "18",
+     "name": "Joe Wesley",
+     "fish": "5",
+     "weight": "9.42",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "9.42"
+    },
+    {
+     "place": "19",
+     "name": "Rob Galusha",
+     "fish": "3",
+     "weight": "6.22",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "6.22"
+    },
+    {
+     "place": "20",
+     "name": "Tom Yaw",
+     "fish": "2",
+     "weight": "5.18",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "5.18"
+    },
+    {
+     "place": "21",
+     "name": "JW Wade",
+     "fish": "2",
+     "weight": "4.60",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "4.60"
+    },
+    {
+     "place": "22",
+     "name": "Steve Weimar",
+     "fish": "1",
+     "weight": "2.04",
+     "big_fish": "2.04",
+     "penalty": "",
+     "total_weight": "2.04"
+    },
+    {
+     "place": "23",
+     "name": "Rob Galusha Jr (Guest)",
+     "fish": "1",
+     "weight": "1.78",
+     "big_fish": "1.78",
+     "penalty": "",
+     "total_weight": "1.78",
+     "guest": true
+    },
+    {
+     "place": "24",
+     "name": "Eli Amilani",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    }
+   ],
+   "summary": [
+    {
+     "label": "Total Participants",
+     "value": "24"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "249.23"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "93"
+    },
+    {
+     "label": "Average #Fish/Participant",
+     "value": "3.88"
+    },
+    {
+     "label": "Average Fish Wt",
+     "value": "2.68"
+    },
+    {
+     "label": "Average Weight/Participant",
+     "value": "10.38"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 24,
+    "other": 0,
+    "blank": 0,
+    "table_rows": 28,
+    "summary_tables": 6
+   },
+   "title": "5/9/2026-North East",
+   "dates": [
+    "2026-05-09"
+   ],
+   "waters": [
+    "North East"
+   ],
+   "id": "2026-05-09"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "7/11/2026-Conowingo"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Weight"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    },
+    {
+     "role": "penalty",
+     "label": "Penalty"
+    },
+    {
+     "role": "total_weight",
+     "label": "Total Weight"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Paul Sirochman",
+     "fish": "5",
+     "weight": "9.15",
+     "big_fish": "2.11",
+     "penalty": "",
+     "total_weight": "9.15"
+    },
+    {
+     "place": "2",
+     "name": "Glenn Kmecz",
+     "fish": "2",
+     "weight": "3.08",
+     "big_fish": "1.96",
+     "penalty": "",
+     "total_weight": "3.08"
+    },
+    {
+     "place": "3",
+     "name": "Sam Montalto",
+     "fish": "3",
+     "weight": "2.92",
+     "big_fish": "1.14",
+     "penalty": "",
+     "total_weight": "2.92"
+    },
+    {
+     "place": "4",
+     "name": "Rob Betchley",
+     "fish": "3",
+     "weight": "2.76",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "2.76"
+    },
+    {
+     "place": "5",
+     "name": "Jim (Woo) Hauck",
+     "fish": "2",
+     "weight": "2.51",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "2.51"
+    },
+    {
+     "place": "6",
+     "name": "Bob Horning",
+     "fish": "2",
+     "weight": "2.13",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "2.13"
+    },
+    {
+     "place": "7",
+     "name": "Nick Biondi",
+     "fish": "1",
+     "weight": "0.93",
+     "big_fish": "0.93",
+     "penalty": "",
+     "total_weight": "0.93"
+    },
+    {
+     "place": "8",
+     "name": "Greg Arrowood",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "8",
+     "name": "Sean Clark",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "8",
+     "name": "Lou Croce",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "8",
+     "name": "Pavlo Fenik",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "8",
+     "name": "Chris Herr",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "8",
+     "name": "Steve Weimar",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "14",
+     "name": "Rob Galusha",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "DNW"
+    },
+    {
+     "place": "14",
+     "name": "Joe Wesley",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "DNW"
+    },
+    {
+     "place": "14",
+     "name": "Monet Wesley (Guest)",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "DNW",
+     "guest": true
+    },
+    {
+     "place": "14",
+     "name": "Tom Yaw",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "DNW"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Total Participants",
+     "value": "17"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "23.48"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "18"
+    },
+    {
+     "label": "Average #Fish/Participant",
+     "value": "1.06"
+    },
+    {
+     "label": "Average Fish Wt",
+     "value": "1.3"
+    },
+    {
+     "label": "Average Weight/Participant",
+     "value": "1.38"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 17,
+    "other": 0,
+    "blank": 0,
+    "table_rows": 21,
+    "summary_tables": 6
+   },
+   "title": "7/11/2026-Conowingo",
+   "dates": [
+    "2026-07-11"
+   ],
+   "waters": [
+    "Conowingo"
+   ],
+   "id": "2026-07-11"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "7/25/2026-Nanticoke"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Weight"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    },
+    {
+     "role": "penalty",
+     "label": "Penalty"
+    },
+    {
+     "role": "total_weight",
+     "label": "Total Weight"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Sean Geerlof",
+     "fish": "5",
+     "weight": "8.36",
+     "big_fish": "2.63",
+     "penalty": "",
+     "total_weight": "8.36"
+    },
+    {
+     "place": "2",
+     "name": "Travis Nale",
+     "fish": "5",
+     "weight": "8.20",
+     "big_fish": "2.56",
+     "penalty": "",
+     "total_weight": "8.20"
+    },
+    {
+     "place": "3",
+     "name": "Paul Sirochman",
+     "fish": "5",
+     "weight": "8.07",
+     "big_fish": "2.03",
+     "penalty": "",
+     "total_weight": "8.07"
+    },
+    {
+     "place": "4",
+     "name": "Bob Horning",
+     "fish": "5",
+     "weight": "7.88",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "7.88"
+    },
+    {
+     "place": "5",
+     "name": "Stan Horne",
+     "fish": "5",
+     "weight": "6.93",
+     "big_fish": "1.63",
+     "penalty": "",
+     "total_weight": "6.93"
+    },
+    {
+     "place": "6",
+     "name": "Steve Manista",
+     "fish": "5",
+     "weight": "6.51",
+     "big_fish": "1.45",
+     "penalty": "",
+     "total_weight": "6.51"
+    },
+    {
+     "place": "7",
+     "name": "Lou Croce",
+     "fish": "5",
+     "weight": "6.51",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "6.51"
+    },
+    {
+     "place": "8",
+     "name": "Steve Weimar",
+     "fish": "5",
+     "weight": "6.41",
+     "big_fish": "1.79",
+     "penalty": "",
+     "total_weight": "6.41"
+    },
+    {
+     "place": "9",
+     "name": "Glenn Kmecz",
+     "fish": "5",
+     "weight": "6.13",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "6.13"
+    },
+    {
+     "place": "10",
+     "name": "Jim (Woo) Hauck",
+     "fish": "5",
+     "weight": "5.79",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "5.79"
+    },
+    {
+     "place": "11",
+     "name": "Steve Zisk",
+     "fish": "3",
+     "weight": "3.57",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "3.57"
+    },
+    {
+     "place": "12",
+     "name": "Joe Wesley",
+     "fish": "3",
+     "weight": "3.28",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "3.28"
+    },
+    {
+     "place": "13",
+     "name": "Loren Meckle",
+     "fish": "3",
+     "weight": "2.91",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "2.91"
+    },
+    {
+     "place": "14",
+     "name": "Sam Montalto",
+     "fish": "2",
+     "weight": "2.19",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "2.19"
+    },
+    {
+     "place": "15",
+     "name": "Rob Betchley",
+     "fish": "2",
+     "weight": "2.04",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "2.04"
+    },
+    {
+     "place": "16",
+     "name": "Chuck Nale",
+     "fish": "2",
+     "weight": "1.96",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "1.96"
+    },
+    {
+     "place": "17",
+     "name": "JC Henry",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "DNW"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Total Participants",
+     "value": "17"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "86.74"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "65"
+    },
+    {
+     "label": "Average #Fish/Participant",
+     "value": "3.82"
+    },
+    {
+     "label": "Average Fish Wt",
+     "value": "1.33"
+    },
+    {
+     "label": "Average Weight/Participant",
+     "value": "5.1"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 17,
+    "other": 0,
+    "blank": 0,
+    "table_rows": 21,
+    "summary_tables": 6
+   },
+   "title": "7/25/2026-Nanticoke",
+   "dates": [
+    "2026-07-25"
+   ],
+   "waters": [
+    "Nanticoke"
+   ],
+   "id": "2026-07-25"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "8/8/2026-Marshyhope"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Weight"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    },
+    {
+     "role": "penalty",
+     "label": "Penalty"
+    },
+    {
+     "role": "total_weight",
+     "label": "Total Weight"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Paul Sirochman",
+     "fish": "5",
+     "weight": "10.78",
+     "big_fish": "2.36",
+     "penalty": "",
+     "total_weight": "10.78"
+    },
+    {
+     "place": "2",
+     "name": "Steve Weimar",
+     "fish": "5",
+     "weight": "8.19",
+     "big_fish": "3.51",
+     "penalty": "",
+     "total_weight": "8.19"
+    },
+    {
+     "place": "3",
+     "name": "Loren Meckle",
+     "fish": "5",
+     "weight": "7.05",
+     "big_fish": "1.94",
+     "penalty": "0.50",
+     "total_weight": "6.55"
+    },
+    {
+     "place": "4",
+     "name": "Joe Wesley",
+     "fish": "4",
+     "weight": "4.87",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "4.87"
+    },
+    {
+     "place": "5",
+     "name": "Stan Horne",
+     "fish": "3",
+     "weight": "3.58",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "3.58"
+    },
+    {
+     "place": "6",
+     "name": "Sean Geerlof",
+     "fish": "1",
+     "weight": "2.63",
+     "big_fish": "2.63",
+     "penalty": "",
+     "total_weight": "2.63"
+    },
+    {
+     "place": "7",
+     "name": "Eli Amilani",
+     "fish": "1",
+     "weight": "1.44",
+     "big_fish": "1.44",
+     "penalty": "",
+     "total_weight": "1.44"
+    },
+    {
+     "place": "8",
+     "name": "Chris Herr",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    }
+   ],
+   "summary": [
+    {
+     "label": "Total Participants",
+     "value": "8"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "38.04"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "24"
+    },
+    {
+     "label": "Average #Fish/Participant",
+     "value": "3"
+    },
+    {
+     "label": "Average Fish Wt",
+     "value": "1.58"
+    },
+    {
+     "label": "Average Weight/Participant",
+     "value": "4.75"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 8,
+    "other": 0,
+    "blank": 0,
+    "table_rows": 12,
+    "summary_tables": 6
+   },
+   "title": "8/8/2026-Marshyhope",
+   "dates": [
+    "2026-08-08"
+   ],
+   "waters": [
+    "Marshyhope"
+   ],
+   "id": "2026-08-08"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "8/29/2026-Nanticoke"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Weight"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    },
+    {
+     "role": "penalty",
+     "label": "Penalty"
+    },
+    {
+     "role": "total_weight",
+     "label": "Total Weight"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Jim (Woo) Hauck",
+     "fish": "5",
+     "weight": "10.80",
+     "big_fish": "4.26",
+     "penalty": "",
+     "total_weight": "10.80"
+    },
+    {
+     "place": "2",
+     "name": "Paul Sirochman",
+     "fish": "5",
+     "weight": "9.52",
+     "big_fish": "3.58",
+     "penalty": "",
+     "total_weight": "9.52"
+    },
+    {
+     "place": "3",
+     "name": "Ryan Sweeney",
+     "fish": "5",
+     "weight": "9.38",
+     "big_fish": "2.86",
+     "penalty": "",
+     "total_weight": "9.38"
+    },
+    {
+     "place": "4",
+     "name": "Rob Betchley",
+     "fish": "5",
+     "weight": "8.05",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "8.05"
+    },
+    {
+     "place": "5",
+     "name": "Stan Horne",
+     "fish": "4",
+     "weight": "6.17",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "6.17"
+    },
+    {
+     "place": "6",
+     "name": "Sean Geerlof",
+     "fish": "4",
+     "weight": "4.25",
+     "big_fish": "1.06",
+     "penalty": "",
+     "total_weight": "4.25"
+    },
+    {
+     "place": "7",
+     "name": "Lou Croce",
+     "fish": "2",
+     "weight": "2.74",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "2.74"
+    },
+    {
+     "place": "8",
+     "name": "Steve Weimar",
+     "fish": "1",
+     "weight": "2.50",
+     "big_fish": "2.50",
+     "penalty": "",
+     "total_weight": "2.50"
+    },
+    {
+     "place": "9",
+     "name": "Bob Horning",
+     "fish": "2",
+     "weight": "2.39",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "2.39"
+    },
+    {
+     "place": "10",
+     "name": "Joe Wesley",
+     "fish": "1",
+     "weight": "1.14",
+     "big_fish": "1.14",
+     "penalty": "",
+     "total_weight": "1.14"
+    },
+    {
+     "place": "11",
+     "name": "Eli Amilani",
+     "fish": "1",
+     "weight": "0.98",
+     "big_fish": "0.98",
+     "penalty": "",
+     "total_weight": "0.98"
+    },
+    {
+     "place": "12",
+     "name": "Chris Herr",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "13",
+     "name": "Stephan Sirochman",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "DNW"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Total Participants",
+     "value": "13"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "57.92"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "35"
+    },
+    {
+     "label": "Average #Fish/Participant",
+     "value": "2.69"
+    },
+    {
+     "label": "Average Fish Wt",
+     "value": "1.65"
+    },
+    {
+     "label": "Average Weight/Participant",
+     "value": "4.46"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 13,
+    "other": 0,
+    "blank": 0,
+    "table_rows": 17,
+    "summary_tables": 6
+   },
+   "title": "8/29/2026-Nanticoke",
+   "dates": [
+    "2026-08-29"
+   ],
+   "waters": [
+    "Nanticoke"
+   ],
+   "id": "2026-08-29"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "10/7/2026-North East"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Weight"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    },
+    {
+     "role": "penalty",
+     "label": "Penalty"
+    },
+    {
+     "role": "total_weight",
+     "label": "Total Weight"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Sean Clark",
+     "fish": "5",
+     "weight": "15.04",
+     "big_fish": "3.59",
+     "penalty": "",
+     "total_weight": "15.04"
+    },
+    {
+     "place": "2",
+     "name": "Ken Jester",
+     "fish": "5",
+     "weight": "14.83",
+     "big_fish": "4.50",
+     "penalty": "",
+     "total_weight": "14.83"
+    },
+    {
+     "place": "3",
+     "name": "Stan Horne",
+     "fish": "5",
+     "weight": "13.71",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "13.71"
+    },
+    {
+     "place": "4",
+     "name": "Paul Sirochman",
+     "fish": "5",
+     "weight": "11.76",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "11.76"
+    },
+    {
+     "place": "5",
+     "name": "Steve Manista",
+     "fish": "4",
+     "weight": "9.97",
+     "big_fish": "2.98",
+     "penalty": "",
+     "total_weight": "9.97"
+    },
+    {
+     "place": "6",
+     "name": "Joe Wesley",
+     "fish": "3",
+     "weight": "9.74",
+     "big_fish": "4.18",
+     "penalty": "",
+     "total_weight": "9.74"
+    },
+    {
+     "place": "7",
+     "name": "Rob Betchley",
+     "fish": "4",
+     "weight": "8.71",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "8.71"
+    },
+    {
+     "place": "8",
+     "name": "Jim (Woo) Hauck",
+     "fish": "4",
+     "weight": "8.53",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "8.53"
+    },
+    {
+     "place": "9",
+     "name": "Steve Weimar",
+     "fish": "3",
+     "weight": "7.88",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "7.88"
+    },
+    {
+     "place": "10",
+     "name": "Sean Geerlof",
+     "fish": "3",
+     "weight": "6.57",
+     "big_fish": "2.54",
+     "penalty": "",
+     "total_weight": "6.57"
+    },
+    {
+     "place": "11",
+     "name": "Lou Croce",
+     "fish": "1",
+     "weight": "1.80",
+     "big_fish": "1.80",
+     "penalty": "",
+     "total_weight": "1.80"
+    },
+    {
+     "place": "12",
+     "name": "Eli Amilani",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "12",
+     "name": "Greg Arrowood",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "12",
+     "name": "Bob Horning",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "12",
+     "name": "Glenn Kmecz",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "16",
+     "name": "Ryan Sweeney",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "DNW"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Total Participants",
+     "value": "16"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "108.54"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "42"
+    },
+    {
+     "label": "Average #Fish/Participant",
+     "value": "2.62"
+    },
+    {
+     "label": "Average Fish Wt",
+     "value": "2.58"
+    },
+    {
+     "label": "Average Weight/Participant",
+     "value": "6.78"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 16,
+    "other": 0,
+    "blank": 0,
+    "table_rows": 20,
+    "summary_tables": 6
+   },
+   "title": "10/7/2026-North East",
+   "dates": [
+    "2026-10-07"
+   ],
+   "waters": [
+    "North East"
+   ],
+   "id": "2026-10-07"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "10/21/2026-North East"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Weight"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    },
+    {
+     "role": "penalty",
+     "label": "Penalty"
+    },
+    {
+     "role": "total_weight",
+     "label": "Total Weight"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Stephan Sirochman",
+     "fish": "3",
+     "weight": "7.98",
+     "big_fish": "3.30",
+     "penalty": "",
+     "total_weight": "7.98"
+    },
+    {
+     "place": "2",
+     "name": "Jim (Woo) Hauck",
+     "fish": "3",
+     "weight": "7.38",
+     "big_fish": "2.66",
+     "penalty": "",
+     "total_weight": "7.38"
+    },
+    {
+     "place": "3",
+     "name": "Travis Nale",
+     "fish": "3",
+     "weight": "6.33",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "6.33"
+    },
+    {
+     "place": "4",
+     "name": "Ken Jester",
+     "fish": "2",
+     "weight": "5.84",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "5.84"
+    },
+    {
+     "place": "5",
+     "name": "Glenn Kmecz",
+     "fish": "3",
+     "weight": "5.58",
+     "big_fish": "2.48",
+     "penalty": "",
+     "total_weight": "5.58"
+    },
+    {
+     "place": "6",
+     "name": "Sean Geerlof",
+     "fish": "2",
+     "weight": "5.51",
+     "big_fish": "3.53",
+     "penalty": "",
+     "total_weight": "5.51"
+    },
+    {
+     "place": "7",
+     "name": "Lou Croce",
+     "fish": "3",
+     "weight": "5.21",
+     "big_fish": "2.17",
+     "penalty": "",
+     "total_weight": "5.21"
+    },
+    {
+     "place": "8",
+     "name": "Paul Sirochman",
+     "fish": "2",
+     "weight": "5.07",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "5.07"
+    },
+    {
+     "place": "9",
+     "name": "Rob Betchley",
+     "fish": "3",
+     "weight": "4.55",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "4.55"
+    },
+    {
+     "place": "10",
+     "name": "Bob Horning",
+     "fish": "2",
+     "weight": "2.43",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "2.43"
+    },
+    {
+     "place": "11",
+     "name": "Steve Weimar",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "11",
+     "name": "Joe Wesley",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "11",
+     "name": "Eli Amilani",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "11",
+     "name": "Greg Arrowood",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "11",
+     "name": "Sean Clark",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "16",
+     "name": "Stan Horne",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "DNW"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Total Participants",
+     "value": "16"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "55.88"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "26"
+    },
+    {
+     "label": "Average #Fish/Participant",
+     "value": "1.62"
+    },
+    {
+     "label": "Average Fish Wt",
+     "value": "2.15"
+    },
+    {
+     "label": "Average Weight/Participant",
+     "value": "3.49"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 16,
+    "other": 0,
+    "blank": 0,
+    "table_rows": 20,
+    "summary_tables": 6
+   },
+   "title": "10/21/2026-North East",
+   "dates": [
+    "2026-10-21"
+   ],
+   "waters": [
+    "North East"
+   ],
+   "id": "2026-10-21"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "10/24/2026-Conowingo"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Weight"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    },
+    {
+     "role": "penalty",
+     "label": "Penalty"
+    },
+    {
+     "role": "total_weight",
+     "label": "Total Weight"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Pavlo Fenik",
+     "fish": "5",
+     "weight": "10.45",
+     "big_fish": "2.92",
+     "penalty": "",
+     "total_weight": "10.45"
+    },
+    {
+     "place": "2",
+     "name": "Paul Sirochman",
+     "fish": "5",
+     "weight": "5.82",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "5.82"
+    },
+    {
+     "place": "3",
+     "name": "Jim (Woo) Hauck",
+     "fish": "4",
+     "weight": "5.67",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "5.67"
+    },
+    {
+     "place": "4",
+     "name": "Steve Weimar",
+     "fish": "3",
+     "weight": "3.75",
+     "big_fish": "1.35",
+     "penalty": "",
+     "total_weight": "3.75"
+    },
+    {
+     "place": "5",
+     "name": "Rob Betchley",
+     "fish": "2",
+     "weight": "3.48",
+     "big_fish": "2.21",
+     "penalty": "",
+     "total_weight": "3.48"
+    },
+    {
+     "place": "6",
+     "name": "Bob Horning",
+     "fish": "3",
+     "weight": "3.28",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "3.28"
+    },
+    {
+     "place": "7",
+     "name": "Sean Geerlof",
+     "fish": "2",
+     "weight": "3.13",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "3.13"
+    },
+    {
+     "place": "8",
+     "name": "Sam Montalto",
+     "fish": "2",
+     "weight": "2.48",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "2.48"
+    },
+    {
+     "place": "9",
+     "name": "Stan Horne",
+     "fish": "1",
+     "weight": "2.22",
+     "big_fish": "2.22",
+     "penalty": "",
+     "total_weight": "2.22"
+    },
+    {
+     "place": "10",
+     "name": "Eli Amilani",
+     "fish": "1",
+     "weight": "2.09",
+     "big_fish": "2.09",
+     "penalty": "",
+     "total_weight": "2.09"
+    },
+    {
+     "place": "11",
+     "name": "Joe Wesley",
+     "fish": "1",
+     "weight": "1.68",
+     "big_fish": "1.68",
+     "penalty": "",
+     "total_weight": "1.68"
+    },
+    {
+     "place": "12",
+     "name": "Glenn Kmecz",
+     "fish": "1",
+     "weight": "1.61",
+     "big_fish": "1.61",
+     "penalty": "",
+     "total_weight": "1.61"
+    },
+    {
+     "place": "13",
+     "name": "Ryan Sweeney",
+     "fish": "1",
+     "weight": "0.89",
+     "big_fish": "0.89",
+     "penalty": "",
+     "total_weight": "0.89"
+    },
+    {
+     "place": "14",
+     "name": "Greg Arrowood",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "14",
+     "name": "Lou Croce",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "14",
+     "name": "Paul Gray",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "14",
+     "name": "Chris Herr",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "18",
+     "name": "Ken Jester",
+     "fish": "",
+     "weight": "DNW",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "DNW"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Total Participants",
+     "value": "18"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "46.55"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "31"
+    },
+    {
+     "label": "Average #Fish/Participant",
+     "value": "1.72"
+    },
+    {
+     "label": "Average Fish Wt",
+     "value": "1.5"
+    },
+    {
+     "label": "Average Weight/Participant",
+     "value": "2.59"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 18,
+    "other": 0,
+    "blank": 0,
+    "table_rows": 22,
+    "summary_tables": 6
+   },
+   "title": "10/24/2026-Conowingo",
+   "dates": [
+    "2026-10-24"
+   ],
+   "waters": [
+    "Conowingo"
+   ],
+   "id": "2026-10-24"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "10/31/2026-Conowingo"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Weight"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    },
+    {
+     "role": "penalty",
+     "label": "Penalty"
+    },
+    {
+     "role": "total_weight",
+     "label": "Total Weight"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Pavlo Fenik",
+     "fish": "4",
+     "weight": "7.83",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "7.83"
+    },
+    {
+     "place": "2",
+     "name": "Glenn Kmecz",
+     "fish": "4",
+     "weight": "6.09",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "6.09"
+    },
+    {
+     "place": "3",
+     "name": "Eli Amilani",
+     "fish": "2",
+     "weight": "4.61",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "4.61"
+    },
+    {
+     "place": "4",
+     "name": "Travis Nale",
+     "fish": "2",
+     "weight": "4.35",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "4.35"
+    },
+    {
+     "place": "5",
+     "name": "Greg Arrowood",
+     "fish": "2",
+     "weight": "4.17",
+     "big_fish": "3.05",
+     "penalty": "",
+     "total_weight": "4.17"
+    },
+    {
+     "place": "6",
+     "name": "Chuck Nale",
+     "fish": "3",
+     "weight": "3.21",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "3.21"
+    },
+    {
+     "place": "7",
+     "name": "Steve Weimar",
+     "fish": "1",
+     "weight": "3.02",
+     "big_fish": "3.02",
+     "penalty": "",
+     "total_weight": "3.02"
+    },
+    {
+     "place": "8",
+     "name": "Bob Horning",
+     "fish": "3",
+     "weight": "3.02",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "3.02"
+    },
+    {
+     "place": "9",
+     "name": "Sean Clark",
+     "fish": "2",
+     "weight": "2.86",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "2.86"
+    },
+    {
+     "place": "10",
+     "name": "Jim (Woo) Hauck",
+     "fish": "2",
+     "weight": "2.78",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "2.78"
+    },
+    {
+     "place": "11",
+     "name": "Tom Yaw",
+     "fish": "1",
+     "weight": "1.64",
+     "big_fish": "1.64",
+     "penalty": "",
+     "total_weight": "1.64"
+    },
+    {
+     "place": "12",
+     "name": "Paul Sirochman",
+     "fish": "1",
+     "weight": "1.51",
+     "big_fish": "1.51",
+     "penalty": "",
+     "total_weight": "1.51"
+    },
+    {
+     "place": "13",
+     "name": "Joe Wesley",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "13",
+     "name": "Lou Croce",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "13",
+     "name": "Stan Horne",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    }
+   ],
+   "summary": [
+    {
+     "label": "Total Participants",
+     "value": "15"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "45.09"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "27"
+    },
+    {
+     "label": "Average #Fish/Participant",
+     "value": "1.8"
+    },
+    {
+     "label": "Average Fish Wt",
+     "value": "1.67"
+    },
+    {
+     "label": "Average Weight/Participant",
+     "value": "3.01"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 3,
+    "header": 1,
+    "results": 15,
+    "other": 0,
+    "blank": 0,
+    "table_rows": 19,
+    "summary_tables": 6
+   },
+   "title": "10/31/2026-Conowingo",
+   "dates": [
+    "2026-10-31"
+   ],
+   "waters": [
+    "Conowingo"
+   ],
+   "id": "2026-10-31"
+  },
+  {
+   "title_lines": [
+    "CCBM",
+    "Tournament Report",
+    "11/7-11/8/2026-Classic Nanticoke North East"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Participant"
+    },
+    {
+     "role": "d1_fish",
+     "label": "Day 1: Nanticoke #Fish"
+    },
+    {
+     "role": "d1_weight",
+     "label": "Day 1: Nanticoke Weight"
+    },
+    {
+     "role": "d1_big_fish",
+     "label": "Day 1: Nanticoke B/F"
+    },
+    {
+     "role": "d1_penalty",
+     "label": "Day 1: Nanticoke Penalty"
+    },
+    {
+     "role": "d2_fish",
+     "label": "Day 2: North East #Fish"
+    },
+    {
+     "role": "d2_weight",
+     "label": "Day 2: North East Weight"
+    },
+    {
+     "role": "d2_big_fish",
+     "label": "Day 2: North East B/F"
+    },
+    {
+     "role": "d2_penalty",
+     "label": "Day 2: North East Penalty"
+    },
+    {
+     "role": "total_fish",
+     "label": "Total #Fish"
+    },
+    {
+     "role": "total_weight",
+     "label": "Total Weight"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Steve Manista",
+     "d1_fish": "5",
+     "d1_weight": "11.94",
+     "d1_big_fish": "2.93",
+     "d1_penalty": "",
+     "d2_fish": "5",
+     "d2_weight": "15.53",
+     "d2_big_fish": "3.62",
+     "d2_penalty": "",
+     "total_fish": "10",
+     "total_weight": "27.47"
+    },
+    {
+     "place": "2",
+     "name": "Paul Sirochman",
+     "d1_fish": "5",
+     "d1_weight": "8.55",
+     "d1_big_fish": "",
+     "d1_penalty": "",
+     "d2_fish": "5",
+     "d2_weight": "14.25",
+     "d2_big_fish": "3.21",
+     "d2_penalty": "",
+     "total_fish": "10",
+     "total_weight": "22.80"
+    },
+    {
+     "place": "3",
+     "name": "Jim (Woo) Hauck",
+     "d1_fish": "5",
+     "d1_weight": "9.25",
+     "d1_big_fish": "3.07",
+     "d1_penalty": "",
+     "d2_fish": "3",
+     "d2_weight": "8.13",
+     "d2_big_fish": "3.27",
+     "d2_penalty": "",
+     "total_fish": "8",
+     "total_weight": "17.38"
+    },
+    {
+     "place": "4",
+     "name": "Pavlo Fenik",
+     "d1_fish": "5",
+     "d1_weight": "8.22",
+     "d1_big_fish": "",
+     "d1_penalty": "",
+     "d2_fish": "4",
+     "d2_weight": "9.01",
+     "d2_big_fish": "",
+     "d2_penalty": "",
+     "total_fish": "9",
+     "total_weight": "17.23"
+    },
+    {
+     "place": "5",
+     "name": "Steve Weimar",
+     "d1_fish": "5",
+     "d1_weight": "8.85",
+     "d1_big_fish": "",
+     "d1_penalty": "",
+     "d2_fish": "2",
+     "d2_weight": "5.83",
+     "d2_big_fish": "",
+     "d2_penalty": "",
+     "total_fish": "7",
+     "total_weight": "14.68"
+    },
+    {
+     "place": "6",
+     "name": "Travis Nale",
+     "d1_fish": "5",
+     "d1_weight": "10.15",
+     "d1_big_fish": "",
+     "d1_penalty": "",
+     "d2_fish": "1",
+     "d2_weight": "3.15",
+     "d2_big_fish": "3.15",
+     "d2_penalty": "",
+     "total_fish": "6",
+     "total_weight": "13.30"
+    },
+    {
+     "place": "7",
+     "name": "Greg Arrowood",
+     "d1_fish": "5",
+     "d1_weight": "8.66",
+     "d1_big_fish": "3.15",
+     "d1_penalty": "",
+     "d2_fish": "1",
+     "d2_weight": "2.83",
+     "d2_big_fish": "2.83",
+     "d2_penalty": "",
+     "total_fish": "6",
+     "total_weight": "11.49"
+    },
+    {
+     "place": "8",
+     "name": "Stephan Sirochman",
+     "d1_fish": "5",
+     "d1_weight": "8.20",
+     "d1_big_fish": "",
+     "d1_penalty": "",
+     "d2_fish": "1",
+     "d2_weight": "2.63",
+     "d2_big_fish": "2.63",
+     "d2_penalty": "",
+     "total_fish": "6",
+     "total_weight": "10.83"
+    },
+    {
+     "place": "9",
+     "name": "Lou Croce",
+     "d1_fish": "4",
+     "d1_weight": "5.82",
+     "d1_big_fish": "",
+     "d1_penalty": "",
+     "d2_fish": "2",
+     "d2_weight": "4.23",
+     "d2_big_fish": "3.24",
+     "d2_penalty": "",
+     "total_fish": "6",
+     "total_weight": "10.05"
+    },
+    {
+     "place": "10",
+     "name": "Rob Betchley",
+     "d1_fish": "5",
+     "d1_weight": "6.48",
+     "d1_big_fish": "",
+     "d1_penalty": "",
+     "d2_fish": "2",
+     "d2_weight": "3.54",
+     "d2_big_fish": "2.51",
+     "d2_penalty": "",
+     "total_fish": "7",
+     "total_weight": "10.02"
+    },
+    {
+     "place": "11",
+     "name": "Sean Clark",
+     "d1_fish": "4",
+     "d1_weight": "5.65",
+     "d1_big_fish": "",
+     "d1_penalty": "",
+     "d2_fish": "2",
+     "d2_weight": "4.08",
+     "d2_big_fish": "",
+     "d2_penalty": "",
+     "total_fish": "6",
+     "total_weight": "9.73"
+    },
+    {
+     "place": "12",
+     "name": "Ken Jester",
+     "d1_fish": "5",
+     "d1_weight": "9.27",
+     "d1_big_fish": "2.61",
+     "d1_penalty": "",
+     "d2_fish": "0",
+     "d2_weight": "",
+     "d2_big_fish": "",
+     "d2_penalty": "",
+     "total_fish": "5",
+     "total_weight": "9.27"
+    },
+    {
+     "place": "13",
+     "name": "Joe Wesley",
+     "d1_fish": "5",
+     "d1_weight": "8.39",
+     "d1_big_fish": "",
+     "d1_penalty": "",
+     "d2_fish": "0",
+     "d2_weight": "",
+     "d2_big_fish": "",
+     "d2_penalty": "",
+     "total_fish": "5",
+     "total_weight": "8.39"
+    },
+    {
+     "place": "14",
+     "name": "Sean Geerlof",
+     "d1_fish": "3",
+     "d1_weight": "4.43",
+     "d1_big_fish": "",
+     "d1_penalty": "",
+     "d2_fish": "1",
+     "d2_weight": "2.49",
+     "d2_big_fish": "2.49",
+     "d2_penalty": "",
+     "total_fish": "4",
+     "total_weight": "6.92"
+    },
+    {
+     "place": "15",
+     "name": "Loren Meckle",
+     "d1_fish": "3",
+     "d1_weight": "3.96",
+     "d1_big_fish": "",
+     "d1_penalty": "",
+     "d2_fish": "1",
+     "d2_weight": "2.17",
+     "d2_big_fish": "2.17",
+     "d2_penalty": "",
+     "total_fish": "4",
+     "total_weight": "6.13"
+    },
+    {
+     "place": "16",
+     "name": "Bob Horning",
+     "d1_fish": "4",
+     "d1_weight": "4.82",
+     "d1_big_fish": "",
+     "d1_penalty": "",
+     "d2_fish": "1",
+     "d2_weight": "1.25",
+     "d2_big_fish": "1.25",
+     "d2_penalty": "",
+     "total_fish": "5",
+     "total_weight": "6.07"
+    },
+    {
+     "place": "17",
+     "name": "Eli Amilani",
+     "d1_fish": "2",
+     "d1_weight": "2.56",
+     "d1_big_fish": "",
+     "d1_penalty": "",
+     "d2_fish": "1",
+     "d2_weight": "2.65",
+     "d2_big_fish": "2.65",
+     "d2_penalty": "",
+     "total_fish": "3",
+     "total_weight": "5.21"
+    },
+    {
+     "place": "18",
+     "name": "Chuck Nale",
+     "d1_fish": "2",
+     "d1_weight": "4.17",
+     "d1_big_fish": "2.50",
+     "d1_penalty": "",
+     "d2_fish": "0",
+     "d2_weight": "",
+     "d2_big_fish": "",
+     "d2_penalty": "",
+     "total_fish": "2",
+     "total_weight": "4.17"
+    },
+    {
+     "place": "19",
+     "name": "Glenn Kmecz",
+     "d1_fish": "3",
+     "d1_weight": "3.95",
+     "d1_big_fish": "",
+     "d1_penalty": "",
+     "d2_fish": "0",
+     "d2_weight": "",
+     "d2_big_fish": "",
+     "d2_penalty": "",
+     "total_fish": "3",
+     "total_weight": "3.95"
+    },
+    {
+     "place": "20",
+     "name": "Sam Montalto",
+     "d1_fish": "2",
+     "d1_weight": "3.05",
+     "d1_big_fish": "",
+     "d1_penalty": "",
+     "d2_fish": "0",
+     "d2_weight": "",
+     "d2_big_fish": "",
+     "d2_penalty": "",
+     "total_fish": "2",
+     "total_weight": "3.05"
+    }
+   ],
+   "summary": [
+    {
+     "label": "Day 1 Total Fish Weight",
+     "value": "136.37"
+    },
+    {
+     "label": "Day1 Total Fish Weighed",
+     "value": "82"
+    },
+    {
+     "label": "Day 1 Average Fish Wt",
+     "value": "1.66"
+    },
+    {
+     "label": "Day 2 Total Fish Weight",
+     "value": "81.77"
+    },
+    {
+     "label": "Day 2 Total Fish Weighed",
+     "value": "32"
+    },
+    {
+     "label": "Day 2 Average Fish Wt",
+     "value": "2.56"
+    },
+    {
+     "label": "Overall Total Participants",
+     "value": "20"
+    },
+    {
+     "label": "Overall Total Fish Weight",
+     "value": "218.14"
+    },
+    {
+     "label": "Overall Total Fish Weighed",
+     "value": "114"
+    },
+    {
+     "label": "Overall Average #Fish/Participant",
+     "value": "5.7"
+    },
+    {
+     "label": "Overall Average Fish Wt",
+     "value": "1.91"
+    },
+    {
+     "label": "Overall Average Weight/Participant",
+     "value": "10.91"
+    },
+    {
+     "label": "Day 1 Lunker",
+     "value": "Greg Arrowood - 3.15"
+    },
+    {
+     "label": "Day 2 Lunker",
+     "value": "Steve Manista - 3.62"
+    },
+    {
+     "label": "Third Lunker",
+     "value": "Jim (Woo) Hauck - 3.27"
+    },
+    {
+     "label": "Fourth Lunker",
+     "value": "Lou Croce - 3.24"
+    }
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 3,
+    "header": 2,
+    "results": 20,
+    "other": 0,
+    "blank": 0,
+    "table_rows": 25,
+    "summary_tables": 16
+   },
+   "title": "11/7-11/8/2026-Classic Nanticoke North East",
+   "dates": [
+    "2026-11-07",
+    "2026-11-08"
+   ],
+   "two_day": true,
+   "waters": [
+    "Nanticoke",
+    "North East"
+   ],
+   "classic": true,
+   "id": "2026-11-07"
+  }
+ ],
+ "standings": [
+  {
+   "title_lines": [
+    "2026 AOY STANDINGS",
+    "BEST 7 TOURNAMENT RESULTS SHOWN"
+   ],
+   "columns": [
+    "Participant",
+    "TOTAL",
+    "#1",
+    "#2",
+    "# 3",
+    "#4",
+    "#5",
+    "#6",
+    "#7",
+    "Mbr Pts"
+   ],
+   "rows": [
+    [
+     "Paul Sirochman",
+     "697",
+     "100",
+     "100",
+     "96",
+     "96",
+     "96",
+     "96",
+     "93",
+     "20"
+    ],
+    [
+     "Travis Nale",
+     "678",
+     "100",
+     "96",
+     "96",
+     "93",
+     "93",
+     "91",
+     "89",
+     "20"
+    ],
+    [
+     "Jim (Woo) Hauck",
+     "664",
+     "100",
+     "96",
+     "93",
+     "93",
+     "90",
+     "87",
+     "85",
+     "20"
+    ],
+    [
+     "Sean Geerlof",
+     "646",
+     "100",
+     "89",
+     "89",
+     "89",
+     "88",
+     "86",
+     "85",
+     "20"
+    ],
+    [
+     "Glenn Kmecz",
+     "644",
+     "96",
+     "96",
+     "90",
+     "88",
+     "86",
+     "85",
+     "83",
+     "20"
+    ],
+    [
+     "Steve Weimar",
+     "644",
+     "96",
+     "91",
+     "90",
+     "87",
+     "87",
+     "87",
+     "86",
+     "20"
+    ],
+    [
+     "Bob Horning",
+     "642",
+     "93",
+     "91",
+     "89",
+     "89",
+     "88",
+     "86",
+     "86",
+     "20"
+    ],
+    [
+     "Rob Betchley",
+     "639",
+     "91",
+     "91",
+     "90",
+     "88",
+     "88",
+     "86",
+     "85",
+     "20"
+    ],
+    [
+     "Joe Wesley",
+     "623",
+     "91",
+     "89",
+     "87",
+     "87",
+     "85",
+     "84",
+     "83",
+     "17"
+    ],
+    [
+     "Eli Amilani",
+     "618",
+     "93",
+     "88",
+     "88",
+     "85",
+     "84",
+     "82",
+     "78",
+     "20"
+    ],
+    [
+     "Sam Montalto",
+     "617",
+     "93",
+     "89",
+     "89",
+     "87",
+     "84",
+     "81",
+     "75",
+     "19"
+    ],
+    [
+     "Lou Croce",
+     "613",
+     "88",
+     "88",
+     "88",
+     "86",
+     "84",
+     "81",
+     "78",
+     "20"
+    ],
+    [
+     "Greg Arrowood",
+     "573",
+     "100",
+     "93",
+     "90",
+     "88",
+     "63",
+     "60",
+     "59",
+     "20"
+    ],
+    [
+     "Pavlo Fenik",
+     "548",
+     "100",
+     "100",
+     "96",
+     "91",
+     "87",
+     "63",
+     "",
+     "11"
+    ],
+    [
+     "Stan Horne",
+     "527",
+     "93",
+     "90",
+     "90",
+     "90",
+     "86",
+     "58",
+     "0",
+     "20"
+    ],
+    [
+     "Sean Clark",
+     "489",
+     "100",
+     "90",
+     "86",
+     "84",
+     "63",
+     "60",
+     "",
+     "6"
+    ],
+    [
+     "Chuck Nale",
+     "476",
+     "89",
+     "80",
+     "79",
+     "77",
+     "74",
+     "57",
+     "",
+     "20"
+    ],
+    [
+     "Stephan Sirochman",
+     "469",
+     "100",
+     "90",
+     "89",
+     "87",
+     "86",
+     "0",
+     "",
+     "17"
+    ],
+    [
+     "Steve Manista",
+     "456",
+     "100",
+     "91",
+     "90",
+     "89",
+     "76",
+     "",
+     "",
+     "10"
+    ],
+    [
+     "Ryan Sweeney",
+     "453",
+     "100",
+     "93",
+     "91",
+     "82",
+     "77",
+     "0",
+     "",
+     "10"
+    ],
+    [
+     "Loren Meckle",
+     "351",
+     "93",
+     "83",
+     "82",
+     "80",
+     "",
+     "",
+     "",
+     "13"
+    ],
+    [
+     "Ken Jester",
+     "279",
+     "96",
+     "91",
+     "83",
+     "0",
+     "",
+     "",
+     "",
+     "9"
+    ],
+    [
+     "Chris Herr",
+     "249",
+     "63",
+     "63",
+     "59",
+     "57",
+     "",
+     "",
+     "",
+     "7"
+    ],
+    [
+     "Tom Wood",
+     "181",
+     "91",
+     "83",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "7"
+    ],
+    [
+     "Rob Galusha",
+     "168",
+     "84",
+     "77",
+     "0",
+     "",
+     "",
+     "",
+     "",
+     "7"
+    ],
+    [
+     "Tom Yaw",
+     "164",
+     "84",
+     "76",
+     "0",
+     "",
+     "",
+     "",
+     "",
+     "4"
+    ],
+    [
+     "Paul Gray",
+     "139",
+     "79",
+     "57",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "3"
+    ],
+    [
+     "JC Henry",
+     "133",
+     "79",
+     "49",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "5"
+    ],
+    [
+     "Nick Biondi",
+     "91",
+     "88",
+     "0",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "3"
+    ],
+    [
+     "Steve Zisk",
+     "86",
+     "84",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "2"
+    ],
+    [
+     "JW Wade",
+     "78",
+     "75",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "3"
+    ],
+    [
+     "Adam Harkness",
+     "52",
+     "49",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "3"
+    ],
+    [
+     "Bill Allison",
+     "4",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "4"
+    ],
+    [
+     "Jason Bailey",
+     "3",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "3"
+    ],
+    [
+     "Jacob Maenner",
+     "1",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "1"
+    ],
+    [
+     "Jeremy Solnosky",
+     "0",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "0"
+    ],
+    [
+     "Rich Martinelli",
+     "0",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "0"
+    ]
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 2,
+    "header": 1,
+    "rows": 37,
+    "other": 0,
+    "blank": 0
+   }
+  },
+  {
+   "title_lines": [
+    "2026 RIDER OF THE YEAR STANDINGS",
+    "BEST 7 TOURNAMENT RESULTS SHOWN"
+   ],
+   "columns": [
+    "Participant",
+    "TOTAL",
+    "#1",
+    "#2",
+    "# 3",
+    "#4",
+    "#5",
+    "#6",
+    "#7",
+    "Mbr Pts"
+   ],
+   "rows": [
+    [
+     "Sean Clark",
+     "489",
+     "100",
+     "90",
+     "86",
+     "84",
+     "63",
+     "60",
+     "",
+     "6"
+    ],
+    [
+     "Chuck Nale",
+     "476",
+     "89",
+     "80",
+     "79",
+     "77",
+     "74",
+     "57",
+     "",
+     "20"
+    ],
+    [
+     "Chris Herr",
+     "249",
+     "63",
+     "63",
+     "59",
+     "57",
+     "",
+     "",
+     "",
+     "7"
+    ],
+    [
+     "Paul Gray",
+     "139",
+     "79",
+     "57",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "3"
+    ],
+    [
+     "Steve Zisk",
+     "86",
+     "84",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "2"
+    ],
+    [
+     "JW Wade",
+     "78",
+     "75",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "3"
+    ]
+   ],
+   "notes": [],
+   "source_rows": {
+    "title": 2,
+    "header": 1,
+    "rows": 6,
+    "other": 0,
+    "blank": 0
+   }
+  }
+ ],
+ "schedule": [
+  "2026 Tournament Schedule",
+  "April 11 - North East River",
+  "April 25 - Nanticoke River",
+  "May 9 - North East River",
+  "May 30 - North East River",
+  "July 11- Conowingo Reservoir",
+  "July 25 - Nanticoke River",
+  "August 8 - Marshyhope River",
+  "August 29 - Nanticoke River",
+  "September 26 - Conowingo Reservoir",
+  "October 7 - North East River",
+  "October 17 - North East River",
+  "October 21 - North East River",
+  "October 24 - Conowingo Reservoir",
+  "October 31 - Conowingo Reservoir",
+  "CCBM Classic: November 7, Nanticoke River November 8, North East River"
+ ],
+ "flow": [
+  {
+   "kind": "heading",
+   "lines": [
+    "2026 CCBM Club Tournament Results and Standings"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Tournament Rules"
+   ],
+   "links": [
+    {
+     "text": "Tournament Rules",
+     "file": "archive/chestercountybassmasters_2024_tournament_rules.pdf"
+    }
+   ]
+  },
+  {
+   "kind": "schedule"
+  },
+  {
+   "kind": "standings",
+   "index": 0
+  },
+  {
+   "kind": "standings",
+   "index": 1
+  },
+  {
+   "kind": "rule"
+  },
+  {
+   "kind": "tournament",
+   "id": "2026-04-11"
+  },
+  {
+   "kind": "rule"
+  },
+  {
+   "kind": "tournament",
+   "id": "2026-04-25"
+  },
+  {
+   "kind": "rule"
+  },
+  {
+   "kind": "tournament",
+   "id": "2026-05-09"
+  },
+  {
+   "kind": "rule"
+  },
+  {
+   "kind": "tournament",
+   "id": "2026-07-11"
+  },
+  {
+   "kind": "rule"
+  },
+  {
+   "kind": "tournament",
+   "id": "2026-07-25"
+  },
+  {
+   "kind": "rule"
+  },
+  {
+   "kind": "tournament",
+   "id": "2026-08-08"
+  },
+  {
+   "kind": "rule"
+  },
+  {
+   "kind": "tournament",
+   "id": "2026-08-29"
+  },
+  {
+   "kind": "rule"
+  },
+  {
+   "kind": "tournament",
+   "id": "2026-10-07"
+  },
+  {
+   "kind": "rule"
+  },
+  {
+   "kind": "tournament",
+   "id": "2026-10-21"
+  },
+  {
+   "kind": "rule"
+  },
+  {
+   "kind": "tournament",
+   "id": "2026-10-24"
+  },
+  {
+   "kind": "rule"
+  },
+  {
+   "kind": "tournament",
+   "id": "2026-10-31"
+  },
+  {
+   "kind": "rule"
+  },
+  {
+   "kind": "tournament",
+   "id": "2026-11-07"
+  }
+ ],
+ "results_form": "tables",
+ "pictures": []
+}

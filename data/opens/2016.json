@@ -1,0 +1,194 @@
+{
+ "series": "opens",
+ "year": 2016,
+ "source": {
+  "page": "2016-open-results.html",
+  "copied": "2026-11-20",
+  "sha256": "5001663abeabf2c4265397503c2ea226dd586064e4356f0e85b0cbcc5d656611",
+  "rows": {
+   "table_rows": 6,
+   "tournament_rows": 0,
+   "standings_rows": 0,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 6,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [],
+ "standings": [],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "text",
+   "lines": [
+    "Matt Maturani: 610-566-5055"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Ashford Farm"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2016-10-17-at-10-03-59-pm_1_orig.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2016-10-17-at-10-04-18-pm_1_orig.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2016-10-17-at-10-04-39-pm_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "2016 Open Schedule",
+    "North East River",
+    "Upper Chesapeake Bay"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "March 26",
+    "April 23",
+    "June 4",
+    "August 13",
+    "October 15"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Results"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "October 15, 2016"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "See the CCBM Opens message board for the full write-up and pictures"
+   ],
+   "links": [
+    {
+     "text": "the CCBM Opens message board",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=4965.0"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2016-10-16-at-10-54-44-pm_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "August 13, 2016"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "See the CCBM Opens message board for the full write-up and pictures"
+   ],
+   "links": [
+    {
+     "text": "the CCBM Opens message board",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=4910.0"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2016-08-15-at-10-11-20-pm_1.png"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "June 4, 2016"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "See the CCBM Opens message board for the full write-up and pictures"
+   ],
+   "links": [
+    {
+     "text": "the CCBM Opens message board",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=4859.0"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/6260294_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "April 23, 2016"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "See the Open message board for the full write-up and pictures"
+   ],
+   "links": [
+    {
+     "text": "See the Open message board",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=4812.0"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/9000543_1.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "March 26, 2016"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "(See the Open message board for Tx Write-Up and Pictures)"
+   ],
+   "links": [
+    {
+     "text": "See the Open message board",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=4776.0"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/5208881_1.png"
+  }
+ ],
+ "results_form": "pictures",
+ "pictures": [
+  "archive/screen-shot-2016-10-17-at-10-03-59-pm_1_orig.png",
+  "archive/screen-shot-2016-10-17-at-10-04-18-pm_1_orig.png",
+  "archive/screen-shot-2016-10-17-at-10-04-39-pm_1.png",
+  "archive/screen-shot-2016-10-16-at-10-54-44-pm_1.png",
+  "archive/screen-shot-2016-08-15-at-10-11-20-pm_1.png",
+  "archive/6260294_1.png",
+  "archive/9000543_1.png",
+  "archive/5208881_1.png"
+ ]
+}

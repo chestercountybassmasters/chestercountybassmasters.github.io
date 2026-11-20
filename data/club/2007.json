@@ -1,0 +1,64 @@
+{
+ "series": "club",
+ "year": 2007,
+ "source": {
+  "page": "2007-club-results.html",
+  "copied": "2026-11-20",
+  "sha256": "f762bc93774ff9b54af590e3dda42280e9c946ab1dc545bbe6a69c2cbd8b0b72",
+  "rows": {
+   "table_rows": 0,
+   "tournament_rows": 0,
+   "standings_rows": 0,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 0,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [],
+ "standings": [],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "image",
+   "file": "archive/1815969_orig.jpg"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "Results"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/1045741_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/3886675_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/6811463_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/8772996_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/4115266_orig.jpg"
+  }
+ ],
+ "results_form": "pictures",
+ "pictures": [
+  "archive/1815969_orig.jpg",
+  "archive/1045741_orig.jpg",
+  "archive/3886675_orig.jpg",
+  "archive/6811463_orig.jpg",
+  "archive/8772996_orig.jpg",
+  "archive/4115266_orig.jpg"
+ ]
+}

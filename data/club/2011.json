@@ -1,0 +1,104 @@
+{
+ "series": "club",
+ "year": 2011,
+ "source": {
+  "page": "2011-club-results.html",
+  "copied": "2026-11-20",
+  "sha256": "ebaf311e4c9babe5f047da2ec1428b4afe04fcf48ca5bd49e3259a547fdece88",
+  "rows": {
+   "table_rows": 0,
+   "tournament_rows": 0,
+   "standings_rows": 0,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 0,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [],
+ "standings": [],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "image",
+   "file": "archive/_5718622_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_4649096_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_4677399_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_109459_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_2621489_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_4515166_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_5823335_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_1214917_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_1557034_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_8649612_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_3216259_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_3715134_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_6467194_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_8187077_orig.jpg"
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "2004 Results"
+   ]
+  }
+ ],
+ "results_form": "pictures",
+ "pictures": [
+  "archive/_5718622_orig.jpg",
+  "archive/_4649096_orig.jpg",
+  "archive/_4677399_orig.jpg",
+  "archive/_109459_orig.jpg",
+  "archive/_2621489_orig.jpg",
+  "archive/_4515166_orig.jpg",
+  "archive/_5823335_orig.jpg",
+  "archive/_1214917_orig.jpg",
+  "archive/_1557034_orig.jpg",
+  "archive/_8649612_orig.jpg",
+  "archive/_3216259_orig.jpg",
+  "archive/_3715134_orig.jpg",
+  "archive/_6467194_orig.jpg",
+  "archive/_8187077_orig.jpg"
+ ]
+}

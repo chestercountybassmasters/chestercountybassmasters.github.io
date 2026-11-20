@@ -1,0 +1,393 @@
+{
+ "series": "opens",
+ "year": 2015,
+ "source": {
+  "page": "2015-open-results.html",
+  "copied": "2026-11-20",
+  "sha256": "a824a9b7d8f99f7e5e55e9d574f7cb4b005cfcb43ee67f7e74ae1f4f9422c1ac",
+  "rows": {
+   "table_rows": 6,
+   "tournament_rows": 0,
+   "standings_rows": 0,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 6,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [],
+ "standings": [],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "text",
+   "lines": [
+    "Ashford Farm"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "2015 Open Schedule"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "May 9",
+    "July 18",
+    "September 12",
+    "October 24",
+    "November 14"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/__8812763.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__57958.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__3155215.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "Results"
+   ]
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "Congratulations to Luke Shrader and Cliff Humphreys for winning the Open tx trail in 2015!!!"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/449617_orig.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "November 14, 2015",
+    "Browning Eyewear",
+    "Open Tournament"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/__2416494.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_3828859_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_4216349_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_289217_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_2794278_orig.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "See the full write up on the CCBM",
+    "Open Tournament Message Board"
+   ],
+   "links": [
+    {
+     "text": "Open Tournament Message Board",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=4576.0"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "All photos from this and other opens can be found here"
+   ],
+   "links": [
+    {
+     "text": "here",
+     "href": "http://s1083.photobucket.com/user/ChesterCountyOpens/library/ServPro%20Chester%20County%20Bass%20Mastes%20Open%202015"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "October 24, 2015",
+    "Susquehanna Tackle and Ashford Farm",
+    "Open Tournament"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/__2376801_orig.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__3250719_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__642896_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__1530119_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__6054881_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__9187744_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__4491593_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__5663626_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__6029148_orig.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "See the full write up on the CCBM",
+    "Open Tournament Message Board"
+   ],
+   "links": [
+    {
+     "text": "Open Tournament Message Board",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=4554.0"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "All photos from this and other opens can be found here"
+   ],
+   "links": [
+    {
+     "text": "here",
+     "href": "http://s1083.photobucket.com/user/ChesterCountyOpens/library/ServPro%20Chester%20County%20Bass%20Mastes%20Open%202015"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "September 12, 2015",
+    "Sunoco Open Tournament"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/__370700.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__7879273_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__2291526_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__2907794_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__7288730_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__5443871_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__2377547_orig.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "See the full write up on the CCBM",
+    "Open Tournament Message Boards"
+   ],
+   "links": [
+    {
+     "text": "Open Tournament Message Boards",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=4505.0"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "All photos from this and other opens can be found here"
+   ],
+   "links": [
+    {
+     "text": "here",
+     "href": "http://s1083.photobucket.com/user/ChesterCountyOpens/library/ServPro%20Chester%20County%20Bass%20Mastes%20Open%202015"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "July 18, 2015",
+    "SERVPRO of Hunt Valley Open Tournament"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/__7293007_orig.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__2109177_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__6229483_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__557974_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__489371_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__7781701_orig.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "See the full write up on the CCBM",
+    "Open Tournament Message Board"
+   ],
+   "links": [
+    {
+     "text": "Open Tournament Message Board﻿",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=4473.0"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "All photos from this and other opens can be found here"
+   ],
+   "links": [
+    {
+     "text": "here",
+     "href": "http://s1083.photobucket.com/user/ChesterCountyOpens/library/ServPro%20Chester%20County%20Bass%20Mastes%20Open%202015"
+    }
+   ]
+  },
+  {
+   "kind": "heading",
+   "lines": [
+    "May 9, 2015",
+    "Pro Action Restoration Open Tournament"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/__3428359_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__8342513.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__8980360_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/__2009792.jpg"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "See the full write up on the CCBM",
+    "Open Tournament Message Board"
+   ],
+   "links": [
+    {
+     "text": "Open Tournament Message Board",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=4394.0"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "All photos from this and other opens can be found here"
+   ]
+  }
+ ],
+ "results_form": "pictures",
+ "pictures": [
+  "archive/__8812763.png",
+  "archive/__57958.png",
+  "archive/__3155215.png",
+  "archive/449617_orig.jpg",
+  "archive/__2416494.png",
+  "archive/_3828859_orig.jpg",
+  "archive/_4216349_orig.jpg",
+  "archive/_289217_orig.jpg",
+  "archive/_2794278_orig.jpg",
+  "archive/__2376801_orig.png",
+  "archive/__3250719_orig.jpg",
+  "archive/__642896_orig.jpg",
+  "archive/__1530119_orig.jpg",
+  "archive/__6054881_orig.jpg",
+  "archive/__9187744_orig.jpg",
+  "archive/__4491593_orig.jpg",
+  "archive/__5663626_orig.jpg",
+  "archive/__6029148_orig.jpg",
+  "archive/__370700.png",
+  "archive/__7879273_orig.jpg",
+  "archive/__2291526_orig.jpg",
+  "archive/__2907794_orig.jpg",
+  "archive/__7288730_orig.jpg",
+  "archive/__5443871_orig.jpg",
+  "archive/__2377547_orig.jpg",
+  "archive/__7293007_orig.png",
+  "archive/__2109177_orig.jpg",
+  "archive/__6229483_orig.jpg",
+  "archive/__557974_orig.jpg",
+  "archive/__489371_orig.jpg",
+  "archive/__7781701_orig.jpg",
+  "archive/__3428359_orig.jpg",
+  "archive/__8342513.jpg",
+  "archive/__8980360_orig.jpg",
+  "archive/__2009792.jpg"
+ ]
+}

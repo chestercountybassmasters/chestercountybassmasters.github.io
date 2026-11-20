@@ -1,0 +1,110 @@
+{
+ "series": "club",
+ "year": 2012,
+ "source": {
+  "page": "2012-club-results.html",
+  "copied": "2026-11-20",
+  "sha256": "8be8e16b426b4ee1c57feb12897c7d36d5d3311e1c5e172ef9a7ab6352f86400",
+  "rows": {
+   "table_rows": 0,
+   "tournament_rows": 0,
+   "standings_rows": 0,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 0,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [],
+ "standings": [],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "heading",
+   "lines": [
+    "2012 CCBM Tournament Results and Standings"
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/_4286990.jpg",
+   "full": "archive/_4286990_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_1352423824.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_3737474_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_8145699_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_8315258.jpg",
+   "full": "archive/_8315258_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_1341949872.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_4531732_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_2527550.jpg",
+   "full": "archive/_2527550_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_5761271.jpg",
+   "full": "archive/_5761271_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_6398714_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_9144509_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_13012.jpg",
+   "full": "archive/_13012_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_4912723.jpg",
+   "full": "archive/_4912723_orig.jpg"
+  },
+  {
+   "kind": "image",
+   "file": "archive/_8685046_orig.jpg"
+  }
+ ],
+ "results_form": "pictures",
+ "pictures": [
+  "archive/_4286990.jpg",
+  "archive/_1352423824.jpg",
+  "archive/_3737474_orig.jpg",
+  "archive/_8145699_orig.jpg",
+  "archive/_8315258.jpg",
+  "archive/_1341949872.jpg",
+  "archive/_4531732_orig.jpg",
+  "archive/_2527550.jpg",
+  "archive/_5761271.jpg",
+  "archive/_6398714_orig.jpg",
+  "archive/_9144509_orig.jpg",
+  "archive/_13012.jpg",
+  "archive/_4912723.jpg",
+  "archive/_8685046_orig.jpg"
+ ]
+}

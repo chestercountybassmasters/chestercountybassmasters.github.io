@@ -1,0 +1,175 @@
+{
+ "series": "opens",
+ "year": 2019,
+ "source": {
+  "page": "2019-open-results.html",
+  "copied": "2026-11-20",
+  "sha256": "7e6df24508c95613225077efe12b72d57f5d2c3ed1bbdba8d533c4825f17af00",
+  "rows": {
+   "table_rows": 6,
+   "tournament_rows": 0,
+   "standings_rows": 0,
+   "schedule_rows": 0,
+   "summary_table_rows": 0,
+   "file_table_rows": 6,
+   "other_table_rows": 0,
+   "blank_outside": 0,
+   "unassigned": 0
+  }
+ },
+ "tournaments": [],
+ "standings": [],
+ "schedule": [],
+ "flow": [
+  {
+   "kind": "text",
+   "lines": [
+    "2019 Schedule",
+    "April 6",
+    "May 25",
+    "July 13",
+    "August 10",
+    "October 26",
+    "( 2018 Opens averaged 42 boats per tournament )"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "North East River, Anchor Marina",
+    "Upper Chesapeake Bay"
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "(See the full season summary write-up on the Opens Facebook page.)"
+   ],
+   "links": [
+    {
+     "text": "Opens Facebook page",
+     "href": "https://www.facebook.com/groups/881394538591363/permalink/2972596522804477/"
+    }
+   ]
+  },
+  {
+   "kind": "external",
+   "href": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTesO_fqdeLGHtZv3qNRtigYyRX7kCBjy-3kmCzJLr-ZlOILYtesMEPEw0luqa8gJ20lTWlcuuB3sGn/pubhtml?gid=1259381925&single=true&widget=false&headers=false&chrome=false",
+   "text": "Result sheet on Google Sheets (outside this site)"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "(See the full write-up and photos for Open#5 on the club message boards or the Opens Facebook page.)"
+   ],
+   "links": [
+    {
+     "text": "club message boards",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=5894.new#new"
+    },
+    {
+     "text": "Opens Facebook page",
+     "href": "https://www.facebook.com/groups/881394538591363/permalink/2969884643075665/"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2019-10-27-at-2-08-43-pm_2.png"
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2019-10-27-at-2-09-51-pm_2.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "(See the full write-up and photos for Open#4 on the club message boards or the Opens Facebook page.)"
+   ],
+   "links": [
+    {
+     "text": "club message boards",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=5821.0"
+    },
+    {
+     "text": "Opens Facebook page",
+     "href": "https://www.facebook.com/groups/881394538591363/permalink/2769109559819842/"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2019-08-26-at-4-15-04-pm_2.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "(See the full write-up and photos for Open#3 on the club message boards or the Opens Facebook page.)"
+   ],
+   "links": [
+    {
+     "text": "club message boards",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=5799.0"
+    },
+    {
+     "text": "Opens Facebook page",
+     "href": "https://www.facebook.com/groups/881394538591363/permalink/2700224903374975/"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2019-07-13-at-9-35-45-pm_2.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "(See the full write-up and photos for Open#2 on the club message boards or the Opens Facebook page.)"
+   ],
+   "links": [
+    {
+     "text": "club message boards",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=5773.0"
+    },
+    {
+     "text": "Opens Facebook page",
+     "href": "https://www.facebook.com/groups/881394538591363/permalink/2570912399639560/"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2019-05-28-at-1-12-40-pm_2.png"
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "April 6, 2019 - Results",
+    "(See the full write-up and photos for Open#1 on the club message boards or the Opens Facebook page.)"
+   ],
+   "links": [
+    {
+     "text": "club message boards",
+     "href": "http://www.chestercountybassmasters.com/forums/index.php?topic=5723.0"
+    },
+    {
+     "text": "Opens Facebook page",
+     "href": "https://www.facebook.com/groups/881394538591363/permalink/2461053127292155/"
+    }
+   ]
+  },
+  {
+   "kind": "image",
+   "file": "archive/screen-shot-2019-05-06-at-2-02-46-pm_2.png"
+  }
+ ],
+ "results_form": "pictures",
+ "pictures": [
+  "archive/screen-shot-2019-10-27-at-2-08-43-pm_2.png",
+  "archive/screen-shot-2019-10-27-at-2-09-51-pm_2.png",
+  "archive/screen-shot-2019-08-26-at-4-15-04-pm_2.png",
+  "archive/screen-shot-2019-07-13-at-9-35-45-pm_2.png",
+  "archive/screen-shot-2019-05-28-at-1-12-40-pm_2.png",
+  "archive/screen-shot-2019-05-06-at-2-02-46-pm_2.png"
+ ]
+}
