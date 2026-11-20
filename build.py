@@ -322,7 +322,13 @@ class Site:
         self.schedule = load_schedule()
         self.site_records = json.loads(read('data/records_site.json'))
         self.pages = json.loads(read('data/pages.json'))
-        self.base = read('templates/base.html')
+        # the stylesheet's address carries a mark that changes when the file does, so a browser
+        # never shows new pages with an old copy of the stylesheet
+        import hashlib
+        mark = hashlib.sha256(read('assets/site.css').encode('utf-8')).hexdigest()[:10]
+        self.base = read('templates/base.html').replace('href="assets/site.css"', 'href="assets/site.css?v=%s"' % mark)
+        if 'site.css?v=' not in self.base:
+            problems.append('templates/base.html: the link to assets/site.css was not found')
         self.club_years = sorted(y for (s, y) in self.seasons if s == 'club')
         self.opens_years = sorted(y for (s, y) in self.seasons if s == 'opens')
         self.club = self.seasons[('club', max(y for y in self.club_years if self.seasons[('club', y)]['tournaments']))]

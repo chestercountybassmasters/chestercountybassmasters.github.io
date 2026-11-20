@@ -49,14 +49,13 @@ main a[style*="padding: 8px 0"], main a[style*="padding: 10px 0"] { display: inl
 main td a, main li > a:first-child, main dd a { display: inline-flex; align-items: center; min-height: 44px; min-width: 44px; white-space: nowrap; }
 main p a { padding: 2px 0; }
 
-/* home page: the club logo as a round badge on the corner of the top photo.
-   The circle is filled with the logo's own navy, so the square picture sits inside it whole. */
-.hero-badge { position: absolute; left: -30px; top: -30px; width: clamp(116px, 11vw, 152px); aspect-ratio: 1 / 1; border-radius: 50%; background: #012641; border: 4px solid var(--navy); box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35); display: flex; align-items: center; justify-content: center; }
-.hero-badge img { display: block; width: 78%; height: auto; }
-/* when the photo drops below the words, the badge sits mostly above it, so it does not cover a face */
+/* home page: the club logo as a round badge on the corner of the top photo. Its size and
+   place are written on the element in templates/home.html, like the rest of that page.
+   Here: when the photo drops below the words, the badge sits mostly above it, so it does
+   not cover a face. */
 @media (max-width: 960px) {
   .hero-photo { margin-top: 30px !important; }
-  .hero-badge { left: -6px; top: -58px; width: 92px; }
+  .hero-badge { left: -6px !important; top: -58px !important; width: 92px !important; }
 }
 
 /* pages written by the build */
