@@ -16,6 +16,7 @@ boats may be out of date.
 
 - 3787669.jpg | Billy Allison | Boater Bass Cat Pantera 3 - 200 Merc Opti Handle: "PSUFAN"
 - 123365.jpg | Eli Amilani | CCBM President Consultant and Banking Director, Boater , BassCat Pantera IV, Optimax 200 Handle: "Eli"
+- greg-arrowood.jpg | Greg Arrowood | CCBM Vice President, Boater, Bass Cat Lynx / 300 Merc. Handle: Big Sexy
 - jasonbailey.jpeg | Jason Bailey | Rider. Handle: Jhndrtxn
 - betchley.jpeg | Rob Betchley | Rider. 2019 Nitro Z21 / 250 Merc. Handle: rbetch
 - 4659791.jpg | Nick Biondi | Boater, 2003 Pantera IV , 200 Merc Optimax. Handle: nick b
