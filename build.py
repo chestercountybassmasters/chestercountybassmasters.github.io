@@ -55,6 +55,16 @@ def load_sponsors():
     return out
 
 
+def load_members():
+    out = []
+    for line in read('content/members.md').splitlines():
+        if line.startswith('- '):
+            p = [x.strip() for x in line[2:].split('|')]
+            if p[0]:
+                out.append({'photo': p[0], 'name': p[1] if len(p) > 1 else '', 'line': p[2] if len(p) > 2 else ''})
+    return out
+
+
 def load_slots():
     slots, cur = {}, None
     for line in read('content/photo-captions.md').splitlines():
@@ -308,6 +318,7 @@ class Site:
         self.slots = load_slots()
         self.meeting = dict(load_pairs('content/meeting.md'))
         self.officers = load_pairs('content/officers.md')
+        self.members = load_members()
         self.schedule = load_schedule()
         self.site_records = json.loads(read('data/records_site.json'))
         self.pages = json.loads(read('data/pages.json'))
@@ -897,13 +908,18 @@ class Site:
 
     def gallery(self):
         imgs = []
-        pics = [x for x in self.pages['gallery'] if x['kind'] == 'image']
-        for n, im in enumerate(pics, 1):
-            self.used_archive.add(im['file'])
-            imgs.append('<a href="%s"><img src="%s" alt="Club member, photo %d of %d in the gallery" loading="lazy"></a>' % (
-                esc(im['file']), esc(im['file']), n, len(pics)))
+        for m in self.members:
+            if os.path.isfile(os.path.join(ROOT, 'photos', m['photo'])):
+                src = 'photos/' + m['photo']
+            else:
+                src = 'archive/' + m['photo']
+                self.used_archive.add(src)
+            imgs.append('<figure class="member"><img src="%s" alt="%s" loading="lazy">'
+                        '<figcaption><strong>%s</strong>%s</figcaption></figure>' % (
+                            esc(src), esc(m['name'] or 'Club member'), esc(m['name']),
+                            '<span>%s</span>' % esc(m['line']) if m['line'] else ''))
         body = self.plain_band('The club', 'Member gallery',
-                               'The members\' photos from the old club site. [Names to come.]') + \
+                               'Our members, their boats, and their names on the message board.') + \
             '<section class="wrap"><div class="gallery">%s</div>\n<p style="margin-top: 24px">More photos are on ' \
             '<a href="https://www.facebook.com/Chester-County-Bass-Masters-185365004836120/">the club Facebook page</a>.</p></section>' % '\n'.join(imgs)
         self.page('gallery.html', 'Chester County Bass Masters: member gallery', body, nav='club')

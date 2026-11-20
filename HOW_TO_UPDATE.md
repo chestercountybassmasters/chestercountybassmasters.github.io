@@ -1,6 +1,6 @@
 # How to change the website
 
-You do not need to know any code. The things that change often live in five
+You do not need to know any code. The things that change often live in six
 small files in the `content` folder, and the photos live in the `photos` folder.
 
 | To change… | Open this file |
@@ -9,6 +9,7 @@ small files in the `content` folder, and the photos live in the `photos` folder.
 | a photo, or the words under one | `content/photo-captions.md` |
 | where and when we meet, the next meeting date | `content/meeting.md` |
 | the officers | `content/officers.md` |
+| a member's photo, boat or message board name in the gallery | `content/members.md` |
 | the club schedule, the Opens dates | `content/schedule.md` |
 
 Each file starts with a few lines saying how it works. Follow the pattern of the

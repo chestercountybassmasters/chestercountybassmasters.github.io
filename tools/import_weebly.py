@@ -688,6 +688,8 @@ def import_plain(source, page, copier):
                 item = {'kind': 'image', 'file': f}
                 if b['href'].startswith('http'):
                     item['href'] = b['href']
+                if b.get('title'):
+                    item['caption'] = b['title']   # shown on the old site when the mouse was over the picture
                 flow.append(item)
         elif b['kind'] == 'iframe' and 'youtube.com' in b['src']:
             flow.append({'kind': 'external', 'href': b['src'].replace('/embed/', '/watch?v='),

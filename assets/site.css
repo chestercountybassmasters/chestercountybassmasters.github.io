@@ -107,8 +107,12 @@ table.data td a { min-height: 44px; min-width: 44px; white-space: nowrap; displa
 .added td { background: var(--cream); }
 .tag { display: inline-block; font-size: 12px; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: #7A4B00; background: #FFE3A8; border-radius: 6px; padding: 2px 8px; }
 .linklist a { display: flex; align-items: center; min-height: 44px; font-weight: 600; }
-.gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
-.gallery img { display: block; width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; }
+.gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 16px; }
+.member { margin: 0; background: var(--card); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+.member img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; object-position: center 25%; }
+.member figcaption { padding: 12px 14px 14px; font-size: 14px; line-height: 1.45; color: var(--soft); overflow-wrap: anywhere; }
+.member figcaption strong { display: block; font-size: 16px; color: var(--ink); margin-bottom: 2px; }
+.member figcaption span { display: block; }
 @media (max-width: 600px) {
   .site-header-in { padding: 12px 16px; }
   .brand span { font-size: 21px; }

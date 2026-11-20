@@ -3,7 +3,8 @@
 Standard library only. A block is one of:
   {'kind': 'heading', 'text': ...}
   {'kind': 'text', 'text': ..., 'links': [(href, text), ...]}
-  {'kind': 'image', 'src': ..., 'alt': ..., 'href': link the picture sits in, or ''}
+  {'kind': 'image', 'src': ..., 'alt': ..., 'href': link the picture sits in, or '',
+   'title': the words Weebly showed when the mouse was over the picture, or ''}
   {'kind': 'iframe', 'src': ...}
   {'kind': 'table', 'rows': [[cell, ...], ...], 'spans': [(row, col, rowspan, colspan), ...]}
       a real table (not a Weebly column layout). Merged cells are spread out so that
@@ -105,7 +106,8 @@ class _Reader(HTMLParser):
                 return
             self._flush()
             self.blocks.append({'kind': 'image', 'src': a.get('src', ''), 'alt': a.get('alt', ''),
-                                'href': self.link[0] if self.link else ''})
+                                'href': self.link[0] if self.link else '',
+                                'title': ' '.join((self.link[2] if self.link else '').split())})
             return
         if tag in VOID:
             return
@@ -131,7 +133,7 @@ class _Reader(HTMLParser):
             self._flush()
             self.blocks.append({'kind': 'iframe', 'src': a.get('src', '')})
         elif tag == 'a':
-            self.link = [a.get('href', ''), '']
+            self.link = [a.get('href', ''), '', a.get('title', '')]
         elif tag in BLOCK:
             self._flush()
             if tag in HEAD:

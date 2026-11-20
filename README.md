@@ -42,7 +42,7 @@ without changing how `build.py` writes addresses.
 
 | Folder or file | What it holds | Who changes it |
 |---|---|---|
-| `content/` | Sponsors, photo captions, meeting line, officers, schedule: five plain files | Sean, Stan, anyone |
+| `content/` | Sponsors, photo captions, meeting line, officers, schedule, members: six plain files | Sean, Stan, anyone |
 | `photos/` | The photos the front pages use | Sean, Stan, anyone |
 | `templates/` | The six front pages (their words and layout) and `base.html`, the one header, menu and footer | Whoever edits the wording |
 | `data/club/`, `data/opens/` | One results file for each season | Added to as results come in |
@@ -158,15 +158,18 @@ Confirmed (a record or Steve said it), unless marked otherwise:
   photographs was not looked at one by one.
 - **Not checked:** rider bags (the tables do not say who rode) and, in effect, the
   Top Bass list (see `records_check.md`).
-- **Kept as the design had it, and probably wants rewording:** the box "How this
-  page would work" on the results page, which describes the site as a plan.
+- **Taken out at Steve's word (20 November 2026):** the design's box "How this page
+  would work" on the results page.
+- **As the old site had them, and partly out of date:** the lines in
+  `content/members.md` (the member gallery). On the old site they showed when the
+  mouse was over a photo; here they are words under each photo, so they can be
+  read on a phone. Three give officer titles that differ from `content/officers.md`.
 - **Placeholders left in square brackets**, as in the design: photo captions,
   sponsor logos and "the rest of the list", 2027 club and Opens dates, the next
   meeting date, 2027 dues totals, 2027 Team Championship rules, how boat numbers
   are given out, the 2026 prize list for 2027, the map of the off-limits line,
   the November 14 cash Open result. Added here in the same way: "[Map of the
-  ramps we use: to come]" (the design linked to a map; the old site has none) and
-  "[Names to come.]" on the gallery.
+  ramps we use: to come]" (the design linked to a map; the old site has none).
 - **Missing from both copies of the old site:** the full-size versions of the 14
   pictures on the 2011 club page (the page-size versions are there and are shown),
   and one picture on the 2013 club page.
