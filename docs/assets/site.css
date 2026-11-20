@@ -58,14 +58,15 @@ main p a { padding: 2px 0; }
 .hero-buttons { grid-area: buttons; margin-top: 30px; }
 .hero-photo { grid-area: photo; align-self: end; margin-bottom: 8px !important; min-width: 0; }
 .hero-photo figcaption { position: absolute; left: 0; top: 100%; }
-/* the club logo is a round badge on the photo, between the first two anglers. Its size and
-   place are written on the element in templates/home.html. On a narrow screen the photo
-   drops below the buttons, and the badge is smaller and sits mostly above the photo. */
+/* the club logo is a round badge at the bottom middle of the photo, about half of it hanging
+   below the photo's edge. Its size and place are written on the element in
+   templates/home.html as shares of the photo's width and height, so it keeps clear of the
+   fish tails at any size. Change the photo and those numbers need another look.
+   On a narrow screen the photo drops below the buttons; it needs room under it for the badge. */
 @media (max-width: 927px) {
   .hero { grid-template-columns: minmax(0, 1fr); grid-template-areas: "text" "buttons" "photo"; }
-  .hero-photo { margin: 100px 0 0 !important; }
+  .hero-photo { margin: 40px 0 clamp(40px, 12vw, 84px) !important; }
   .hero-photo figcaption { position: static; }
-  .hero-badge { top: -26px !important; width: 110px !important; }
 }
 
 /* pages written by the build */

@@ -128,8 +128,8 @@ one is not.
   waters says "pick a water for its top ten"), and the additions box (below).
 - The three small pages, built from the old site's Member Gallery, links and
   Upper Bay Tournament Directors pages.
-- Home page, top (Steve, 20 November 2026): the club logo as a round badge on the
-  photo, between the first two anglers; no caption under that photo (the caption
+- Home page, top (Steve, 20 November 2026): the club logo as a round badge at the
+  bottom middle of the photo, clear of the fish tails; no caption under that photo (the caption
   line in `content/photo-captions.md` is empty, and an empty caption shows
   nothing); and the bottom of the photo level with the last line of the words
   beside it. The layout is `.hero` in `assets/site.css`; the badge's size and
