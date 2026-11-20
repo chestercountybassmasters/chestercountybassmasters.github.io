@@ -4,8 +4,13 @@ The new club website, as a set of plain pages that GitHub Pages can serve from
 the `docs/` folder. Started on 20 November 2026 from the first design and from
 the copy of the old Weebly site taken that day.
 
-**Not published.** This folder is a local git repository with no remote. Nothing
-goes anywhere until Steve creates the public repository and says so.
+**Published from** the public repository
+`chestercountybassmasters/chestercountybassmasters.github.io` (first pushed on
+20 November 2026, at Steve's word). Its address is
+`https://chestercountybassmasters.github.io/` until the club's domain is pointed
+at it. GitHub Pages is to serve the `/docs` folder of `main` (repository
+Settings, Pages). **Nothing is pushed unless Steve says so**: a commit here is
+local until then.
 
 People who only change sponsors, captions, the meeting line, officers or the
 schedule: read [HOW_TO_UPDATE.md](HOW_TO_UPDATE.md). The rest of this page is for
@@ -25,7 +30,15 @@ python3 check.py
 
 fails, loudly, if the data differs from the old site's pages, if any link or
 picture address leads nowhere, or if a house rule is broken (see the top of
-`check.py`). Open `docs/index.html` in a browser to look at the site.
+`check.py`).
+
+GitHub Pages runs Jekyll over what it serves unless the folder holds a file named
+`.nojekyll`, and Jekyll leaves out every file whose name starts with `_` (337 of
+the old pictures do). So `build.py` writes an empty `docs/.nojekyll` each time,
+and `check.py` fails if it is missing. The `.nojekyll` and `index.html` at the top
+of the repository are a safety net for the case where Pages is set to serve the
+top of the repository instead of `/docs`: the page there only sends the visitor
+on to `docs/index.html`. Open `docs/index.html` in a browser to look at the site.
 
 Python 3, standard library only. No scripts on the pages; the only thing loaded
 from another site is the two fonts from Google Fonts.

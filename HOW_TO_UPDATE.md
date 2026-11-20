@@ -17,7 +17,8 @@ lines already there.
 
 ## Changing words (on the GitHub website)
 
-1. Sign in to GitHub and open the club's website repository.
+1. Sign in to GitHub and open the club's website repository,
+   `chestercountybassmasters/chestercountybassmasters.github.io`.
 2. Click the `content` folder, then the file you want.
 3. Click the pencil at the top right of the file.
 4. Change the words. Leave the punctuation that starts or ends a line (a dash,
