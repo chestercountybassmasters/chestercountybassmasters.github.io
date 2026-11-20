@@ -128,7 +128,7 @@ one is not.
   waters says "pick a water for its top ten"), and the additions box (below).
 - The three small pages, built from the old site's Member Gallery, links and
   Upper Bay Tournament Directors pages.
-- Home page: the club logo as a round badge on the corner of the top photo (Steve
+- Home page: the club logo as a round badge on the top photo, between the first two anglers (Steve
   asked for the logo to show more, 20 November 2026). It is `.hero-badge` in
   `assets/site.css` and one line in `templates/home.html`.
 - The footer on every page is the home page's full footer (the design's inner

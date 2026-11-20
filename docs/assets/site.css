@@ -55,7 +55,7 @@ main p a { padding: 2px 0; }
    not cover a face. */
 @media (max-width: 960px) {
   .hero-photo { margin-top: 30px !important; }
-  .hero-badge { left: -6px !important; top: -58px !important; width: 92px !important; }
+  .hero-badge { top: -60px !important; width: 92px !important; }
 }
 
 /* pages written by the build */
