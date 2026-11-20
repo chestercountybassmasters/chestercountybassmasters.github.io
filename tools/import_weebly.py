@@ -72,6 +72,11 @@ SEASON_NOTES = {
                      'posted on the Opens Facebook group.',
 }
 
+# Lines of the old pages that are not carried over. Steve decided on 11/20/26 not to state an
+# average number of boats for the Opens (the results on the same pages do not bear it out).
+# The lines that give one past year's average ("2022 Opens averaged 80 boats") are left alone.
+DROP_LINES = [re.compile(r'^\(\s*The main points Opens average \d+ boats per tournament\s*\)$')]
+
 warnings = []
 
 
@@ -530,6 +535,13 @@ def import_page(source, series, year, copier):
             if re.match(r'(?i)^create a free web site', text):
                 continue
             item = {'kind': kind, 'lines': b.get('lines') or [text]}
+            kept = [l for l in item['lines'] if not any(rx.match(l.strip()) for rx in DROP_LINES)]
+            if len(kept) != len(item['lines']):
+                season['source'].setdefault('lines_left_out', []).extend(
+                    l for l in item['lines'] if l not in kept)
+                item['lines'] = kept
+                if not kept:
+                    continue
             links = fix_links(b.get('links'), copier, page)
             if links:
                 item['links'] = links
@@ -667,6 +679,27 @@ def import_records(source):
     return out
 
 
+def keep_additions(season, path):
+    """A tournament added to a season file by hand (it has an "added" note, because it was never
+    on the old site) is carried over when the season is imported again, in the place it had."""
+    if not os.path.isfile(path):
+        return
+    with open(path, encoding='utf-8') as f:
+        old = json.load(f)
+    for t in old.get('tournaments', []):
+        if not t.get('added'):
+            continue
+        before = t['added'].get('before')
+        ids = [x['id'] for x in season['tournaments']]
+        i = ids.index(before) if before in ids else len(ids)
+        season['tournaments'].insert(i, t)
+        flow_ids = [x.get('id') if x['kind'] == 'tournament' else None for x in season['flow']]
+        j = flow_ids.index(before) if before in flow_ids else len(flow_ids)
+        season['flow'].insert(j, {'kind': 'tournament', 'id': t['id']})
+        season['results_form'] = 'tables'
+        print('  kept the hand addition %s in %s %d' % (t['id'], season['series'], season['year']))
+
+
 def import_plain(source, page, copier):
     """A page that is only words, pictures, links and files: kept in page order."""
     flow = []
@@ -708,11 +741,13 @@ def main():
         os.makedirs(os.path.join(ROOT, 'data', series), exist_ok=True)
         for year in years:
             season = import_page(source, series, year, copier)
+            keep_additions(season, os.path.join(ROOT, 'data', series, '%d.json' % year))
             with open(os.path.join(ROOT, 'data', series, '%d.json' % year), 'w', encoding='utf-8') as f:
                 json.dump(season, f, indent=1, ensure_ascii=False)
                 f.write('\n')
-            nres = sum(len(t['results']) for t in season['tournaments'])
-            report.append((series, year, season['results_form'], len(season['tournaments']), nres,
+            nres = sum(len(t['results']) for t in season['tournaments'] if not t.get('added'))
+            report.append((series, year, season['results_form'],
+                           len([t for t in season['tournaments'] if not t.get('added')]), nres,
                            len(season['standings']), sum(len(s['rows']) for s in season['standings']),
                            len(season['pictures'])))
     # The record lists are changed by hand when the Tournament Director confirms a record

@@ -5,6 +5,9 @@
   "page": "2026-open-results.html",
   "copied": "2026-11-20",
   "sha256": "be33d129a2a5ad9965021b982af92e6485e8eb9478545bfee8cd9abc1cd3c8cb",
+  "lines_left_out": [
+   "( The main points Opens average 80 boats per tournament )"
+  ],
   "rows": {
    "table_rows": 481,
    "tournament_rows": 323,
@@ -18,6 +21,261 @@
   }
  },
  "tournaments": [
+  {
+   "title_lines": [
+    "CCBM",
+    "Team Tournament Results",
+    "11/14/2026-North East",
+    "Cash prizes only, no points"
+   ],
+   "columns": [
+    {
+     "role": "place",
+     "label": "Place"
+    },
+    {
+     "role": "name",
+     "label": "Team"
+    },
+    {
+     "role": "fish",
+     "label": "#Fish"
+    },
+    {
+     "role": "weight",
+     "label": "Weight"
+    },
+    {
+     "role": "big_fish",
+     "label": "B/F"
+    },
+    {
+     "role": "penalty",
+     "label": "Penalty"
+    },
+    {
+     "role": "total_weight",
+     "label": "Total Weight"
+    }
+   ],
+   "results": [
+    {
+     "place": "1",
+     "name": "Jackson Staib/Dave Andrews",
+     "fish": "5",
+     "weight": "17.02",
+     "big_fish": "4.38",
+     "penalty": "",
+     "total_weight": "17.02"
+    },
+    {
+     "place": "2",
+     "name": "Matt Shiles/Zach White",
+     "fish": "5",
+     "weight": "15.51",
+     "big_fish": "5.15",
+     "penalty": "",
+     "total_weight": "15.51"
+    },
+    {
+     "place": "3",
+     "name": "Aaron Majors/Josh Rhoades",
+     "fish": "4",
+     "weight": "15.43",
+     "big_fish": "4.58",
+     "penalty": "",
+     "total_weight": "15.43"
+    },
+    {
+     "place": "4",
+     "name": "Jay Davoli/Mike Piccolo",
+     "fish": "3",
+     "weight": "14.02",
+     "big_fish": "7.90",
+     "penalty": "",
+     "total_weight": "14.02"
+    },
+    {
+     "place": "5",
+     "name": "Ken Cassella/Bruce Reichert",
+     "fish": "4",
+     "weight": "10.19",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "10.19"
+    },
+    {
+     "place": "6",
+     "name": "Matt Goudie",
+     "fish": "4",
+     "weight": "9.59",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "9.59"
+    },
+    {
+     "place": "7",
+     "name": "Duke Nave/Andrew Heivly",
+     "fish": "3",
+     "weight": "8.09",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "8.09"
+    },
+    {
+     "place": "8",
+     "name": "JT Lang/Nate Brown",
+     "fish": "4",
+     "weight": "7.50",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "7.50"
+    },
+    {
+     "place": "9",
+     "name": "Derick Olson",
+     "fish": "3",
+     "weight": "7.20",
+     "big_fish": "2.98",
+     "penalty": "",
+     "total_weight": "7.20"
+    },
+    {
+     "place": "10",
+     "name": "Richard Leadbeater/Mike Sentore",
+     "fish": "2",
+     "weight": "5.99",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": "5.99"
+    },
+    {
+     "place": "11",
+     "name": "Bob Horning/Glenn Kmecz",
+     "fish": "1",
+     "weight": "3.03",
+     "big_fish": "3.03",
+     "penalty": "",
+     "total_weight": "3.03"
+    },
+    {
+     "place": "12",
+     "name": "Greg Arrowood/Sean Clark",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "12",
+     "name": "Steve Bohn/Mike DeMaio",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "12",
+     "name": "Conor Cahill/Adam Satanoff",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "12",
+     "name": "Paul Carney/Matt Carney",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "12",
+     "name": "Harry Nurk/Eric Sollenberger",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "12",
+     "name": "Dave Shellenberger/Bryan Giran",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "12",
+     "name": "Paul Sirochman/Stephan Sirochman",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    },
+    {
+     "place": "12",
+     "name": "Herb Weichmann",
+     "fish": "0",
+     "weight": "",
+     "big_fish": "",
+     "penalty": "",
+     "total_weight": ""
+    }
+   ],
+   "summary": [
+    {
+     "label": "Total Teams",
+     "value": "19"
+    },
+    {
+     "label": "Total Fish Weight",
+     "value": "113.57"
+    },
+    {
+     "label": "Total Fish Weighed",
+     "value": "38"
+    },
+    {
+     "label": "Average #Fish/Team",
+     "value": "2"
+    },
+    {
+     "label": "Average Fish Wt",
+     "value": "2.99"
+    },
+    {
+     "label": "Average Weight/Team",
+     "value": "5.98"
+    }
+   ],
+   "notes": [],
+   "title": "11/14/2026-North East",
+   "dates": [
+    "2026-11-14"
+   ],
+   "waters": [
+    "North East"
+   ],
+   "cash_only": true,
+   "id": "2026-11-14",
+   "added": {
+    "date": "2026-11-20",
+    "before": "2026-10-03",
+    "from": "The club's Tournament Keeper report for 11/14/2026, North East (in the club's Drive). It is not on the old site's page.",
+    "why": "Added at Steve Weimar's word on 11/20/26: \"Maybe we should just go ahead and add the November 14th table now ourselves ... We can update later with Loren's if it is different.\" To be replaced if the table Loren posts differs.",
+    "how": "The rows were passed on by the session that read the report; the report itself was not read again when this file was written. Names are in the site's \"First Last/First Last\" form. The team count, fish and total weight are added up from the rows (19 teams, 38 fish, 113.57 lb) and agree with the report's totals as passed on. The averages are worked out here from those; the report's own \"average weight per team\" is not used.",
+    "shown": "Added on November 20, 2026 from the club's own tournament report; this Open was not on the old site. Cash prizes only, no season points."
+   }
+  },
   {
    "title_lines": [
     "CCBM",
@@ -4390,8 +4648,7 @@
     "June 13th",
     "September 12th",
     "October 3rd",
-    "November 14th (cash prizes only/no points)",
-    "( The main points Opens average 80 boats per tournament )"
+    "November 14th (cash prizes only/no points)"
    ]
   },
   {
@@ -4420,6 +4677,10 @@
   {
    "kind": "standings",
    "index": 0
+  },
+  {
+   "kind": "tournament",
+   "id": "2026-11-14"
   },
   {
    "kind": "tournament",

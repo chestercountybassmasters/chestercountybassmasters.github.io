@@ -5,6 +5,9 @@
   "page": "2025-open-results.html",
   "copied": "2026-11-20",
   "sha256": "f0266cc24be6bcda2b401cbcf88bd9ec639bf6b2a8bc0626b76d7dd13d5656a3",
+  "lines_left_out": [
+   "( The main points Opens average 80 boats per tournament )"
+  ],
   "rows": {
    "table_rows": 539,
    "tournament_rows": 415,
@@ -4331,8 +4334,7 @@
     "June 7th",
     "September 20th",
     "October 11th (cash prizes only/no points)",
-    "November 8th (cash prizes only/no points)",
-    "( The main points Opens average 80 boats per tournament )"
+    "November 8th (cash prizes only/no points)"
    ]
   },
   {

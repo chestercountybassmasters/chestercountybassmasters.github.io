@@ -142,6 +142,54 @@ def count_source(path):
     return out
 
 
+def check_addition(label, t):
+    """A tournament added to a season file by hand, because it was never on the old site. There is
+    no old page to count it against, so it must say where it came from, and its own totals must
+    add up: the summary lines against the rows."""
+    where = '%s %s (added by hand)' % (label, t.get('id'))
+    a = t['added']
+    for key in ('date', 'from', 'why', 'how', 'shown', 'before'):
+        if not a.get(key) and key != 'before':
+            fail('%s: its "added" note has no "%s"' % (where, key))
+    if not t.get('dates') or t['id'] != t['dates'][0] or not t.get('waters'):
+        fail('%s: needs dates, waters and an id that is its first date' % where)
+    roles = [c['role'] for c in t['columns']]
+    wkey = 'total_weight' if 'total_weight' in roles else 'weight'
+
+    def number(s):
+        try:
+            return float((s or '0').replace(',', '') or 0)
+        except ValueError:
+            return None
+    weights = [number(r.get(wkey)) for r in t['results']]
+    fish = [number(r.get('fish')) for r in t['results']]
+    if None in weights or None in fish:
+        fail('%s: a fish count or weight is not a number' % where)
+        return
+    in_order = [w for w in weights]
+    if in_order != sorted(in_order, reverse=True):
+        fail('%s: the rows are not in order of weight' % where)
+    names = [r.get('name', '') for r in t['results']]
+    if len(set(names)) != len(names) or not all(names):
+        fail('%s: a name is missing or appears twice' % where)
+    said = {p['label'].lower(): number(p['value']) for p in t['summary']}
+    n = len(t['results'])
+    expect = {'total teams': n, 'total participants': n, 'total fish weight': sum(weights),
+              'total fish weighed': sum(fish),
+              'average #fish/team': sum(fish) / n if n else 0, 'average #fish/participant': sum(fish) / n if n else 0,
+              'average fish wt': sum(weights) / sum(fish) if sum(fish) else 0,
+              'average weight/team': sum(weights) / n if n else 0, 'average weight/participant': sum(weights) / n if n else 0}
+    seen = 0
+    for key, value in said.items():
+        if key in expect:
+            seen += 1
+            if value is None or abs(value - expect[key]) > 0.006:
+                fail('%s: the summary says "%s" is %s, but the rows give %.2f' % (where, key, value, expect[key]))
+    if seen < 3:
+        fail('%s: its summary lines could not be checked against its rows' % where)
+    notes.append('%s: %d rows; its summary lines agree with its rows.' % (where, n))
+
+
 def check_source(use_source):
     files = sorted(glob.glob(os.path.join(ROOT, 'data', '*', '[0-9]*.json')))
     if not files:
@@ -167,7 +215,12 @@ def check_source(use_source):
         flow_ids = [x['id'] for x in d['flow'] if x['kind'] == 'tournament']
         if sorted(flow_ids) != sorted(ids):
             fail('%s: the page order (flow) and the tournaments list do not hold the same tournaments' % label)
+        added = [t for t in d['tournaments'] if t.get('added')]
+        for t in added:
+            check_addition(label, t)
         for t in d['tournaments']:
+            if t.get('added'):
+                continue
             c = t['source_rows']
             if c['results'] != len(t['results']):
                 fail('%s %s: %d result rows in the file, but its own count says %d' % (label, t['id'], len(t['results']), c['results']))
@@ -189,20 +242,28 @@ def check_source(use_source):
             if hashlib.sha256(fh.read()).hexdigest() != d['source']['sha256']:
                 fail('%s: the source page has changed since it was imported' % label)
         src = count_source(page)
+        for t in added:      # a declared addition must really be absent from the old page
+            us = '%d/%d/%s' % (int(t['id'][5:7]), int(t['id'][8:10]), t['id'][:4])
+            if any(us in title for title, _ in src):
+                fail('%s %s: declared as added by hand, but the old page holds a tournament of that date; '
+                     'the two must be reconciled' % (label, t['id']))
         real = sum(len(t) for t in source_tables(page))
         if real != a['table_rows']:
             fail('%s: the source page has %d table rows, the data accounts for %d' % (label, real, a['table_rows']))
-        if not d['tournaments'] and not src:
+        from_page = [t for t in d['tournaments'] if not t.get('added')]
+        if not from_page and not src:
             continue
         checked += 1
-        if len(src) != len(d['tournaments']):
-            fail('%s: %d tournaments on the source page, %d in data/' % (label, len(src), len(d['tournaments'])))
+        if len(src) != len(from_page):
+            fail('%s: %d tournaments on the source page, %d in data/ (not counting %d added by hand)'
+                 % (label, len(src), len(from_page), len(added)))
             continue
-        for (title, n), t in zip(src, d['tournaments']):
+        for (title, n), t in zip(src, from_page):
             if n != len(t['results']):
                 fail('%s, %s: %d result rows on the source page, %d in data/' % (label, title or t['id'], n, len(t['results'])))
-        n_src, n_data = sum(n for _, n in src), sum(len(t['results']) for t in d['tournaments'])
-        notes.append('%-10s %2d tournaments, %4d result rows: source and data agree' % (label, len(src), n_data)
+        n_src, n_data = sum(n for _, n in src), sum(len(t['results']) for t in from_page)
+        extra = '; plus %d added by hand (%s), not on the source page' % (len(added), ', '.join(t['id'] for t in added)) if added else ''
+        notes.append('%-10s %2d tournaments, %4d result rows: source and data agree%s' % (label, len(src), n_data, extra)
                      if n_src == n_data else '%-10s DIFFERS' % label)
     if source:
         notes.append('%d seasons parsed from tables were compared with their source pages.' % checked)

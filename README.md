@@ -168,6 +168,24 @@ club 2020 9/194, 2021 12/270, 2022 12/286, 2023 11/312, 2024 12/289, 2025 12/234
 2026 12/207; Opens 2021 5/388, 2022 6/393, 2024 6/349, 2025 7/333, 2026 5/303.
 `check.py` recounts the old pages with its own reader and compares.
 
+**Added by hand, not from the old site.** The November 14, 2026 cash Open is in
+`data/opens/2026.json` from the club's own Tournament Keeper report, added on
+20 November 2026 at Steve's word, to be replaced if the table Loren posts
+differs. Its `added` note in the file says where it came from. It is no part of
+the season standings. A tournament with an `added` note is treated differently in
+three places: the importer carries it over if the season is imported again;
+`check.py` does not look for it on the old page (and fails if the old page does
+hold a tournament of that date), and instead checks that its summary lines add up
+from its rows; and its card on the season page says where it came from. This is
+the pattern for adding a result before the scripts that will do it exist.
+
+**Left out of the old pages' words.** The line "( The main points Opens average
+80 boats per tournament )" on the 2025 and 2026 Opens pages: Steve decided on
+20 November 2026 not to state an average (the same pages' results do not bear it
+out). The season files list it under `source.lines_left_out`. Lines that give one
+past year's average ("2022 Opens averaged 80 boats", on the 2019 to 2024 pages)
+are left as the old site had them.
+
 What the importer keeps: names are shown as the old site wrote them, except that
 names in capitals are put in ordinary case (the original is kept in the data as
 `name_as_written`). A cell the importer could not name is kept with its row as a
@@ -234,8 +252,7 @@ Confirmed (a record or Steve said it), unless marked otherwise:
 - **Placeholders left in square brackets**, as in the design: photo captions,
   sponsor logos and "the rest of the list", 2027 club and Opens dates, the next
   meeting date, 2027 dues totals, 2027 Team Championship rules, how boat numbers
-  are given out, the 2026 prize list for 2027, the map of the off-limits line,
-  the November 14 cash Open result. Added here in the same way: "[Map of the
+  are given out, the 2026 prize list for 2027, the map of the off-limits line. Added here in the same way: "[Map of the
   ramps we use: to come]" (the design linked to a map; the old site has none).
 - **Missing from both copies of the old site:** the full-size versions of the 14
   pictures on the 2011 club page (the page-size versions are there and are shown),

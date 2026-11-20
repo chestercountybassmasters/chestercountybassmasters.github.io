@@ -562,7 +562,8 @@ class Site:
         body = put_block(body, 'opens_top10', rows_from(get_block(body, 'opens_top10'), self.opens_top(10, scores=True)))
         li = elements(get_block(body, 'opens_each'), 'li')[0]
         items = []
-        for t in d['tournaments']:
+        # the points Opens first, newest first as the season file has them; then any cash-only Open
+        for t in [x for x in d['tournaments'] if not x.get('cash_only')] + [x for x in d['tournaments'] if x.get('cash_only')]:
             w = winner(t)
             label = long_date(t['dates'][0], False) + (', cash Open' if t.get('cash_only') else '')
             a = re.search(r'<a\b[^>]*>', li).group(0)
@@ -769,6 +770,8 @@ class Site:
             body.append('<tr%s>%s</tr>' % (' class="first"' if i == 0 else '', ''.join(tds)))
         summary = ''.join('<li><strong>%s:</strong> %s</li>' % (esc(p['label']), esc(p['value'])) for p in t['summary'])
         notes = ''.join('<p class="notes">%s</p>' % esc(n) for n in t['notes'])
+        if t.get('added', {}).get('shown'):
+            notes += '<p class="notes">%s</p>' % esc(t['added']['shown'])
         name = ('Club Classic' if series == 'club' else 'Open') if (t.get('two_day') or t.get('classic')) else waters_text(t)
         if series == 'opens':
             name = 'Cash Open' if t.get('cash_only') else 'Open'
