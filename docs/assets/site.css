@@ -63,9 +63,9 @@ main p a { padding: 2px 0; }
    drops below the buttons, and the badge is smaller and sits mostly above the photo. */
 @media (max-width: 927px) {
   .hero { grid-template-columns: minmax(0, 1fr); grid-template-areas: "text" "buttons" "photo"; }
-  .hero-photo { margin: 88px 0 0 !important; }
+  .hero-photo { margin: 100px 0 0 !important; }
   .hero-photo figcaption { position: static; }
-  .hero-badge { top: -20px !important; width: 100px !important; }
+  .hero-badge { top: -26px !important; width: 110px !important; }
 }
 
 /* pages written by the build */
