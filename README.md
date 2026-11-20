@@ -32,6 +32,51 @@ fails, loudly, if the data differs from the old site's pages, if any link or
 picture address leads nowhere, or if a house rule is broken (see the top of
 `check.py`).
 
+## Publishing
+
+`.github/workflows/publish.yml` rebuilds the site on GitHub itself: on every push
+to `main`, and from the "Run workflow" button on the Actions tab. It checks out
+the repository, runs `python3 build.py`, runs `python3 check.py`, and only if both
+succeed hands the freshly built `docs/` to GitHub Pages and publishes it. One run
+at a time. If the build or a check fails, nothing is published and the site stays
+as it was; GitHub e-mails whoever made the change.
+
+So a change made on the GitHub website to a file in `content/` (or a photo added
+to `photos/`) goes live by itself, with no one running the build.
+
+**It needs one setting.** Repository Settings, Pages, "Build and deployment",
+Source: **GitHub Actions**. Until then the source is "Deploy from a branch"
+(`main`, `/docs`): the workflow's last step fails, and the site goes on being
+served from the `docs/` folder as committed.
+
+What the switch changes:
+
+- Before: the site is whatever `docs/` holds in the last push. Someone has to run
+  `build.py` and commit `docs/`, or the site does not change.
+- After: the site is what the workflow builds from `content/`, `templates/`,
+  `data/` and the rest. The `docs/` folder in the repository is no longer what is
+  served, and goes out of date the first time someone edits `content/` on the
+  GitHub website.
+
+**For Steve to decide after the switch:** should `docs/` stop being tracked in
+git? For: it would no longer be served, it would go stale and mislead, and it
+doubles every commit that touches a page. Against: with `docs/` tracked, switching
+the source back to "Deploy from a branch" is a one-click fallback if Actions ever
+gives trouble. It is tracked for now.
+
+GitHub's own machine has no access to the club's Drive, so there `check.py` cannot
+compare `data/` with the old site's pages. It prints a line starting `SKIPPED` for
+that one part and runs everything else: each season file against its own counts,
+every link and picture address (spelled letter for letter as the file is, since
+GitHub's servers tell capitals from small letters and a Mac does not), no address
+starting with `/`, `.nojekyll`, and contrast. The comparison with the old pages
+still runs on Steve's Mac, where it matters: when `data/` is changed by the
+importer. `python3 check.py --require-source` fails if the old pages are absent.
+
+The Pages upload leaves out files whose names start with a dot, so `.nojekyll` is
+not in what the workflow publishes; that is harmless, because a workflow publish
+does not run Jekyll (inferred from GitHub's documentation, not yet seen in a run).
+
 GitHub Pages runs Jekyll over what it serves unless the folder holds a file named
 `.nojekyll`, and Jekyll leaves out every file whose name starts with `_` (337 of
 the old pictures do). So `build.py` writes an empty `docs/.nojekyll` each time,
@@ -214,5 +259,5 @@ Confirmed (a record or Steve said it), unless marked otherwise:
 | `tools/compare_design.py` | Lists the words that differ between the built front pages and the design. |
 | `tools/records.py` | The records check. |
 
-`check.py --no-source` skips the comparison with the old pages, for a machine
-without the club's Drive.
+`check.py` skips the comparison with the old pages on a machine without the
+club's Drive and says so; see "Publishing" above.

@@ -1,0 +1,67 @@
+# Rebuild the site and put it on GitHub Pages, every time something changes on main.
+#
+# What it does:  check out the repository, run build.py, run check.py, and only if both
+#                succeed, publish the freshly built docs/ folder.
+# If a step fails, nothing is published: the site stays as it was, and GitHub e-mails
+#                whoever made the change.
+#
+# It needs:      repository Settings -> Pages -> "Build and deployment" -> Source set to
+#                "GitHub Actions". With the source set to "Deploy from a branch", the last
+#                step fails and the site goes on being served from the docs/ folder on main.
+#
+# Versions of the actions and the permissions were taken from each action's own README
+# on 20 November 2026: actions/checkout v7, actions/upload-pages-artifact v5,
+# actions/deploy-pages v5.
+
+name: Build and publish the site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:        # the "Run workflow" button on the Actions tab
+
+# One at a time. A run that is already publishing is left to finish; of the runs waiting
+# behind it, only the newest is kept.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Build and check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the repository
+        uses: actions/checkout@v7
+
+      - name: Which Python
+        run: python3 --version
+
+      - name: Build the site into docs/
+        run: python3 build.py
+
+      - name: Check the data and every link
+        run: python3 check.py
+
+      - name: Hand the built docs/ folder to Pages
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: docs
+
+  publish:
+    name: Publish
+    needs: build              # so a failed build or check publishes nothing
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write            # to publish to Pages
+      id-token: write         # so Pages can verify where the publish comes from
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

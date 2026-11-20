@@ -39,9 +39,17 @@ lines already there.
 
 ## Then what?
 
-The site has to be rebuilt before your change shows. [How that happens is not
-settled yet: for now, tell Steve, who runs the build.] If something looks wrong
-afterwards, tell Steve; every change is kept and can be undone.
+Nothing. The site rebuilds itself. A few minutes after you commit, your change is
+on the website; reload the page to see it.
+
+Before it goes live, the site is checked. If a check fails (a photo name that does
+not match a file in the `photos` folder is the usual cause), **nothing changes on
+the website**: it stays as it was. GitHub sends an e-mail to whoever made the
+change saying the run failed. Fix the line and commit again, or tell Steve.
+
+To see how a change is doing, click the **Actions** tab at the top of the
+repository: a yellow dot is still working, a green tick is live, a red cross
+failed. Every change is kept and can be undone.
 
 ## Please leave alone
 

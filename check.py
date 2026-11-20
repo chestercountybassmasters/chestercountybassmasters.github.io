@@ -1,9 +1,14 @@
 #!/usr/bin/env python3
 """Check the data and the built site. Exits with an error, loudly, if anything is wrong.
 
-    python3 check.py              everything
-    python3 check.py --no-source  skip the comparison with the old site's pages
-                                  (for a machine that does not have the club's Drive)
+    python3 check.py                   everything this machine can check
+    python3 check.py --require-source  fail if the old site's pages cannot be found
+    python3 check.py --no-source       skip the comparison with the old site's pages
+
+The old site's pages are in the club's Google Drive, not in this repository. On a
+machine without them (GitHub's own, when it rebuilds the site) part 1 below cannot
+compare with them: it says so in a line that starts "SKIPPED" and goes on. Every
+other check still runs there.
 
 1. Data against the source. For every season parsed from tables, the number of
    tournaments and the number of result rows in data/ must equal what the old
@@ -36,6 +41,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 DOCS = os.path.join(ROOT, 'docs')
 errors = []
 notes = []
+skipped = []
 
 
 def fail(msg):
@@ -143,9 +149,13 @@ def check_source(use_source):
         return
     source = find_source() if use_source else None
     if use_source and not source:
-        fail('The old site\'s pages were not found, so data/ could not be compared with them. '
-             'Set CCBM_WEEBLY_ARCHIVE to the weebly_archive folder, or run with --no-source to skip this part.')
-        return
+        if '--require-source' in sys.argv:
+            fail('The old site\'s pages were not found, so data/ could not be compared with them. '
+                 'Set CCBM_WEEBLY_ARCHIVE to the weebly_archive folder.')
+            return
+        skipped.append('SKIPPED: the comparison of data/ with the old site\'s pages. Those pages are in the '
+                       'club\'s Google Drive and are not on this machine. The season files were still checked '
+                       'against their own counts, and every other check ran.')
     checked = 0
     for f in files:
         with open(f, encoding='utf-8') as fh:
@@ -194,7 +204,10 @@ def check_source(use_source):
         n_src, n_data = sum(n for _, n in src), sum(len(t['results']) for t in d['tournaments'])
         notes.append('%-10s %2d tournaments, %4d result rows: source and data agree' % (label, len(src), n_data)
                      if n_src == n_data else '%-10s DIFFERS' % label)
-    notes.append('%d seasons parsed from tables were compared with their source pages.' % checked)
+    if source:
+        notes.append('%d seasons parsed from tables were compared with their source pages.' % checked)
+    else:
+        notes.append('%d season files checked against their own row counts.' % len(files))
 
 
 # ------------------------------------------------------------------ 2 and 3. links
@@ -220,6 +233,12 @@ def check_links():
                      'of a file that exists' % url)
     ids, links = {}, {}
     external = 0
+    # every file in docs/, spelled exactly as it is on disk. A Mac finds "Photo.JPG" when asked for
+    # "photo.jpg"; GitHub's servers do not, so a link must match the file name letter for letter.
+    on_disk = set()
+    for base, dirs, files_here in os.walk(DOCS):
+        for f in files_here:
+            on_disk.add(os.path.relpath(os.path.join(base, f), DOCS).replace(os.sep, '/'))
     for p in pages:
         name = os.path.basename(p)
         with open(p, encoding='utf-8') as f:
@@ -262,6 +281,10 @@ def check_links():
             target = name if path == '' else path
             if path and not os.path.isfile(os.path.join(DOCS, path)):
                 fail('%s: link to %s, which does not exist' % (name, path))
+                continue
+            if path and os.path.normpath(path).replace(os.sep, '/') not in on_disk:
+                fail('%s: link to %s, but the file\'s name is spelled with different capital letters; '
+                     'that works on a Mac and fails on GitHub' % (name, path))
                 continue
             links[name].append((target, frag))
     for name, ls in links.items():
@@ -345,7 +368,9 @@ def main():
     for n in notes:
         print(n)
     if '--no-source' in sys.argv:
-        print('NOTE: the comparison with the old site\'s pages was skipped (--no-source).')
+        print('SKIPPED: the comparison of data/ with the old site\'s pages (--no-source).')
+    for line in skipped:
+        print(line)
     if errors:
         print('\n' + '!' * 70)
         print('CHECK FAILED: %d problem%s' % (len(errors), '' if len(errors) == 1 else 's'))
