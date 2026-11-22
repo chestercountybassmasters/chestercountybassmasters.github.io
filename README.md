@@ -177,7 +177,7 @@ the season standings. A tournament with an `added` note is treated differently i
 three places: the importer carries it over if the season is imported again;
 `check.py` does not look for it on the old page (and fails if the old page does
 hold a tournament of that date), and instead checks that its summary lines add up
-from its rows; and its card on the season page says where it came from. This is
+from its rows. Where it came from is in its `added` note, not on the page. This is
 the pattern for adding a result before the scripts that will do it exist.
 
 **Left out of the old pages' words.** The line "( The main points Opens average
