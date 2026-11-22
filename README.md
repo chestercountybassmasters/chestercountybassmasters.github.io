@@ -168,10 +168,11 @@ club 2020 9/194, 2021 12/270, 2022 12/286, 2023 11/312, 2024 12/289, 2025 12/234
 2026 12/207; Opens 2021 5/388, 2022 6/393, 2024 6/349, 2025 7/333, 2026 5/303.
 `check.py` recounts the old pages with its own reader and compares.
 
-**Added by hand, not from the old site.** The November 14, 2026 cash Open is in
+**Added by hand, not from the old site's season page.** The November 14, 2026 cash Open is in
 `data/opens/2026.json` from the club's own Tournament Keeper report, added on
-20 November 2026 at Steve's word, to be replaced if the table Loren posts
-differs. Its `added` note in the file says where it came from. It is no part of
+20 November 2026 at Steve's word. The old site does hold this result, on its
+main Opens page rather than the 2026 season page the import reads; the two
+tables were compared on 21 November 2026 and agree. Its `added` note in the file says where it came from. It is no part of
 the season standings. A tournament with an `added` note is treated differently in
 three places: the importer carries it over if the season is imported again;
 `check.py` does not look for it on the old page (and fails if the old page does

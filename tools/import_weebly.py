@@ -680,8 +680,8 @@ def import_records(source):
 
 
 def keep_additions(season, path):
-    """A tournament added to a season file by hand (it has an "added" note, because it was never
-    on the old site) is carried over when the season is imported again, in the place it had."""
+    """A tournament added to a season file by hand (it has an "added" note, because it is not on
+    the old site's season page) is carried over when the season is imported again, in the place it had."""
     if not os.path.isfile(path):
         return
     with open(path, encoding='utf-8') as f:

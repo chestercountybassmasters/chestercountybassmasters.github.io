@@ -274,10 +274,9 @@
    "added": {
     "date": "2026-11-20",
     "before": "2026-10-03",
-    "from": "The club's Tournament Keeper report for 11/14/2026, North East (in the club's Drive). It is not on the old site's page.",
-    "why": "Added at Steve Weimar's word on 11/20/26: \"Maybe we should just go ahead and add the November 14th table now ourselves ... We can update later with Loren's if it is different.\" To be replaced if the table Loren posts differs.",
+    "from": "The club's Tournament Keeper report for 11/14/2026, North East (in the club's Drive). It is not on the old site's 2026 season page, which the import reads; it is on the old site's main Opens page (open-tournaments--results.html), found on 11/21/26, and that table agrees with this one in every place, team, fish count and weight.",
+    "why": "Added at Steve Weimar's word on 11/20/26: \"Maybe we should just go ahead and add the November 14th table now ourselves ... We can update later with Loren's if it is different.\" Compared on 11/21/26 with the table on the old site's main Opens page: no difference but the capitalisation of two names, so nothing was replaced.",
     "how": "The rows were passed on by the session that read the report; the report itself was not read again when this file was written. Names are in the site's \"First Last/First Last\" form. The team count, fish and total weight are added up from the rows (19 teams, 38 fish, 113.57 lb) and agree with the report's totals as passed on. The averages are worked out here from those; the report's own \"average weight per team\" is not used.",
-    "shown": "Added on November 20, 2026 from the club's own tournament report; this Open was not on the old site. Cash prizes only, no season points.",
     "lunker": "Named by Steve Weimar on 11/20/26: \"Piccolo had the lunker\". The Tournament Keeper report shows only the big-fish weight, 7.90, in the Jay Davoli/Mike Piccolo row."
    }
   },

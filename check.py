@@ -143,12 +143,12 @@ def count_source(path):
 
 
 def check_addition(label, t):
-    """A tournament added to a season file by hand, because it was never on the old site. There is
-    no old page to count it against, so it must say where it came from, and its own totals must
+    """A tournament added to a season file by hand, because it is not on the old site's season
+    page. There is no old page to count it against, so it must say where it came from, and its own totals must
     add up: the summary lines against the rows."""
     where = '%s %s (added by hand)' % (label, t.get('id'))
     a = t['added']
-    for key in ('date', 'from', 'why', 'how', 'shown', 'before'):
+    for key in ('date', 'from', 'why', 'how', 'before'):
         if not a.get(key) and key != 'before':
             fail('%s: its "added" note has no "%s"' % (where, key))
     if not t.get('dates') or t['id'] != t['dates'][0] or not t.get('waters'):
