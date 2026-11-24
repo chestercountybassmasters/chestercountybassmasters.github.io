@@ -250,11 +250,21 @@ Confirmed (a record or Steve said it), unless marked otherwise:
   match `content/officers.md` (Eli Amilani, Stan Horne, Sam Montalto), at Steve's
   word; the boats have not been checked. Greg Arrowood, the Vice President, has
   no photo in the gallery.
-- **Placeholders left in square brackets**, as in the design: photo captions,
-  sponsor logos and "the rest of the list", 2027 club and Opens dates, the next
-  meeting date, 2027 dues totals, 2027 Team Championship rules, how boat numbers
-  are given out, the 2026 prize list for 2027, the map of the off-limits line. Added here in the same way: "[Map of the
-  ramps we use: to come]" (the design linked to a map; the old site has none).
+- **Still to be supplied** (24 November 2026). The design left sixteen notes in
+  square brackets on the front pages. They were taken off the pages that day,
+  before the club's domain was pointed here, so that no visitor sees a note
+  meant for us. What each one stood for is still wanted:
+  - 2027 club dates and ramps, and 2027 Opens dates (`content/schedule.md`; the
+    pages say they will be posted when the club sets them)
+  - the next meeting date (`content/meeting.md`, the `next:` line, empty for now)
+  - captions for the Opens photos on the home and Opens pages and for the
+    members photos on the club page (`content/photo-captions.md`, empty for now)
+  - sponsor logos, and any sponsors missing from the list (`content/sponsors.md`)
+  - the 2027 rules for qualifying for the Team Championship, how boat numbers
+    are given out, and the 2027 prize list (the Opens page says "Prizes as of
+    2026")
+  - a map of the off-limits line and a map of the ramps (the design linked to
+    a map; the old site has none)
 - **Missing from both copies of the old site:** the full-size versions of the 14
   pictures on the 2011 club page (the page-size versions are there and are shown),
   and one picture on the 2013 club page.

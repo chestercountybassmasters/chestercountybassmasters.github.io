@@ -34,7 +34,7 @@ shows: A grinning selfie at the ramp
 
 ## home-opens
 Home page, the one caption under the three Opens photos.
-caption: [Captions: which Open, and who]
+caption:
 
 ## home-club-1
 Home page, the club part, the wide photo.
@@ -53,13 +53,13 @@ shows: Club members together on a dock under a blue sky
 
 ## home-club
 Home page, the one caption under the three club photos.
-caption: The club at the Nanticoke, April 2023. [Other captions to come]
+caption: The club at the Nanticoke, April 2023.
 
 ## opens-top
 The Opens page, the photo at the top.
 photo: open-winners.jpg
 shows: An Open team with their catch behind the sponsor banner
-caption: [Caption: which Open, and who]
+caption:
 
 ## opens-strip-1
 The Opens page, row of three photos, left.
@@ -99,4 +99,4 @@ shows: Three anglers holding up bass at a weigh-in
 
 ## club-members
 The club page, the one caption under the three members photos.
-caption: [Captions to come.]
+caption:

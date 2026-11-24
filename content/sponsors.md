@@ -19,4 +19,3 @@ A web address after a bar ( | ) makes the name a link. Leave it off if there is 
 - Nichols Lures | https://nicholslures.com/
 - Harmony Fishing Tackle | https://www.harmonyfishing.com/
 - Venom Lures | https://www.venomlures.com/
-- [and the rest of the list]

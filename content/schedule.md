@@ -17,7 +17,7 @@ for 2027 below) and it shows as it is.
 The link to each result is added by itself when the result is in the data.
 
 ## Club 2027
-[2027 dates and ramps: to be posted when the club sets them]
+The 2027 dates and ramps will be posted here when the club sets them.
 
 ## Club 2026
 Apr 11 | North East River | Anchor Marina, North East, MD
@@ -37,5 +37,5 @@ Nov 7 | Classic, day 1: Nanticoke River | Seaford Ramp, Seaford, DE
 Nov 8 | Classic, day 2: North East River | Anchor Marina, North East, MD
 
 ## Opens 2027
-[2027 dates: to be posted when the club sets them]
-short: [to be posted]
+The 2027 dates will be posted here when the club sets them.
+short: to be posted
