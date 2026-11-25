@@ -87,18 +87,32 @@ def load_pairs(path):
     return out
 
 
+def notice_html(section):
+    """A season's "notice:" line as a tinted block; its first sentence is shown in bold."""
+    text = section.get('notice', '')
+    if not text:
+        return ''
+    head, sep, rest = text.partition('. ')
+    head = head + ('.' if sep else '')
+    return ('<span style="display: block; margin-top: 10px; padding: 10px 12px; background: #FFF6E3; '
+            'border-radius: 8px; font-size: 15px; color: #13202E"><strong>%s</strong>%s</span>'
+            % (esc(head), (' ' + esc(rest)) if rest else ''))
+
+
 def load_schedule():
-    """{'Club 2026': {'rows': [...], 'text': [...], 'short': ''}, ...} in file order."""
+    """{'Club 2026': {'rows': [...], 'text': [...], 'short': '', 'notice': ''}, ...} in file order."""
     out, cur = {}, None
     for line in read('content/schedule.md').splitlines():
         m = re.match(r'^##\s+(.+?)\s*$', line)
         if m:
-            cur = out.setdefault(m.group(1), {'rows': [], 'text': [], 'short': ''})
+            cur = out.setdefault(m.group(1), {'rows': [], 'text': [], 'short': '', 'notice': ''})
             continue
         if cur is None or not line.strip() or line.startswith(' '):
             continue
         if line.startswith('short:'):
             cur['short'] = line[6:].strip()
+        elif line.startswith('notice:'):
+            cur['notice'] = line[7:].strip()
         elif '|' in line:
             p = [x.strip() for x in line.split('|')]
             water, note = p[1], ''
@@ -381,18 +395,25 @@ class Site:
         body = body.replace('{{schedule.next_year}}', esc(nxt_key.split()[-1]))
         body = body.replace('{{schedule.year}}', esc(self.current_schedule()[0].split()[-1]))
         if '{{schedule.next}}' in body:
-            if nxt['rows']:
-                words = '%d tournaments, from %s to %s. The dates and ramps are on the schedule page.' % (
-                    len(nxt['rows']), nxt['rows'][0]['date'], nxt['rows'][-1]['date'])
-            else:
-                words = ' '.join(nxt['text'])
-            body = body.replace('{{schedule.next}}', esc(words))
+            body = body.replace('{{schedule.next}}', self.next_words(nxt, ' The dates and ramps are on the schedule page.'))
         okey, onext = self.next_schedule('Opens')
+        onotice = notice_html(onext)
         body = body.replace('{{schedule.opens_next_year}}', esc(okey.split()[-1]))
-        body = body.replace('{{schedule.opens_next}}', esc(' '.join(onext['text']) or ', '.join(r['date'] for r in onext['rows'])))
+        body = body.replace('{{schedule.opens_next}}', esc(' '.join(onext['text']) or ', '.join(r['date'] for r in onext['rows']))
+                            + onotice)
         body = body.replace('{{schedule.opens_next_short}}', esc(onext['short'] or ' '.join(onext['text'])
-                                                                 or ', '.join(r['date'] for r in onext['rows'])))
+                                                                 or ', '.join(r['date'] for r in onext['rows'])) + onotice)
         return body
+
+    def next_words(self, nxt, where):
+        """The sentence about next season's club dates, with the season's notice (if any) under it."""
+        if nxt['rows']:
+            # the two-day Classic is one tournament on two lines
+            n = len([r for r in nxt['rows'] if not r['water'].lower().startswith('classic, day 2')])
+            words = '%d tournaments, from %s to %s.%s' % (n, nxt['rows'][0]['date'], nxt['rows'][-1]['date'], where)
+        else:
+            words = ' '.join(nxt['text'])
+        return esc(words) + notice_html(nxt)
 
     def next_schedule(self, kind):
         keys = [k for k in self.schedule if k.startswith(kind + ' ')]
@@ -589,6 +610,7 @@ class Site:
 
     def schedule_page(self):
         title, body = self.template('schedule')
+        body = body.replace('{{schedule.next}}', self.next_words(self.next_schedule('Club')[1], ''))
         body = self.common(body)
         key, cur = self.current_schedule()
         year = int(key.split()[-1])

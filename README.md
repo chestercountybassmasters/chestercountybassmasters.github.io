@@ -254,8 +254,13 @@ Confirmed (a record or Steve said it), unless marked otherwise:
   square brackets on the front pages. They were taken off the pages that day,
   before the club's domain was pointed here, so that no visitor sees a note
   meant for us. What each one stood for is still wanted:
-  - 2027 club dates and ramps, and 2027 Opens dates (`content/schedule.md`; the
-    pages say they will be posted when the club sets them)
+  - RESOLVED 24 November 2026: 2027 club dates and ramps, and 2027 Opens dates
+    (`content/schedule.md`). Steve gave the dates that day, after applying
+    for the permits. Each season carries a "notice:" line, "Pending
+    permits", shown in a tinted box with the dates; take the line out when
+    Maryland and Delaware have issued the permits. The ramps for the
+    Marshyhope, Conowingo and Seaford are written as in 2026 (inferred);
+    Martinak State Park for the Choptank is from Steve.
   - the next meeting date (`content/meeting.md`, the `next:` line, empty for now)
   - captions for the Opens photos on the home and Opens pages and for the
     members photos on the club page (`content/photo-captions.md`, empty for now)
